@@ -1,0 +1,414 @@
+{
+  "Abu Dhabi TV": {
+    "names": ["AR: Abu Dhabi TV HD", "AR: Abu Dhabi TV 4K ◉"],
+    "ids": ["AbuDhabi.ae"]
+  },
+  "Al Aoula Morocco": {
+    "names": ["AR: Al Aoula Inter SD", "AR: Al Aoula Inter ᴿᴬᵂ ◉"],
+    "ids": ["AlAoula.ma"]
+  },
+  "Al Dafrah": {
+    "names": ["AR: Dafrah 4K"],
+    "ids": []
+  },
+  "Al Jadeed TV": {
+    "names": ["AR: AL Jadeed HD", "AR: AL Jadeed 4K ◉"],
+    "ids": []
+  },
+  "Al Kahera Wal Nas TV": {
+    "names": ["AR: Al Kahera Wa Alnas"],
+    "ids": []
+  },
+  "Al Kahera Wal Nas TV 2": {
+    "names": ["AR: Al Kahera Wa Alnas Plus 2"],
+    "ids": ["AlKaheraWalNas.eg"]
+  },
+  "Al Nahar Drama": {
+    "names": ["AR: Al Nahar Drama"],
+    "ids": ["AlNaharDrama.eg"]
+  },
+  "Al Nahar TV": {
+    "names": ["AR: Al Nahar One"],
+    "ids": ["AlNaharOne.eg"]
+  },
+  "Alaraby TV 2": {
+    "names": ["AR: Al Araby 2 4K"],
+    "ids": []
+  },
+  "Alhayat TV": {
+    "names": ["AR: Al Hayat 4K", "AR: Al Hayat", "AR: Hayat TV"],
+    "ids": ["AlHayat.eg"]
+  },
+  "AlSaeedah": {
+    "names": ["AR: Yemen Al Saeedah"],
+    "ids": []
+  },
+  "Althania": {
+    "names": ["AR: Al Thanya 2"],
+    "ids": []
+  },
+  "Amman": {
+    "names": ["AR: Amman TV HD", "AR: Jordan Aman TV"],
+    "ids": []
+  },
+  "beIN Drama": {
+    "names": ["AR: beIN DRAMA HD"],
+    "ids": ["Drama.qa"]
+  },
+  "BEIN MOVIES ACTION": {
+    "names": ["AR: beIN FOX MOVIES ACTION HD"],
+    "ids": ["FOXMoviesAction.qa"]
+  },
+  "BEIN MOVIES DRAMA": {
+    "names": ["AR: beIN MOVIES 3 HD"],
+    "ids": ["beINMovies3.qa"]
+  },
+  "BEIN MOVIES FAMILY": {
+    "names": ["AR: beIN MOVIES 4 HD"],
+    "ids": ["beINMovies4.qa"]
+  },
+  "BEIN MOVIES PREMIERE": {
+    "names": ["AR: beIN MOVIES 1 HD"],
+    "ids": ["beINMovies1.qa"]
+  },
+  "BeIn Series HD 1": {
+    "names": ["AR: beIN SERIES 1 HD"],
+    "ids": ["beINSeries1.qa"]
+  },
+  "BeIn Series HD 2": {
+    "names": ["AR: beIN SERIES 2 HD"],
+    "ids": ["beINSeries2.qa"]
+  },
+  "CBC": {
+    "names": ["AR: CBC"],
+    "ids": ["CBC.eg"]
+  },
+  "CBC Drama": {
+    "names": ["AR: CBC Drama"],
+    "ids": ["CBCDrama.eg"]
+  },
+  "Cima": {
+    "names": ["AR: Cima"],
+    "ids": []
+  },
+  "DMC": {
+    "names": ["AR: DMC TV 4K", "AR: DMC TV HD"],
+    "ids": []
+  },
+  "DMC DRAMA": {
+    "names": ["AR: DMC Drama TV"],
+    "ids": []
+  },
+  "Dubai One": {
+    "names": ["AR: Dubai One 4K"],
+    "ids": ["DubaiOneEn.ae"]
+  },
+  "Dubai TV": {
+    "names": ["AR: Dubai TV HD", "AR: Dubai TV 4K ◉"],
+    "ids": ["DubaiTV.ae"]
+  },
+  "Echorouk TV": {
+    "names": ["AR: Echourouk TV 4K", "AR: Echourouk TV HD"],
+    "ids": []
+  },
+  "Egyptian TV": {
+    "names": ["AR: Egyptian TV 4K", "AR: Al Masryia Air TV"],
+    "ids": []
+  },
+  "Emirates": {
+    "names": ["AR: Al Emarat TV HD", "AR: Al Emarat TV 4K ◉", "STC: AL EMARAT ᴴᴰ", "STC: AL EMARAT ʰᵉᵛᶜ"],
+    "ids": ["AlEmarat.ae"]
+  },
+  "Fujairah": {
+    "names": ["AR: Fujairah TV 4K", "AR: Fujairah TV HD"],
+    "ids": []
+  },
+  "Hadhramaut TV": {
+    "names": ["AR: Yemen Hadramout TV"],
+    "ids": []
+  },
+  "iFILM TV": {
+    "names": ["AR: iFilm Arabic"],
+    "ids": []
+  },
+  "Jordan TV": {
+    "names": ["AR: Jordan TV 4K"],
+    "ids": ["JordanTV.jo"]
+  },
+  "LBC": {
+    "names": ["AR: LBC HD", "AR: LBC 4K ◉"],
+    "ids": ["LBC.lb"]
+  },
+  "LBCI": {
+    "names": ["AR: LBC International 4K ◉"],
+    "ids": ["LBCInternational.lb"]
+  },
+  "LDC": {
+    "names": ["AR: LDC Lebanon 4K ◉"],
+    "ids": ["LDC.lb"]
+  },
+  "LTV": {
+    "names": ["STC: LTV ᴴᴰ", "STC: LTV ʰᵉᵛᶜ"],
+    "ids": []
+  },
+  "Maspero Zaman": {
+    "names": ["AR: Maspero Zaman"],
+    "ids": []
+  },
+  "MBC": {
+    "names": ["AR: MBC 1 HD", "AR: MBC 1 4K ◉", "AR: MBC 1 ◉"],
+    "ids": ["MBC1.ae"]
+  },
+  "MBC 2": {
+    "names": ["AR: MBC 2", "AR: MBC 2 HD ◉", "AR: MBC 2 4K"],
+    "ids": ["MBC2.ae", "MBC2En.ae"]
+  },
+  "MBC 3": {
+    "names": ["AR: MBC 3", "AR: MBC 3 HD", "AR: MBC 3 4K ◉"],
+    "ids": ["MBC3.ae", "MBC3Ar.ae", "MBC3En.ae"]
+  },
+  "MBC 4": {
+    "names": ["AR: MBC 4", "AR: MBC 4 HD", "AR: MBC 4 4K ◉"],
+    "ids": ["MBC4.sa"]
+  },
+  "MBC 5": {
+    "names": ["AR: MBC 5", "AR: MBC 5 HD", "AR: MBC 5 4K ◉", "AR: MBC 5 ᴿᴬᵂ"],
+    "ids": ["MBC5.ae"]
+  },
+  "MBC Action": {
+    "names": ["AR: MBC Action", "AR: MBC ACTION 4K ◉"],
+    "ids": ["MBCActionEn.sa"]
+  },
+  "MBC Bollywood": {
+    "names": ["AR: MBC Bollywood", "AR: MBC Bollywood HD", "AR: MBC Bollywood 4K ◉"],
+    "ids": ["MBCBollywood.sa", "MBCBollywoodEn.sa"]
+  },
+  "MBC Drama": {
+    "names": ["AR: MBC Drama", "AR: MBC Drama HD", "AR: MBC DRAMA 4K ◉"],
+    "ids": ["MBCDrama.ae", "MBCDramaAr.ae", "MBCDramaEn.ae"]
+  },
+  "MBC Drama +": {
+    "names": ["AR: MBC Drama+ 4K ◉"],
+    "ids": ["MBCDramaPlus.ae"]
+  },
+  "MBC Egypt": {
+    "names": ["AR: MBC Maser HD", "AR: MBC MASER 4K ◉"],
+    "ids": ["MBCEgyptAr.eg"]
+  },
+  "MBC Iraq": {
+    "names": ["AR: MBC IRAQ", "AR: MBC IRAQ HD", "AR: MBC IRAQ 4K ◉"],
+    "ids": ["MBCIraq.iq", "MBCIraqEn.iq"]
+  },
+  "MBC MASR 2": {
+    "names": ["AR: MBC MASER 2", "AR: MBC Maser 2 HD", "AR: MBC MASER 2 4K ◉"],
+    "ids": ["MbcMasr2.eg", "MBCMasr2En.eg"]
+  },
+  "MBC Masr Drama": {
+    "names": ["AR: MBC MASR DRAMA ᴿᴬᵂ"],
+    "ids": []
+  },
+  "MBC MAX": {
+    "names": ["AR: MBC MAX", "AR: MBC MAX 4K ◉", "AR: MBC MAX ᴿᴬᵂ"],
+    "ids": ["MBCMaxEn.ae"]
+  },
+  "Mehwar": {
+    "names": ["AR: Al Mehwer"],
+    "ids": []
+  },
+  "Mix Bel Araby": {
+    "names": ["AR: Mix Bel Araby"],
+    "ids": []
+  },
+  "Mix ONE": {
+    "names": ["AR: Mix One"],
+    "ids": []
+  },
+  "MTV": {
+    "names": ["AR: MTV Lebanon HD", "AR: MTV Lebanon 4K ◉"],
+    "ids": ["MTVLebanon.lb"]
+  },
+  "National Geographic": {
+    "names": ["AR: Abu Dhabi Natioanl Geo HD", "AR: Abu Dhabi Natioanl Geo 4K"],
+    "ids": ["NationalGeographicAbuDhabi.ae"]
+  },
+  "Nessma": {
+    "names": ["AR: Nessma Ejdida"],
+    "ids": []
+  },
+  "Network Arabic": {
+    "names": ["AR: CN Arabic Cartoon Arabic"],
+    "ids": ["CartoonNetworkAr.qa"]
+  },
+  "Nile Drama": {
+    "names": ["AR: Nile Drama"],
+    "ids": ["NileDrama.eg"]
+  },
+  "Nile Life": {
+    "names": ["AR: Nile Live"],
+    "ids": ["NileLife.eg"]
+  },
+  "Oman": {
+    "names": ["AR: Oman TV 4K"],
+    "ids": ["OmanTV.sa"]
+  },
+  "ON Drama": {
+    "names": ["AR: ON Drama"],
+    "ids": []
+  },
+  "ON E": {
+    "names": ["AR: ON E 4K", "AR: ON E HD"],
+    "ids": []
+  },
+  "One Drama": {
+    "names": ["AR: ONE Drama"],
+    "ids": []
+  },
+  "One Movies": {
+    "names": ["AR: One Movies"],
+    "ids": []
+  },
+  "OSN TV Comedy": {
+    "names": ["OSN: COMEDY ᶠ ᴴᴰ", "OSN: COMDEY ᴿᴬᵂ", "BE: OSN COMDEY ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Crime": {
+    "names": ["OSN: CRIME ᴿᴬᵂ", "OSN: CRIME ᶠ ᴴᴰ", "BE: OSN CRIME ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Kids": {
+    "names": ["OSN: KIDS ᴿᴬᵂ", "OSN: KIDS ᶠ ᴴᴰ", "BE: OSN KIDS ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Movies Action": {
+    "names": ["OSN: MOVIES ACTION ᴿᴬᵂ", "BE: OSN MOVIES ACTION ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Movies Comedy": {
+    "names": [],
+    "ids": []
+  },
+  "OSN TV Movies Family": {
+    "names": ["OSN: MOVIES FAMILY ᴿᴬᵂ", "BE: OSN MOVIES  FAMILY ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Movies Hollywood": {
+    "names": ["OSN: MOVIES HOLLYWOOD ᶠ ᴴᴰ", "OSN: MOVIES HOLLOWAY ᴿᴬᵂ", "BE: OSN MOVIES HOLLOWAY ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Movies Premiere": {
+    "names": ["OSN: MOVIES PREMIERE ᴿᴬᵂ", "OSN: MOVIES PREMIERE ᶠ ᴴᴰ", "BE: OSN MOVIES PREMIERE ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Now": {
+    "names": ["OSN: NOW ᴿᴬᵂ", "OSN: NOW ᶠ ᴴᴰ", "BE: OSN NOW ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV One": {
+    "names": ["OSN: ONE ᴿᴬᵂ", "OSN: TV ONE ᶠ ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Showcase": {
+    "names": ["OSN: SHOWCASE ᴿᴬᵂ", "OSN: SHOWCASE ᶠ ᴴᴰ", "BE: OSN SHOWCASE ᴴᴰ"],
+    "ids": []
+  },
+  "OSN TV Yahala Bil Arabi": {
+    "names": ["OSN: YAHALA BIL ARABI ᴿᴬᵂ", "OSN: YAHALA BIL ARABI ᶠ ᴴᴰ", "BE: OSN YAHALA BIL ARABI ᴴᴰ"],
+    "ids": []
+  },
+  "OSN Ya Hala": {
+    "names": ["OSN: YAHALA ᴿᴬᵂ", "OSN: YAHALA ᶠ ᴴᴰ"],
+    "ids": []
+  },
+  "Osn Ya Hala Aflam": {
+    "names": ["OSN: YAHALA AFLAM ᴿᴬᵂ", "OSN: YAHALA AFLAM ᶠ ᴴᴰ", "BE: OSN YAHALA AFLAM ᴴᴰ"],
+    "ids": []
+  },
+  "Rotana Cinema": {
+    "names": ["AR: Rotana Cinema Egypt", "AR: Rotana Cinema Egypt  HD", "AR: Rotana Cinema Egypt  4K ◉"],
+    "ids": ["RotanaCinema.eg"]
+  },
+  "Rotana Classic": {
+    "names": ["AR: Rotana Classic HD", "AR: Rotana Classic 4K ◉"],
+    "ids": ["RotanaClassic.eg"]
+  },
+  "Rotana Comedy": {
+    "names": ["AR: Rotana Comedy HD", "AR: Rotana Comedy 4K ◉"],
+    "ids": ["RotanaAflam.eg"]
+  },
+  "Rotana Drama": {
+    "names": ["AR: Rotana Drama", "AR: Rotana Drama HD", "AR: Rotana Drama 4K ◉"],
+    "ids": []
+  },
+  "Rotana Khalejia": {
+    "names": ["AR: Rotana Khalijeah HD", "AR: Rotana Khalijeah 4K ◉"],
+    "ids": ["RotanaKhalijiah.eg"]
+  },
+  "Roya": {
+    "names": ["AR: Roya TV 4K", "AR: Roya TV HD"],
+    "ids": ["AlRoyaTV.jo"]
+  },
+  "Sada El Balad": {
+    "names": ["AR: Sada Al Balad"],
+    "ids": []
+  },
+  "Sada El Balad 2": {
+    "names": ["AR: Sada Al Bald Plus"],
+    "ids": []
+  },
+  "Sada El Balad Drama": {
+    "names": ["AR: Sada Al Balad Drama"],
+    "ids": []
+  },
+  "Sama Dubai": {
+    "names": ["AR: Sama Dubai HD", "AR: Sama Dubai 4K"],
+    "ids": ["SamaDubai.ae"]
+  },
+  "Saudiya TV": {
+    "names": ["AR: Saudia TV 1 HD", "AR: Saudia TV 1 4K", "STC: SAUDI 1 ᴴᴰ", "STC: SAUDI 1 ʰᵉᵛᶜ"],
+    "ids": ["Saudi1.sa"]
+  },
+  "SBC": {
+    "names": ["AR: Saudia SBC", "AR: Saudia SBC HD", "AR: Saudia SBC 4K"],
+    "ids": []
+  },
+  "Sharjah TV": {
+    "names": ["AR: Sharjah 4K", "AR: Sharjah HD"],
+    "ids": []
+  },
+  "Star Action": {
+    "names": ["AR: BEIN STAR ACTION ᶠ ᴴᴰ", "BE: beIN STAR ACTION ᴴᴰ", "STC: STAR ACTION ᴴᴰ", "STC: STAR ACTION ʰᵉᵛᶜ"],
+    "ids": ["staraction.qa"]
+  },
+  "Star Movies": {
+    "names": ["AR: beIN STAR MOVIES HD"],
+    "ids": ["StarMovies.sa"]
+  },
+  "Star World": {
+    "names": ["AR: beIN STAR WORLD HD"],
+    "ids": ["StarWorld.sa"]
+  },
+  "TeN TV": {
+    "names": ["AR: Ten TV"],
+    "ids": []
+  },
+  "Thikrayat Tv": {
+    "names": ["AR: Saudia Thekrayat TV", "AR: Saudia Thekrayat TV HD", "AR: Saudia Thekrayat TV 4K"],
+    "ids": []
+  },
+  "Watania 2": {
+    "names": ["AR: Tunisia National 2 ◉"],
+    "ids": ["Tunisia2.tn"]
+  },
+  "Watania1": {
+    "names": ["AR: Tunisia National 1 4K", "AR: Tunisia 1 4K"],
+    "ids": ["Tunisia1.tn"]
+  },
+  "WTV": {
+    "names": ["AR: Libya WTV 4K"],
+    "ids": []
+  },
+  "Zee alwan": {
+    "names": ["AR: Zee Alwan"],
+    "ids": []
+  }
+}
