@@ -29,8 +29,9 @@ atomically replaces the XML. If fetching or validation fails, the previous guide
 is preserved. GitHub Actions is scheduled approximately every three hours and
 commits only a validated change. Refreshing the Arabic EPG in an IPTV application
 downloads the latest available committed guide from the same raw URL; no URL
-change is required. GitHub scheduling, its raw-file cache, or the IPTV player's
-own cache can add a short delay.
+change is required. The automation runs entirely on GitHub's servers and does
+not require a personal computer to remain powered on. GitHub scheduling, its
+raw-file cache, or the IPTV player's own cache can add a short delay.
 
 The current source normally exposes about four days of listings. Website times
 are preserved as `Asia/Dubai` wall-clock times (`+0400`) so IPTV applications in

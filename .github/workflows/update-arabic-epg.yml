@@ -1,6 +1,15 @@
 name: Update Arabic EPG
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - ".github/workflows/update-arabic-epg.yml"
+      - "channel_aliases.json"
+      - "epg_generator.py"
+      - "requirements-test.txt"
+      - "tests/**"
+      - "update_epg.py"
   schedule:
     # Refresh the committed XML approximately every three hours while avoiding
     # the busy top of the hour. GitHub may delay scheduled jobs occasionally.
