@@ -4,6 +4,7 @@
     <display-name lang="en">Abu Dhabi TV</display-name>
     <display-name lang="en">AR: Abu Dhabi TV HD</display-name>
     <display-name lang="en">AR: Abu Dhabi TV 4K ◉</display-name>
+    <display-name lang="en">AR| ABU DHABI TV HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1136_1.png" />
     <url>https://elcinema.com/en/tvguide/1136/</url>
   </channel>
@@ -11,6 +12,7 @@
     <display-name lang="en">Abu Dhabi TV</display-name>
     <display-name lang="en">AR: Abu Dhabi TV HD</display-name>
     <display-name lang="en">AR: Abu Dhabi TV 4K ◉</display-name>
+    <display-name lang="en">AR| ABU DHABI TV HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1136_1.png" />
     <url>https://elcinema.com/en/tvguide/1136/</url>
   </channel>
@@ -18,12 +20,16 @@
     <display-name lang="en">Al Aoula Morocco</display-name>
     <display-name lang="en">AR: Al Aoula Inter SD</display-name>
     <display-name lang="en">AR: Al Aoula Inter ᴿᴬᵂ ◉</display-name>
+    <display-name lang="en">AR| Al AOULA INTER FHD</display-name>
+    <display-name lang="en">AR| Al AOULA INTER HD</display-name>
+    <display-name lang="en">AR| Al AOULA INTER SD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1312_1.png" />
     <url>https://elcinema.com/en/tvguide/1312/</url>
   </channel>
   <channel id="Al Dafrah">
     <display-name lang="en">Al Dafrah</display-name>
     <display-name lang="en">AR: Dafrah 4K</display-name>
+    <display-name lang="en">AR| DAFRAH HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1264_1.png" />
     <url>https://elcinema.com/en/tvguide/1264/</url>
   </channel>
@@ -31,35 +37,44 @@
     <display-name lang="en">Al Jadeed TV</display-name>
     <display-name lang="en">AR: AL Jadeed HD</display-name>
     <display-name lang="en">AR: AL Jadeed 4K ◉</display-name>
+    <display-name lang="en">AR| AL JADEED FHD</display-name>
+    <display-name lang="en">AR| AL JADEED HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1216_1.png" />
     <url>https://elcinema.com/en/tvguide/1216/</url>
   </channel>
   <channel id="Al Kahera Wal Nas TV">
     <display-name lang="en">Al Kahera Wal Nas TV</display-name>
     <display-name lang="en">AR: Al Kahera Wa Alnas</display-name>
+    <display-name lang="en">AR| AL KAHERA WA ALNAS</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1174_1.png" />
     <url>https://elcinema.com/en/tvguide/1174/</url>
   </channel>
   <channel id="Al Kahera Wal Nas TV 2">
     <display-name lang="en">Al Kahera Wal Nas TV 2</display-name>
     <display-name lang="en">AR: Al Kahera Wa Alnas Plus 2</display-name>
+    <display-name lang="en">AR| AL KAHERA WA ALNAS PLUS 2</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1252_1.png" />
     <url>https://elcinema.com/en/tvguide/1252/</url>
   </channel>
   <channel id="Al Nahar Drama">
     <display-name lang="en">Al Nahar Drama</display-name>
     <display-name lang="en">AR: Al Nahar Drama</display-name>
+    <display-name lang="en">AR| AL NAHAR DRAMA</display-name>
+    <display-name lang="en">STC| AL NAHAR DRAMA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL NAHAR DRAMA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1223_1.png" />
     <url>https://elcinema.com/en/tvguide/1223/</url>
   </channel>
   <channel id="Al Nahar TV">
     <display-name lang="en">Al Nahar TV</display-name>
     <display-name lang="en">AR: Al Nahar One</display-name>
+    <display-name lang="en">AR| AL NAHAR ONE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1193_1.png" />
     <url>https://elcinema.com/en/tvguide/1193/</url>
   </channel>
   <channel id="Al sharqya">
     <display-name lang="en">AlSharqiya</display-name>
+    <display-name lang="en">AR| AL SHARQIYA TV FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1269_1.png" />
     <url>https://elcinema.com/en/tvguide/1269/</url>
   </channel>
@@ -67,12 +82,17 @@
     <display-name lang="en">Al Aoula Morocco</display-name>
     <display-name lang="en">AR: Al Aoula Inter SD</display-name>
     <display-name lang="en">AR: Al Aoula Inter ᴿᴬᵂ ◉</display-name>
+    <display-name lang="en">AR| Al AOULA INTER FHD</display-name>
+    <display-name lang="en">AR| Al AOULA INTER HD</display-name>
+    <display-name lang="en">AR| Al AOULA INTER SD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1312_1.png" />
     <url>https://elcinema.com/en/tvguide/1312/</url>
   </channel>
   <channel id="Alaraby TV 2">
     <display-name lang="en">Alaraby TV 2</display-name>
     <display-name lang="en">AR: Al Araby 2 4K</display-name>
+    <display-name lang="en">AR| AL ARABY 2 4K</display-name>
+    <display-name lang="en">AR| AL ARABY 2 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1382_1.png" />
     <url>https://elcinema.com/en/tvguide/1382/</url>
   </channel>
@@ -82,6 +102,9 @@
     <display-name lang="en">AR: Al Emarat TV 4K ◉</display-name>
     <display-name lang="en">STC: AL EMARAT ᴴᴰ</display-name>
     <display-name lang="en">STC: AL EMARAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">AR| AL EMARAT TV HD</display-name>
+    <display-name lang="en">STC| AL EMARAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL EMARAT ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1135_1.png" />
     <url>https://elcinema.com/en/tvguide/1135/</url>
   </channel>
@@ -90,6 +113,11 @@
     <display-name lang="en">AR: Al Hayat 4K</display-name>
     <display-name lang="en">AR: Al Hayat</display-name>
     <display-name lang="en">AR: Hayat TV</display-name>
+    <display-name lang="en">AR| AL HAYAT</display-name>
+    <display-name lang="en">AR| AL HAYAT 4K</display-name>
+    <display-name lang="en">AR| HAYAT TV</display-name>
+    <display-name lang="en">STC| AL HAYAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL HAYAT ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1137_1.png" />
     <url>https://elcinema.com/en/tvguide/1137/</url>
   </channel>
@@ -98,34 +126,46 @@
     <display-name lang="en">AR: Al Hayat 4K</display-name>
     <display-name lang="en">AR: Al Hayat</display-name>
     <display-name lang="en">AR: Hayat TV</display-name>
+    <display-name lang="en">AR| AL HAYAT</display-name>
+    <display-name lang="en">AR| AL HAYAT 4K</display-name>
+    <display-name lang="en">AR| HAYAT TV</display-name>
+    <display-name lang="en">STC| AL HAYAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL HAYAT ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1137_1.png" />
     <url>https://elcinema.com/en/tvguide/1137/</url>
   </channel>
   <channel id="AlKaheraWalNas.eg">
     <display-name lang="en">Al Kahera Wal Nas TV 2</display-name>
     <display-name lang="en">AR: Al Kahera Wa Alnas Plus 2</display-name>
+    <display-name lang="en">AR| AL KAHERA WA ALNAS PLUS 2</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1252_1.png" />
     <url>https://elcinema.com/en/tvguide/1252/</url>
   </channel>
   <channel id="AlNaharDrama.eg">
     <display-name lang="en">Al Nahar Drama</display-name>
     <display-name lang="en">AR: Al Nahar Drama</display-name>
+    <display-name lang="en">AR| AL NAHAR DRAMA</display-name>
+    <display-name lang="en">STC| AL NAHAR DRAMA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL NAHAR DRAMA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1223_1.png" />
     <url>https://elcinema.com/en/tvguide/1223/</url>
   </channel>
   <channel id="AlNaharOne.eg">
     <display-name lang="en">Al Nahar TV</display-name>
     <display-name lang="en">AR: Al Nahar One</display-name>
+    <display-name lang="en">AR| AL NAHAR ONE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1193_1.png" />
     <url>https://elcinema.com/en/tvguide/1193/</url>
   </channel>
   <channel id="Aloula">
     <display-name lang="en">Aloula</display-name>
+    <display-name lang="en">AR| AL OULA MASRIA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1101_1.png" />
     <url>https://elcinema.com/en/tvguide/1101/</url>
   </channel>
   <channel id="Alrasheed">
     <display-name lang="en">Alrasheed</display-name>
+    <display-name lang="en">AR| ALRASHEED</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1306_1.png" />
     <url>https://elcinema.com/en/tvguide/1306/</url>
   </channel>
@@ -133,23 +173,30 @@
     <display-name lang="en">Roya</display-name>
     <display-name lang="en">AR: Roya TV 4K</display-name>
     <display-name lang="en">AR: Roya TV HD</display-name>
+    <display-name lang="en">AR| ROYA</display-name>
+    <display-name lang="en">AR| ROYA TV FHD</display-name>
+    <display-name lang="en">STC| ROYA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROYA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1299_1.png" />
     <url>https://elcinema.com/en/tvguide/1299/</url>
   </channel>
   <channel id="AlSaeedah">
     <display-name lang="en">AlSaeedah</display-name>
     <display-name lang="en">AR: Yemen Al Saeedah</display-name>
+    <display-name lang="en">AR| YEMEN AL SAEEDAH</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1339_1.png" />
     <url>https://elcinema.com/en/tvguide/1339/</url>
   </channel>
   <channel id="Alsumaria">
     <display-name lang="en">Alsumaria</display-name>
+    <display-name lang="en">AR| Al SUMARIA TV</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1301_1.png" />
     <url>https://elcinema.com/en/tvguide/1301/</url>
   </channel>
   <channel id="Althania">
     <display-name lang="en">Althania</display-name>
     <display-name lang="en">AR: Al Thanya 2</display-name>
+    <display-name lang="en">AR| AL THANYA 2</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1398_1.png" />
     <url>https://elcinema.com/en/tvguide/1398/</url>
   </channel>
@@ -157,119 +204,149 @@
     <display-name lang="en">Amman</display-name>
     <display-name lang="en">AR: Amman TV HD</display-name>
     <display-name lang="en">AR: Jordan Aman TV</display-name>
+    <display-name lang="en">AR| AMMAN TV</display-name>
+    <display-name lang="en">STC| AMMAN TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AMMAN TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1298_1.png" />
     <url>https://elcinema.com/en/tvguide/1298/</url>
   </channel>
   <channel id="beIN Drama">
     <display-name lang="en">beIN Drama</display-name>
     <display-name lang="en">AR: beIN DRAMA HD</display-name>
+    <display-name lang="en">AR| BEIN DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1309_1.png" />
     <url>https://elcinema.com/en/tvguide/1309/</url>
   </channel>
   <channel id="BEIN MOVIES ACTION">
     <display-name lang="en">BEIN MOVIES ACTION</display-name>
     <display-name lang="en">AR: beIN FOX MOVIES ACTION HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 2 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1323_1.png" />
     <url>https://elcinema.com/en/tvguide/1323/</url>
   </channel>
   <channel id="BEIN MOVIES DRAMA">
     <display-name lang="en">BEIN MOVIES DRAMA</display-name>
     <display-name lang="en">AR: beIN MOVIES 3 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 3 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1324_1.png" />
     <url>https://elcinema.com/en/tvguide/1324/</url>
   </channel>
   <channel id="BEIN MOVIES FAMILY">
     <display-name lang="en">BEIN MOVIES FAMILY</display-name>
     <display-name lang="en">AR: beIN MOVIES 4 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 4 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1325_1.png" />
     <url>https://elcinema.com/en/tvguide/1325/</url>
   </channel>
   <channel id="BEIN MOVIES PREMIERE">
     <display-name lang="en">BEIN MOVIES PREMIERE</display-name>
     <display-name lang="en">AR: beIN MOVIES 1 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1322_1.png" />
     <url>https://elcinema.com/en/tvguide/1322/</url>
   </channel>
   <channel id="BeIn Series HD 1">
     <display-name lang="en">BeIn Series HD 1</display-name>
     <display-name lang="en">AR: beIN SERIES 1 HD</display-name>
+    <display-name lang="en">AR| BEIN SERIES 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1327_1.png" />
     <url>https://elcinema.com/en/tvguide/1327/</url>
   </channel>
   <channel id="BeIn Series HD 2">
     <display-name lang="en">beIN Series HD 2</display-name>
     <display-name lang="en">AR: beIN SERIES 2 HD</display-name>
+    <display-name lang="en">AR| BEIN SERIES 2 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1328_1.png" />
     <url>https://elcinema.com/en/tvguide/1328/</url>
   </channel>
   <channel id="beINMovies1.qa">
     <display-name lang="en">BEIN MOVIES PREMIERE</display-name>
     <display-name lang="en">AR: beIN MOVIES 1 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1322_1.png" />
     <url>https://elcinema.com/en/tvguide/1322/</url>
   </channel>
   <channel id="beINMovies3.qa">
     <display-name lang="en">BEIN MOVIES DRAMA</display-name>
     <display-name lang="en">AR: beIN MOVIES 3 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 3 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1324_1.png" />
     <url>https://elcinema.com/en/tvguide/1324/</url>
   </channel>
   <channel id="beINMovies4.qa">
     <display-name lang="en">BEIN MOVIES FAMILY</display-name>
     <display-name lang="en">AR: beIN MOVIES 4 HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 4 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1325_1.png" />
     <url>https://elcinema.com/en/tvguide/1325/</url>
   </channel>
   <channel id="beINSeries1.qa">
     <display-name lang="en">BeIn Series HD 1</display-name>
     <display-name lang="en">AR: beIN SERIES 1 HD</display-name>
+    <display-name lang="en">AR| BEIN SERIES 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1327_1.png" />
     <url>https://elcinema.com/en/tvguide/1327/</url>
   </channel>
   <channel id="beINSeries2.qa">
     <display-name lang="en">beIN Series HD 2</display-name>
     <display-name lang="en">AR: beIN SERIES 2 HD</display-name>
+    <display-name lang="en">AR| BEIN SERIES 2 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1328_1.png" />
     <url>https://elcinema.com/en/tvguide/1328/</url>
   </channel>
   <channel id="CartoonNetworkAr.qa">
     <display-name lang="en">Network Arabic</display-name>
     <display-name lang="en">AR: CN Arabic Cartoon Arabic</display-name>
+    <display-name lang="en">AR| CN ARABIC CARTOON ARABIC FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1242_1.png" />
     <url>https://elcinema.com/en/tvguide/1242/</url>
   </channel>
   <channel id="CBC">
     <display-name lang="en">CBC</display-name>
     <display-name lang="en">AR: CBC</display-name>
+    <display-name lang="en">AR| CBC</display-name>
+    <display-name lang="en">STC| CBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| CBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1198_1.png" />
     <url>https://elcinema.com/en/tvguide/1198/</url>
   </channel>
   <channel id="CBC Drama">
     <display-name lang="en">CBC Drama</display-name>
     <display-name lang="en">AR: CBC Drama</display-name>
+    <display-name lang="en">AR| CBC DRAMA</display-name>
+    <display-name lang="en">STC| CBC DRAMA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| CBC DRAMA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1199_1.png" />
     <url>https://elcinema.com/en/tvguide/1199/</url>
   </channel>
   <channel id="CBC.eg">
     <display-name lang="en">CBC</display-name>
     <display-name lang="en">AR: CBC</display-name>
+    <display-name lang="en">AR| CBC</display-name>
+    <display-name lang="en">STC| CBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| CBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1198_1.png" />
     <url>https://elcinema.com/en/tvguide/1198/</url>
   </channel>
   <channel id="CBCDrama.eg">
     <display-name lang="en">CBC Drama</display-name>
     <display-name lang="en">AR: CBC Drama</display-name>
+    <display-name lang="en">AR| CBC DRAMA</display-name>
+    <display-name lang="en">STC| CBC DRAMA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| CBC DRAMA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1199_1.png" />
     <url>https://elcinema.com/en/tvguide/1199/</url>
   </channel>
   <channel id="Cima">
     <display-name lang="en">Cima</display-name>
     <display-name lang="en">AR: Cima</display-name>
+    <display-name lang="en">AR| CIMA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1176_1.png" />
     <url>https://elcinema.com/en/tvguide/1176/</url>
   </channel>
   <channel id="Dijlah TV">
     <display-name lang="en">Dijlah TV</display-name>
+    <display-name lang="en">AR| DIJLAH TV 4K</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1385_1.png" />
     <url>https://elcinema.com/en/tvguide/1385/</url>
   </channel>
@@ -282,24 +359,31 @@
     <display-name lang="en">DMC</display-name>
     <display-name lang="en">AR: DMC TV 4K</display-name>
     <display-name lang="en">AR: DMC TV HD</display-name>
+    <display-name lang="en">AR| DMC HEVC</display-name>
+    <display-name lang="en">AR| DMC TV HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1290_1.png" />
     <url>https://elcinema.com/en/tvguide/1290/</url>
   </channel>
   <channel id="DMC DRAMA">
     <display-name lang="en">DMC DRAMA</display-name>
     <display-name lang="en">AR: DMC Drama TV</display-name>
+    <display-name lang="en">AR| DMC DRAMA TV</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1292_1.png" />
     <url>https://elcinema.com/en/tvguide/1292/</url>
   </channel>
   <channel id="Drama.qa">
     <display-name lang="en">beIN Drama</display-name>
     <display-name lang="en">AR: beIN DRAMA HD</display-name>
+    <display-name lang="en">AR| BEIN DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1309_1.png" />
     <url>https://elcinema.com/en/tvguide/1309/</url>
   </channel>
   <channel id="Dubai One">
     <display-name lang="en">Dubai One</display-name>
     <display-name lang="en">AR: Dubai One 4K</display-name>
+    <display-name lang="en">AR| DUBAI ONE</display-name>
+    <display-name lang="en">STC| DUBAI ONE ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| DUBAI ONE ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1173_1.png" />
     <url>https://elcinema.com/en/tvguide/1173/</url>
   </channel>
@@ -307,17 +391,22 @@
     <display-name lang="en">Dubai TV</display-name>
     <display-name lang="en">AR: Dubai TV HD</display-name>
     <display-name lang="en">AR: Dubai TV 4K ◉</display-name>
+    <display-name lang="en">AR| DUBAI TV FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1169_1.png" />
     <url>https://elcinema.com/en/tvguide/1169/</url>
   </channel>
   <channel id="Dubai Zaman">
     <display-name lang="en">Dubai Zaman</display-name>
+    <display-name lang="en">AR| DUBAI ZAMAN</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1283_1.png" />
     <url>https://elcinema.com/en/tvguide/1283/</url>
   </channel>
   <channel id="DubaiOneEn.ae">
     <display-name lang="en">Dubai One</display-name>
     <display-name lang="en">AR: Dubai One 4K</display-name>
+    <display-name lang="en">AR| DUBAI ONE</display-name>
+    <display-name lang="en">STC| DUBAI ONE ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| DUBAI ONE ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1173_1.png" />
     <url>https://elcinema.com/en/tvguide/1173/</url>
   </channel>
@@ -325,6 +414,7 @@
     <display-name lang="en">Dubai TV</display-name>
     <display-name lang="en">AR: Dubai TV HD</display-name>
     <display-name lang="en">AR: Dubai TV 4K ◉</display-name>
+    <display-name lang="en">AR| DUBAI TV FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1169_1.png" />
     <url>https://elcinema.com/en/tvguide/1169/</url>
   </channel>
@@ -332,6 +422,7 @@
     <display-name lang="en">Echorouk TV</display-name>
     <display-name lang="en">AR: Echourouk TV 4K</display-name>
     <display-name lang="en">AR: Echourouk TV HD</display-name>
+    <display-name lang="en">AR| ECHOUROUK TV</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1315_1.png" />
     <url>https://elcinema.com/en/tvguide/1315/</url>
   </channel>
@@ -339,6 +430,8 @@
     <display-name lang="en">Egyptian TV</display-name>
     <display-name lang="en">AR: Egyptian TV 4K</display-name>
     <display-name lang="en">AR: Al Masryia Air TV</display-name>
+    <display-name lang="en">AR| AL MASRYIA AIR TV</display-name>
+    <display-name lang="en">AR| EGYPTIAN TV 4K</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1119_1.png" />
     <url>https://elcinema.com/en/tvguide/1119/</url>
   </channel>
@@ -348,12 +441,16 @@
     <display-name lang="en">AR: Al Emarat TV 4K ◉</display-name>
     <display-name lang="en">STC: AL EMARAT ᴴᴰ</display-name>
     <display-name lang="en">STC: AL EMARAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">AR| AL EMARAT TV HD</display-name>
+    <display-name lang="en">STC| AL EMARAT ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| AL EMARAT ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1135_1.png" />
     <url>https://elcinema.com/en/tvguide/1135/</url>
   </channel>
   <channel id="FOXMoviesAction.qa">
     <display-name lang="en">BEIN MOVIES ACTION</display-name>
     <display-name lang="en">AR: beIN FOX MOVIES ACTION HD</display-name>
+    <display-name lang="en">AR| BEIN MOVIES 2 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1323_1.png" />
     <url>https://elcinema.com/en/tvguide/1323/</url>
   </channel>
@@ -361,35 +458,47 @@
     <display-name lang="en">Fujairah</display-name>
     <display-name lang="en">AR: Fujairah TV 4K</display-name>
     <display-name lang="en">AR: Fujairah TV HD</display-name>
+    <display-name lang="en">AR| FUJAIRAH TV HD</display-name>
+    <display-name lang="en">STC| FUJAIRAH TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| FUJAIRAH TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1302_1.png" />
     <url>https://elcinema.com/en/tvguide/1302/</url>
   </channel>
   <channel id="Hadhramaut TV">
     <display-name lang="en">Hadhramaut TV</display-name>
     <display-name lang="en">AR: Yemen Hadramout TV</display-name>
+    <display-name lang="en">AR| YEMEN HADRAMOUT TV</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1374_1.png" />
     <url>https://elcinema.com/en/tvguide/1374/</url>
   </channel>
   <channel id="iFILM TV">
     <display-name lang="en">iFILM TV</display-name>
     <display-name lang="en">AR: iFilm Arabic</display-name>
+    <display-name lang="en">AR| IFILM ARABIC</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1204_1.png" />
     <url>https://elcinema.com/en/tvguide/1204/</url>
   </channel>
   <channel id="Iraqia TV">
     <display-name lang="en">Iraqia TV</display-name>
+    <display-name lang="en">AR| IRAQIA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1349_1.png" />
     <url>https://elcinema.com/en/tvguide/1349/</url>
   </channel>
   <channel id="Jordan TV">
     <display-name lang="en">Jordan TV</display-name>
     <display-name lang="en">AR: Jordan TV 4K</display-name>
+    <display-name lang="en">AR| JORDAN TV FHD</display-name>
+    <display-name lang="en">STC| JORDAN TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| JORDAN TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1314_1.png" />
     <url>https://elcinema.com/en/tvguide/1314/</url>
   </channel>
   <channel id="JordanTV.jo">
     <display-name lang="en">Jordan TV</display-name>
     <display-name lang="en">AR: Jordan TV 4K</display-name>
+    <display-name lang="en">AR| JORDAN TV FHD</display-name>
+    <display-name lang="en">STC| JORDAN TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| JORDAN TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1314_1.png" />
     <url>https://elcinema.com/en/tvguide/1314/</url>
   </channel>
@@ -397,6 +506,9 @@
     <display-name lang="en">LBC</display-name>
     <display-name lang="en">AR: LBC HD</display-name>
     <display-name lang="en">AR: LBC 4K ◉</display-name>
+    <display-name lang="en">AR| LBC FHD</display-name>
+    <display-name lang="en">STC| LBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| LBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1341_1.png" />
     <url>https://elcinema.com/en/tvguide/1341/</url>
   </channel>
@@ -404,18 +516,25 @@
     <display-name lang="en">LBC</display-name>
     <display-name lang="en">AR: LBC HD</display-name>
     <display-name lang="en">AR: LBC 4K ◉</display-name>
+    <display-name lang="en">AR| LBC FHD</display-name>
+    <display-name lang="en">STC| LBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| LBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1341_1.png" />
     <url>https://elcinema.com/en/tvguide/1341/</url>
   </channel>
   <channel id="LBCI">
     <display-name lang="en">LBCI</display-name>
     <display-name lang="en">AR: LBC International 4K ◉</display-name>
+    <display-name lang="en">AR| LBC INTERNATIONAL FHD</display-name>
+    <display-name lang="en">AR| LBC INTERNATIONAL HEVC</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1168_1.png" />
     <url>https://elcinema.com/en/tvguide/1168/</url>
   </channel>
   <channel id="LBCInternational.lb">
     <display-name lang="en">LBCI</display-name>
     <display-name lang="en">AR: LBC International 4K ◉</display-name>
+    <display-name lang="en">AR| LBC INTERNATIONAL FHD</display-name>
+    <display-name lang="en">AR| LBC INTERNATIONAL HEVC</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1168_1.png" />
     <url>https://elcinema.com/en/tvguide/1168/</url>
   </channel>
@@ -435,17 +554,21 @@
     <display-name lang="en">LTV</display-name>
     <display-name lang="en">STC: LTV ᴴᴰ</display-name>
     <display-name lang="en">STC: LTV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| LTV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| LTV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1313_1.png" />
     <url>https://elcinema.com/en/tvguide/1313/</url>
   </channel>
   <channel id="Masah">
     <display-name lang="en">Masah</display-name>
+    <display-name lang="en">AR| AL MAJD MASSA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1401_1.png" />
     <url>https://elcinema.com/en/tvguide/1401/</url>
   </channel>
   <channel id="Maspero Zaman">
     <display-name lang="en">Maspero Zaman</display-name>
     <display-name lang="en">AR: Maspero Zaman</display-name>
+    <display-name lang="en">AR| MASPERO ZAMAN</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1336_1.png" />
     <url>https://elcinema.com/en/tvguide/1336/</url>
   </channel>
@@ -454,6 +577,13 @@
     <display-name lang="en">AR: MBC 1 HD</display-name>
     <display-name lang="en">AR: MBC 1 4K ◉</display-name>
     <display-name lang="en">AR: MBC 1 ◉</display-name>
+    <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">GOBX| MBC 1 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 1 HD</display-name>
+    <display-name lang="en">MYHD| MBC 1 FHD</display-name>
+    <display-name lang="en">MYHD| MBC HD</display-name>
+    <display-name lang="en">STC| MBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1127_1.png" />
     <url>https://elcinema.com/en/tvguide/1127/</url>
   </channel>
@@ -462,6 +592,13 @@
     <display-name lang="en">AR: MBC 2</display-name>
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
+    <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">GOBX| MBC 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC 2 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 2 HD</display-name>
+    <display-name lang="en">STC| MBC 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1128_1.png" />
     <url>https://elcinema.com/en/tvguide/1128/</url>
   </channel>
@@ -470,6 +607,12 @@
     <display-name lang="en">AR: MBC 3</display-name>
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">GOBX| MBC 3 HD</display-name>
+    <display-name lang="en">MYHD| MBC 3 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 3 HD</display-name>
+    <display-name lang="en">STC| MBC 3 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 3 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1241_1.png" />
     <url>https://elcinema.com/en/tvguide/1241/</url>
   </channel>
@@ -478,6 +621,13 @@
     <display-name lang="en">AR: MBC 4</display-name>
     <display-name lang="en">AR: MBC 4 HD</display-name>
     <display-name lang="en">AR: MBC 4 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 4</display-name>
+    <display-name lang="en">GOBX| MBC 4 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 4 HD</display-name>
+    <display-name lang="en">MYHD| MBC 4 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 4 HD</display-name>
+    <display-name lang="en">STC| MBC 4 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 4 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1129_1.png" />
     <url>https://elcinema.com/en/tvguide/1129/</url>
   </channel>
@@ -487,6 +637,11 @@
     <display-name lang="en">AR: MBC 5 HD</display-name>
     <display-name lang="en">AR: MBC 5 4K ◉</display-name>
     <display-name lang="en">AR: MBC 5 ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| MBC 5</display-name>
+    <display-name lang="en">AR| MBC 5 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 5 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 5 HD</display-name>
+    <display-name lang="en">MYHD| MBC 5 FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1354_1.png" />
     <url>https://elcinema.com/en/tvguide/1354/</url>
   </channel>
@@ -494,6 +649,12 @@
     <display-name lang="en">MBC Action</display-name>
     <display-name lang="en">AR: MBC Action</display-name>
     <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
+    <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION HD</display-name>
+    <display-name lang="en">STC| MBC ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ACTION ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1130_1.png" />
     <url>https://elcinema.com/en/tvguide/1130/</url>
   </channel>
@@ -502,6 +663,11 @@
     <display-name lang="en">AR: MBC Bollywood</display-name>
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
+    <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1259_1.png" />
     <url>https://elcinema.com/en/tvguide/1259/</url>
   </channel>
@@ -531,6 +697,9 @@
     <display-name lang="en">AR: MBC IRAQ</display-name>
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
+    <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
+    <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
     <url>https://elcinema.com/en/tvguide/1340/</url>
   </channel>
@@ -539,6 +708,13 @@
     <display-name lang="en">AR: MBC MASER 2</display-name>
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
+    <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC MASER 2</display-name>
+    <display-name lang="en">MYHD| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1278_1.png" />
     <url>https://elcinema.com/en/tvguide/1278/</url>
   </channel>
@@ -553,6 +729,12 @@
     <display-name lang="en">AR: MBC MAX</display-name>
     <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
     <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">GOBX| MBC MAX HD</display-name>
+    <display-name lang="en">MYHD| MBC MAX FHD</display-name>
+    <display-name lang="en">MYHD| MBC MAX HD</display-name>
+    <display-name lang="en">STC| MBC MAX ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MAX ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1132_1.png" />
     <url>https://elcinema.com/en/tvguide/1132/</url>
   </channel>
@@ -561,6 +743,28 @@
     <display-name lang="en">AR: MBC 1 HD</display-name>
     <display-name lang="en">AR: MBC 1 4K ◉</display-name>
     <display-name lang="en">AR: MBC 1 ◉</display-name>
+    <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">GOBX| MBC 1 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 1 HD</display-name>
+    <display-name lang="en">MYHD| MBC 1 FHD</display-name>
+    <display-name lang="en">MYHD| MBC HD</display-name>
+    <display-name lang="en">STC| MBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ᴴᴰ</display-name>
+    <icon src="https://media0106.elcinema.com/tvguide/1127_1.png" />
+    <url>https://elcinema.com/en/tvguide/1127/</url>
+  </channel>
+  <channel id="MBC1En.ae">
+    <display-name lang="en">MBC</display-name>
+    <display-name lang="en">AR: MBC 1 HD</display-name>
+    <display-name lang="en">AR: MBC 1 4K ◉</display-name>
+    <display-name lang="en">AR: MBC 1 ◉</display-name>
+    <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">GOBX| MBC 1 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 1 HD</display-name>
+    <display-name lang="en">MYHD| MBC 1 FHD</display-name>
+    <display-name lang="en">MYHD| MBC HD</display-name>
+    <display-name lang="en">STC| MBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1127_1.png" />
     <url>https://elcinema.com/en/tvguide/1127/</url>
   </channel>
@@ -569,6 +773,13 @@
     <display-name lang="en">AR: MBC 2</display-name>
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
+    <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">GOBX| MBC 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC 2 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 2 HD</display-name>
+    <display-name lang="en">STC| MBC 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1128_1.png" />
     <url>https://elcinema.com/en/tvguide/1128/</url>
   </channel>
@@ -577,6 +788,13 @@
     <display-name lang="en">AR: MBC 2</display-name>
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
+    <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">GOBX| MBC 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC 2 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 2 HD</display-name>
+    <display-name lang="en">STC| MBC 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1128_1.png" />
     <url>https://elcinema.com/en/tvguide/1128/</url>
   </channel>
@@ -585,6 +803,12 @@
     <display-name lang="en">AR: MBC 3</display-name>
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">GOBX| MBC 3 HD</display-name>
+    <display-name lang="en">MYHD| MBC 3 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 3 HD</display-name>
+    <display-name lang="en">STC| MBC 3 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 3 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1241_1.png" />
     <url>https://elcinema.com/en/tvguide/1241/</url>
   </channel>
@@ -593,6 +817,12 @@
     <display-name lang="en">AR: MBC 3</display-name>
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">GOBX| MBC 3 HD</display-name>
+    <display-name lang="en">MYHD| MBC 3 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 3 HD</display-name>
+    <display-name lang="en">STC| MBC 3 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 3 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1241_1.png" />
     <url>https://elcinema.com/en/tvguide/1241/</url>
   </channel>
@@ -601,6 +831,12 @@
     <display-name lang="en">AR: MBC 3</display-name>
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">GOBX| MBC 3 HD</display-name>
+    <display-name lang="en">MYHD| MBC 3 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 3 HD</display-name>
+    <display-name lang="en">STC| MBC 3 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 3 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1241_1.png" />
     <url>https://elcinema.com/en/tvguide/1241/</url>
   </channel>
@@ -609,6 +845,13 @@
     <display-name lang="en">AR: MBC 4</display-name>
     <display-name lang="en">AR: MBC 4 HD</display-name>
     <display-name lang="en">AR: MBC 4 4K ◉</display-name>
+    <display-name lang="en">AR| MBC 4</display-name>
+    <display-name lang="en">GOBX| MBC 4 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 4 HD</display-name>
+    <display-name lang="en">MYHD| MBC 4 FHD</display-name>
+    <display-name lang="en">MYHD| MBC 4 HD</display-name>
+    <display-name lang="en">STC| MBC 4 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC 4 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1129_1.png" />
     <url>https://elcinema.com/en/tvguide/1129/</url>
   </channel>
@@ -618,13 +861,37 @@
     <display-name lang="en">AR: MBC 5 HD</display-name>
     <display-name lang="en">AR: MBC 5 4K ◉</display-name>
     <display-name lang="en">AR: MBC 5 ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| MBC 5</display-name>
+    <display-name lang="en">AR| MBC 5 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 5 FHD</display-name>
+    <display-name lang="en">GOBX| MBC 5 HD</display-name>
+    <display-name lang="en">MYHD| MBC 5 FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1354_1.png" />
     <url>https://elcinema.com/en/tvguide/1354/</url>
+  </channel>
+  <channel id="MBCAction.sa">
+    <display-name lang="en">MBC Action</display-name>
+    <display-name lang="en">AR: MBC Action</display-name>
+    <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
+    <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION HD</display-name>
+    <display-name lang="en">STC| MBC ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ACTION ᴴᴰ</display-name>
+    <icon src="https://media0106.elcinema.com/tvguide/1130_1.png" />
+    <url>https://elcinema.com/en/tvguide/1130/</url>
   </channel>
   <channel id="MBCActionEn.sa">
     <display-name lang="en">MBC Action</display-name>
     <display-name lang="en">AR: MBC Action</display-name>
     <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
+    <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
+    <display-name lang="en">MYHD| MBC ACTION HD</display-name>
+    <display-name lang="en">STC| MBC ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC ACTION ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1130_1.png" />
     <url>https://elcinema.com/en/tvguide/1130/</url>
   </channel>
@@ -633,6 +900,11 @@
     <display-name lang="en">AR: MBC Bollywood</display-name>
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
+    <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1259_1.png" />
     <url>https://elcinema.com/en/tvguide/1259/</url>
   </channel>
@@ -641,6 +913,11 @@
     <display-name lang="en">AR: MBC Bollywood</display-name>
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
+    <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
+    <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC BOLLYWOOD ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1259_1.png" />
     <url>https://elcinema.com/en/tvguide/1259/</url>
   </channel>
@@ -686,6 +963,9 @@
     <display-name lang="en">AR: MBC IRAQ</display-name>
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
+    <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
+    <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
     <url>https://elcinema.com/en/tvguide/1340/</url>
   </channel>
@@ -694,6 +974,9 @@
     <display-name lang="en">AR: MBC IRAQ</display-name>
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
+    <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
+    <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
     <url>https://elcinema.com/en/tvguide/1340/</url>
   </channel>
@@ -702,6 +985,13 @@
     <display-name lang="en">AR: MBC MASER 2</display-name>
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
+    <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC MASER 2</display-name>
+    <display-name lang="en">MYHD| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1278_1.png" />
     <url>https://elcinema.com/en/tvguide/1278/</url>
   </channel>
@@ -710,37 +1000,68 @@
     <display-name lang="en">AR: MBC MASER 2</display-name>
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
+    <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
+    <display-name lang="en">MYHD| MBC MASER 2</display-name>
+    <display-name lang="en">MYHD| MBC MASR 2 FHD</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MASR 2 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1278_1.png" />
     <url>https://elcinema.com/en/tvguide/1278/</url>
+  </channel>
+  <channel id="MBCMax.ae">
+    <display-name lang="en">MBC MAX</display-name>
+    <display-name lang="en">AR: MBC MAX</display-name>
+    <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
+    <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">GOBX| MBC MAX HD</display-name>
+    <display-name lang="en">MYHD| MBC MAX FHD</display-name>
+    <display-name lang="en">MYHD| MBC MAX HD</display-name>
+    <display-name lang="en">STC| MBC MAX ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MAX ᴴᴰ</display-name>
+    <icon src="https://media0106.elcinema.com/tvguide/1132_1.png" />
+    <url>https://elcinema.com/en/tvguide/1132/</url>
   </channel>
   <channel id="MBCMaxEn.ae">
     <display-name lang="en">MBC MAX</display-name>
     <display-name lang="en">AR: MBC MAX</display-name>
     <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
     <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">GOBX| MBC MAX HD</display-name>
+    <display-name lang="en">MYHD| MBC MAX FHD</display-name>
+    <display-name lang="en">MYHD| MBC MAX HD</display-name>
+    <display-name lang="en">STC| MBC MAX ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MBC MAX ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1132_1.png" />
     <url>https://elcinema.com/en/tvguide/1132/</url>
   </channel>
   <channel id="Mehwar">
     <display-name lang="en">Mehwar</display-name>
     <display-name lang="en">AR: Al Mehwer</display-name>
+    <display-name lang="en">AR| AL MEHWER</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1145_1.png" />
     <url>https://elcinema.com/en/tvguide/1145/</url>
   </channel>
   <channel id="Mix">
     <display-name lang="en">Mix</display-name>
+    <display-name lang="en">AR| MIX HOLLYWOOD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1355_1.png" />
     <url>https://elcinema.com/en/tvguide/1355/</url>
   </channel>
   <channel id="Mix Bel Araby">
     <display-name lang="en">Mix Bel Araby</display-name>
     <display-name lang="en">AR: Mix Bel Araby</display-name>
+    <display-name lang="en">AR| MIX BEL ARABY</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1371_1.png" />
     <url>https://elcinema.com/en/tvguide/1371/</url>
   </channel>
   <channel id="Mix ONE">
     <display-name lang="en">Mix ONE</display-name>
     <display-name lang="en">AR: Mix One</display-name>
+    <display-name lang="en">AR| MIX ONE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1373_1.png" />
     <url>https://elcinema.com/en/tvguide/1373/</url>
   </channel>
@@ -748,6 +1069,11 @@
     <display-name lang="en">MTV</display-name>
     <display-name lang="en">AR: MTV Lebanon HD</display-name>
     <display-name lang="en">AR: MTV Lebanon 4K ◉</display-name>
+    <display-name lang="en">AR| MTV LEBANON FHD</display-name>
+    <display-name lang="en">AR| MTV LEBANON HD</display-name>
+    <display-name lang="en">AR| MTV LEBANON HEVC</display-name>
+    <display-name lang="en">STC| MTV LEBANON ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MTV LEBANON ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1296_1.png" />
     <url>https://elcinema.com/en/tvguide/1296/</url>
   </channel>
@@ -755,6 +1081,11 @@
     <display-name lang="en">MTV</display-name>
     <display-name lang="en">AR: MTV Lebanon HD</display-name>
     <display-name lang="en">AR: MTV Lebanon 4K ◉</display-name>
+    <display-name lang="en">AR| MTV LEBANON FHD</display-name>
+    <display-name lang="en">AR| MTV LEBANON HD</display-name>
+    <display-name lang="en">AR| MTV LEBANON HEVC</display-name>
+    <display-name lang="en">STC| MTV LEBANON ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| MTV LEBANON ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1296_1.png" />
     <url>https://elcinema.com/en/tvguide/1296/</url>
   </channel>
@@ -762,6 +1093,8 @@
     <display-name lang="en">National Geographic</display-name>
     <display-name lang="en">AR: Abu Dhabi Natioanl Geo HD</display-name>
     <display-name lang="en">AR: Abu Dhabi Natioanl Geo 4K</display-name>
+    <display-name lang="en">AR| ABU DHABI NATIONAL GEO HD</display-name>
+    <display-name lang="en">AR| AD NAT GEO HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1275_1.png" />
     <url>https://elcinema.com/en/tvguide/1275/</url>
   </channel>
@@ -769,60 +1102,75 @@
     <display-name lang="en">National Geographic</display-name>
     <display-name lang="en">AR: Abu Dhabi Natioanl Geo HD</display-name>
     <display-name lang="en">AR: Abu Dhabi Natioanl Geo 4K</display-name>
+    <display-name lang="en">AR| ABU DHABI NATIONAL GEO HD</display-name>
+    <display-name lang="en">AR| AD NAT GEO HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1275_1.png" />
     <url>https://elcinema.com/en/tvguide/1275/</url>
   </channel>
   <channel id="Nessma">
     <display-name lang="en">Nessma</display-name>
     <display-name lang="en">AR: Nessma Ejdida</display-name>
+    <display-name lang="en">AR| NESSMA EJDIDA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1304_1.png" />
     <url>https://elcinema.com/en/tvguide/1304/</url>
   </channel>
   <channel id="Network Arabic">
     <display-name lang="en">Network Arabic</display-name>
     <display-name lang="en">AR: CN Arabic Cartoon Arabic</display-name>
+    <display-name lang="en">AR| CN ARABIC CARTOON ARABIC FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1242_1.png" />
     <url>https://elcinema.com/en/tvguide/1242/</url>
   </channel>
   <channel id="Nile Drama">
     <display-name lang="en">Nile Drama</display-name>
     <display-name lang="en">AR: Nile Drama</display-name>
+    <display-name lang="en">AR| NILE DRAMA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1156_1.png" />
     <url>https://elcinema.com/en/tvguide/1156/</url>
   </channel>
   <channel id="Nile Life">
     <display-name lang="en">Nile Life</display-name>
     <display-name lang="en">AR: Nile Live</display-name>
+    <display-name lang="en">AR| NILE LIVE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1159_1.png" />
     <url>https://elcinema.com/en/tvguide/1159/</url>
   </channel>
   <channel id="NileDrama.eg">
     <display-name lang="en">Nile Drama</display-name>
     <display-name lang="en">AR: Nile Drama</display-name>
+    <display-name lang="en">AR| NILE DRAMA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1156_1.png" />
     <url>https://elcinema.com/en/tvguide/1156/</url>
   </channel>
   <channel id="NileLife.eg">
     <display-name lang="en">Nile Life</display-name>
     <display-name lang="en">AR: Nile Live</display-name>
+    <display-name lang="en">AR| NILE LIVE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1159_1.png" />
     <url>https://elcinema.com/en/tvguide/1159/</url>
   </channel>
   <channel id="Oman">
     <display-name lang="en">Oman</display-name>
     <display-name lang="en">AR: Oman TV 4K</display-name>
+    <display-name lang="en">AR| OMAN TV HD</display-name>
+    <display-name lang="en">STC| OMAN TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| OMAN TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1317_1.png" />
     <url>https://elcinema.com/en/tvguide/1317/</url>
   </channel>
   <channel id="OmanTV.sa">
     <display-name lang="en">Oman</display-name>
     <display-name lang="en">AR: Oman TV 4K</display-name>
+    <display-name lang="en">AR| OMAN TV HD</display-name>
+    <display-name lang="en">STC| OMAN TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| OMAN TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1317_1.png" />
     <url>https://elcinema.com/en/tvguide/1317/</url>
   </channel>
   <channel id="ON Drama">
     <display-name lang="en">ON Drama</display-name>
     <display-name lang="en">AR: ON Drama</display-name>
+    <display-name lang="en">AR| ON DRAMA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1134_1.png" />
     <url>https://elcinema.com/en/tvguide/1134/</url>
   </channel>
@@ -830,6 +1178,7 @@
     <display-name lang="en">ON E</display-name>
     <display-name lang="en">AR: ON E 4K</display-name>
     <display-name lang="en">AR: ON E HD</display-name>
+    <display-name lang="en">AR| ON E 4K</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1203_1.png" />
     <url>https://elcinema.com/en/tvguide/1203/</url>
   </channel>
@@ -850,6 +1199,7 @@
     <display-name lang="en">OSN: COMEDY ᶠ ᴴᴰ</display-name>
     <display-name lang="en">OSN: COMDEY ᴿᴬᵂ</display-name>
     <display-name lang="en">BE: OSN COMDEY ᴴᴰ</display-name>
+    <display-name lang="en">OSN| COMDEY FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1257_1.png" />
     <url>https://elcinema.com/en/tvguide/1257/</url>
   </channel>
@@ -858,6 +1208,7 @@
     <display-name lang="en">OSN: CRIME ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: CRIME ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN CRIME ᴴᴰ</display-name>
+    <display-name lang="en">OSN| CRIME FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1395_1.png" />
     <url>https://elcinema.com/en/tvguide/1395/</url>
   </channel>
@@ -866,6 +1217,7 @@
     <display-name lang="en">OSN: KIDS ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: KIDS ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN KIDS ᴴᴰ</display-name>
+    <display-name lang="en">OSN| KIDS FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1232_1.png" />
     <url>https://elcinema.com/en/tvguide/1232/</url>
   </channel>
@@ -873,6 +1225,7 @@
     <display-name lang="en">OSN TV Movies Action</display-name>
     <display-name lang="en">OSN: MOVIES ACTION ᴿᴬᵂ</display-name>
     <display-name lang="en">BE: OSN MOVIES ACTION ᴴᴰ</display-name>
+    <display-name lang="en">OSN| MOVIES ACTION FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1211_1.png" />
     <url>https://elcinema.com/en/tvguide/1211/</url>
   </channel>
@@ -885,6 +1238,7 @@
     <display-name lang="en">OSN TV Movies Family</display-name>
     <display-name lang="en">OSN: MOVIES FAMILY ᴿᴬᵂ</display-name>
     <display-name lang="en">BE: OSN MOVIES  FAMILY ᴴᴰ</display-name>
+    <display-name lang="en">OSN| MOVIES FAMILY FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1392_1.png" />
     <url>https://elcinema.com/en/tvguide/1392/</url>
   </channel>
@@ -901,6 +1255,7 @@
     <display-name lang="en">OSN: MOVIES PREMIERE ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: MOVIES PREMIERE ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN MOVIES PREMIERE ᴴᴰ</display-name>
+    <display-name lang="en">OSN| MOVIES PREMIERE FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1213_1.png" />
     <url>https://elcinema.com/en/tvguide/1213/</url>
   </channel>
@@ -909,6 +1264,7 @@
     <display-name lang="en">OSN: NOW ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: NOW ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN NOW ᴴᴰ</display-name>
+    <display-name lang="en">OSN| NOW FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1396_1.png" />
     <url>https://elcinema.com/en/tvguide/1396/</url>
   </channel>
@@ -924,6 +1280,7 @@
     <display-name lang="en">OSN: SHOWCASE ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: SHOWCASE ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN SHOWCASE ᴴᴰ</display-name>
+    <display-name lang="en">OSN| SHOWCASE FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1394_1.png" />
     <url>https://elcinema.com/en/tvguide/1394/</url>
   </channel>
@@ -932,6 +1289,7 @@
     <display-name lang="en">OSN: YAHALA BIL ARABI ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA BIL ARABI ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN YAHALA BIL ARABI ᴴᴰ</display-name>
+    <display-name lang="en">OSN| YAHALA BIL ARABI FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1390_1.png" />
     <url>https://elcinema.com/en/tvguide/1390/</url>
   </channel>
@@ -939,6 +1297,7 @@
     <display-name lang="en">OSN Ya Hala</display-name>
     <display-name lang="en">OSN: YAHALA ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">OSN| YAHALA FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1205_1.png" />
     <url>https://elcinema.com/en/tvguide/1205/</url>
   </channel>
@@ -947,6 +1306,7 @@
     <display-name lang="en">OSN: YAHALA AFLAM ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA AFLAM ᶠ ᴴᴰ</display-name>
     <display-name lang="en">BE: OSN YAHALA AFLAM ᴴᴰ</display-name>
+    <display-name lang="en">OSN| YAHALA AFLAM FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1285_1.png" />
     <url>https://elcinema.com/en/tvguide/1285/</url>
   </channel>
@@ -955,11 +1315,15 @@
     <display-name lang="en">AR: Rotana Cinema Egypt</display-name>
     <display-name lang="en">AR: Rotana Cinema Egypt  HD</display-name>
     <display-name lang="en">AR: Rotana Cinema Egypt  4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA CINEMA FHD</display-name>
+    <display-name lang="en">AR| ROTANA CINEMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1289_1.png" />
     <url>https://elcinema.com/en/tvguide/1289/</url>
   </channel>
   <channel id="Rotana Cinema Masr">
     <display-name lang="en">Rotana Cinema Masr</display-name>
+    <display-name lang="en">STC| ROTANA CINEMA MASR ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA CINEMA MASR ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1148_1.png" />
     <url>https://elcinema.com/en/tvguide/1148/</url>
   </channel>
@@ -967,6 +1331,10 @@
     <display-name lang="en">Rotana Classic</display-name>
     <display-name lang="en">AR: Rotana Classic HD</display-name>
     <display-name lang="en">AR: Rotana Classic 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA CLASSIC FHD</display-name>
+    <display-name lang="en">AR| ROTANA CLASSIC HD</display-name>
+    <display-name lang="en">STC| ROTANA CLASSIC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA CLASSIC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1217_1.png" />
     <url>https://elcinema.com/en/tvguide/1217/</url>
   </channel>
@@ -974,6 +1342,11 @@
     <display-name lang="en">Rotana Comedy</display-name>
     <display-name lang="en">AR: Rotana Comedy HD</display-name>
     <display-name lang="en">AR: Rotana Comedy 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY FHD</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY HD</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY HEVC</display-name>
+    <display-name lang="en">STC| ROTANA COMEDY ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA COMEDY ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1358_1.png" />
     <url>https://elcinema.com/en/tvguide/1358/</url>
   </channel>
@@ -982,6 +1355,10 @@
     <display-name lang="en">AR: Rotana Drama</display-name>
     <display-name lang="en">AR: Rotana Drama HD</display-name>
     <display-name lang="en">AR: Rotana Drama 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA DRAMA FHD</display-name>
+    <display-name lang="en">AR| ROTANA DRAMA HD</display-name>
+    <display-name lang="en">STC| ROTANA DRAMA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA DRAMA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1147_1.png" />
     <url>https://elcinema.com/en/tvguide/1147/</url>
   </channel>
@@ -989,6 +1366,7 @@
     <display-name lang="en">Rotana Khalejia</display-name>
     <display-name lang="en">AR: Rotana Khalijeah HD</display-name>
     <display-name lang="en">AR: Rotana Khalijeah 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA KHALIJEAH FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1149_1.png" />
     <url>https://elcinema.com/en/tvguide/1149/</url>
   </channel>
@@ -996,6 +1374,11 @@
     <display-name lang="en">Rotana Comedy</display-name>
     <display-name lang="en">AR: Rotana Comedy HD</display-name>
     <display-name lang="en">AR: Rotana Comedy 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY FHD</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY HD</display-name>
+    <display-name lang="en">AR| ROTANA COMEDY HEVC</display-name>
+    <display-name lang="en">STC| ROTANA COMEDY ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA COMEDY ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1358_1.png" />
     <url>https://elcinema.com/en/tvguide/1358/</url>
   </channel>
@@ -1004,6 +1387,8 @@
     <display-name lang="en">AR: Rotana Cinema Egypt</display-name>
     <display-name lang="en">AR: Rotana Cinema Egypt  HD</display-name>
     <display-name lang="en">AR: Rotana Cinema Egypt  4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA CINEMA FHD</display-name>
+    <display-name lang="en">AR| ROTANA CINEMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1289_1.png" />
     <url>https://elcinema.com/en/tvguide/1289/</url>
   </channel>
@@ -1011,6 +1396,10 @@
     <display-name lang="en">Rotana Classic</display-name>
     <display-name lang="en">AR: Rotana Classic HD</display-name>
     <display-name lang="en">AR: Rotana Classic 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA CLASSIC FHD</display-name>
+    <display-name lang="en">AR| ROTANA CLASSIC HD</display-name>
+    <display-name lang="en">STC| ROTANA CLASSIC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROTANA CLASSIC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1217_1.png" />
     <url>https://elcinema.com/en/tvguide/1217/</url>
   </channel>
@@ -1018,6 +1407,7 @@
     <display-name lang="en">Rotana Khalejia</display-name>
     <display-name lang="en">AR: Rotana Khalijeah HD</display-name>
     <display-name lang="en">AR: Rotana Khalijeah 4K ◉</display-name>
+    <display-name lang="en">AR| ROTANA KHALIJEAH FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1149_1.png" />
     <url>https://elcinema.com/en/tvguide/1149/</url>
   </channel>
@@ -1025,24 +1415,31 @@
     <display-name lang="en">Roya</display-name>
     <display-name lang="en">AR: Roya TV 4K</display-name>
     <display-name lang="en">AR: Roya TV HD</display-name>
+    <display-name lang="en">AR| ROYA</display-name>
+    <display-name lang="en">AR| ROYA TV FHD</display-name>
+    <display-name lang="en">STC| ROYA ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ROYA ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1299_1.png" />
     <url>https://elcinema.com/en/tvguide/1299/</url>
   </channel>
   <channel id="Sada El Balad">
     <display-name lang="en">Sada El Balad</display-name>
     <display-name lang="en">AR: Sada Al Balad</display-name>
+    <display-name lang="en">AR| SADA AL BALAD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1226_1.png" />
     <url>https://elcinema.com/en/tvguide/1226/</url>
   </channel>
   <channel id="Sada El Balad 2">
     <display-name lang="en">Sada El Balad 2</display-name>
     <display-name lang="en">AR: Sada Al Bald Plus</display-name>
+    <display-name lang="en">AR| SADA AL BALD PLUS</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1279_1.png" />
     <url>https://elcinema.com/en/tvguide/1279/</url>
   </channel>
   <channel id="Sada El Balad Drama">
     <display-name lang="en">Sada El Balad Drama</display-name>
     <display-name lang="en">AR: Sada Al Balad Drama</display-name>
+    <display-name lang="en">AR| SADA AL BALAD DRAMA</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1227_1.png" />
     <url>https://elcinema.com/en/tvguide/1227/</url>
   </channel>
@@ -1050,6 +1447,9 @@
     <display-name lang="en">Sama Dubai</display-name>
     <display-name lang="en">AR: Sama Dubai HD</display-name>
     <display-name lang="en">AR: Sama Dubai 4K</display-name>
+    <display-name lang="en">AR| SAMA DUBAI HD</display-name>
+    <display-name lang="en">STC| SAMA DUBAI ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SAMA DUBAI ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1177_1.png" />
     <url>https://elcinema.com/en/tvguide/1177/</url>
   </channel>
@@ -1057,6 +1457,9 @@
     <display-name lang="en">Sama Dubai</display-name>
     <display-name lang="en">AR: Sama Dubai HD</display-name>
     <display-name lang="en">AR: Sama Dubai 4K</display-name>
+    <display-name lang="en">AR| SAMA DUBAI HD</display-name>
+    <display-name lang="en">STC| SAMA DUBAI ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SAMA DUBAI ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1177_1.png" />
     <url>https://elcinema.com/en/tvguide/1177/</url>
   </channel>
@@ -1066,6 +1469,10 @@
     <display-name lang="en">AR: Saudia TV 1 4K</display-name>
     <display-name lang="en">STC: SAUDI 1 ᴴᴰ</display-name>
     <display-name lang="en">STC: SAUDI 1 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">AR| SAUDIA TV 1 4K</display-name>
+    <display-name lang="en">AR| SAUDIA TV 1 FHD</display-name>
+    <display-name lang="en">STC| SAUDI 1 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SAUDI 1 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1352_1.png" />
     <url>https://elcinema.com/en/tvguide/1352/</url>
   </channel>
@@ -1075,6 +1482,10 @@
     <display-name lang="en">AR: Saudia TV 1 4K</display-name>
     <display-name lang="en">STC: SAUDI 1 ᴴᴰ</display-name>
     <display-name lang="en">STC: SAUDI 1 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">AR| SAUDIA TV 1 4K</display-name>
+    <display-name lang="en">AR| SAUDIA TV 1 FHD</display-name>
+    <display-name lang="en">STC| SAUDI 1 ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SAUDI 1 ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1352_1.png" />
     <url>https://elcinema.com/en/tvguide/1352/</url>
   </channel>
@@ -1083,6 +1494,10 @@
     <display-name lang="en">AR: Saudia SBC</display-name>
     <display-name lang="en">AR: Saudia SBC HD</display-name>
     <display-name lang="en">AR: Saudia SBC 4K</display-name>
+    <display-name lang="en">AR| SAUDIA SBC 4K</display-name>
+    <display-name lang="en">AR| SBC HD</display-name>
+    <display-name lang="en">STC| SBC ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1297_1.png" />
     <url>https://elcinema.com/en/tvguide/1297/</url>
   </channel>
@@ -1090,6 +1505,8 @@
     <display-name lang="en">Sharjah TV</display-name>
     <display-name lang="en">AR: Sharjah 4K</display-name>
     <display-name lang="en">AR: Sharjah HD</display-name>
+    <display-name lang="en">STC| SHARJAH TV ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| SHARJAH TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1188_1.png" />
     <url>https://elcinema.com/en/tvguide/1188/</url>
   </channel>
@@ -1099,18 +1516,26 @@
     <display-name lang="en">BE: beIN STAR ACTION ᴴᴰ</display-name>
     <display-name lang="en">STC: STAR ACTION ᴴᴰ</display-name>
     <display-name lang="en">STC: STAR ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR ACTION ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1330_1.png" />
     <url>https://elcinema.com/en/tvguide/1330/</url>
   </channel>
   <channel id="Star Movies">
     <display-name lang="en">Star Movies</display-name>
     <display-name lang="en">AR: beIN STAR MOVIES HD</display-name>
+    <display-name lang="en">AR| BEIN STAR MOVIES HD</display-name>
+    <display-name lang="en">STC| STAR MOVIES ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR MOVIES ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1212_1.png" />
     <url>https://elcinema.com/en/tvguide/1212/</url>
   </channel>
   <channel id="Star World">
     <display-name lang="en">Star World</display-name>
     <display-name lang="en">AR: beIN STAR WORLD HD</display-name>
+    <display-name lang="en">AR| BEIN STAR WORLD HD</display-name>
+    <display-name lang="en">STC| STAR WORLD ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR WORLD ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1329_1.png" />
     <url>https://elcinema.com/en/tvguide/1329/</url>
   </channel>
@@ -1120,24 +1545,33 @@
     <display-name lang="en">BE: beIN STAR ACTION ᴴᴰ</display-name>
     <display-name lang="en">STC: STAR ACTION ᴴᴰ</display-name>
     <display-name lang="en">STC: STAR ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR ACTION ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR ACTION ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1330_1.png" />
     <url>https://elcinema.com/en/tvguide/1330/</url>
   </channel>
   <channel id="StarMovies.sa">
     <display-name lang="en">Star Movies</display-name>
     <display-name lang="en">AR: beIN STAR MOVIES HD</display-name>
+    <display-name lang="en">AR| BEIN STAR MOVIES HD</display-name>
+    <display-name lang="en">STC| STAR MOVIES ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR MOVIES ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1212_1.png" />
     <url>https://elcinema.com/en/tvguide/1212/</url>
   </channel>
   <channel id="StarWorld.sa">
     <display-name lang="en">Star World</display-name>
     <display-name lang="en">AR: beIN STAR WORLD HD</display-name>
+    <display-name lang="en">AR| BEIN STAR WORLD HD</display-name>
+    <display-name lang="en">STC| STAR WORLD ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| STAR WORLD ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1329_1.png" />
     <url>https://elcinema.com/en/tvguide/1329/</url>
   </channel>
   <channel id="TeN TV">
     <display-name lang="en">TeN TV</display-name>
     <display-name lang="en">AR: Ten TV</display-name>
+    <display-name lang="en">AR| TEN TV</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1280_1.png" />
     <url>https://elcinema.com/en/tvguide/1280/</url>
   </channel>
@@ -1146,6 +1580,8 @@
     <display-name lang="en">AR: Saudia Thekrayat TV</display-name>
     <display-name lang="en">AR: Saudia Thekrayat TV HD</display-name>
     <display-name lang="en">AR: Saudia Thekrayat TV 4K</display-name>
+    <display-name lang="en">AR| SAUDIA THEKRAYAT TV</display-name>
+    <display-name lang="en">AR| SAUDIA THEKRAYAT TV 4K</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1366_1.png" />
     <url>https://elcinema.com/en/tvguide/1366/</url>
   </channel>
@@ -1153,6 +1589,7 @@
     <display-name lang="en">Watania1</display-name>
     <display-name lang="en">AR: Tunisia National 1 4K</display-name>
     <display-name lang="en">AR: Tunisia 1 4K</display-name>
+    <display-name lang="en">AR| TUNISIA 1 FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1308_1.png" />
     <url>https://elcinema.com/en/tvguide/1308/</url>
   </channel>
@@ -1164,6 +1601,7 @@
   </channel>
   <channel id="Utv">
     <display-name lang="en">Utv</display-name>
+    <display-name lang="en">AR| UTV IRAQ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1367_1.png" />
     <url>https://elcinema.com/en/tvguide/1367/</url>
   </channel>
@@ -1177,6 +1615,7 @@
     <display-name lang="en">Watania1</display-name>
     <display-name lang="en">AR: Tunisia National 1 4K</display-name>
     <display-name lang="en">AR: Tunisia 1 4K</display-name>
+    <display-name lang="en">AR| TUNISIA 1 FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1308_1.png" />
     <url>https://elcinema.com/en/tvguide/1308/</url>
   </channel>
@@ -1189,6 +1628,9 @@
   <channel id="Zee alwan">
     <display-name lang="en">Zee alwan</display-name>
     <display-name lang="en">AR: Zee Alwan</display-name>
+    <display-name lang="en">AR| ZEE ALWAN</display-name>
+    <display-name lang="en">STC| ZEE ALWAN ʰᵉᵛᶜ</display-name>
+    <display-name lang="en">STC| ZEE ALWAN ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1261_1.png" />
     <url>https://elcinema.com/en/tvguide/1261/</url>
   </channel>
@@ -1216,6 +1658,11 @@
     <title lang="ar">مسرحية</title>
   </programme>
   <programme channel="MBC MAX" start="20260813140000 +0400" stop="20260813160000 +0400">
+    <title lang="en">The Hitman's Bodyguard</title>
+    <desc lang="ar">تدور احداث الفيلم حول أفضل حارس شخصي في العالم، والذي يتم  تكليفه بحراسة قاتل محترف، حيث أن هذا القاتل مطلوب للإدلاء بشهادته أمام محكمة العدل الدولية، وهنا يجب على الاثنين أن ينحيا خلافتهما جانبًا، وأن يعملا معًا من أجل الوصول إلى المحكمة في الوقت المحدد.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260813140000 +0400" stop="20260813160000 +0400">
     <title lang="en">The Hitman's Bodyguard</title>
     <desc lang="ar">تدور احداث الفيلم حول أفضل حارس شخصي في العالم، والذي يتم  تكليفه بحراسة قاتل محترف، حيث أن هذا القاتل مطلوب للإدلاء بشهادته أمام محكمة العدل الدولية، وهنا يجب على الاثنين أن ينحيا خلافتهما جانبًا، وأن يعملا معًا من أجل الوصول إلى المحكمة في الوقت المحدد.</desc>
     <category lang="ar">فيلم</category>
@@ -1801,6 +2248,11 @@
     <desc lang="ar">في موسمه السادس، يعود برنامج المسابقات الغنائي الأبرز على  قنوات MBC ليبحث عن أجمل الأصوات وأقواها. يقدمه الإعلامي ياسر السقاف، وتضم لجنة التحكيم هذا الموسم النجوم أحمد سعد، ناصيف زيتون، ورحمة رياض في رحلة لاكتشاف صوتٍ استثنائي جديد.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260813153000 +0400" stop="20260813183000 +0400">
+    <title lang="en">The Voice S6</title>
+    <desc lang="ar">في موسمه السادس، يعود برنامج المسابقات الغنائي الأبرز على  قنوات MBC ليبحث عن أجمل الأصوات وأقواها. يقدمه الإعلامي ياسر السقاف، وتضم لجنة التحكيم هذا الموسم النجوم أحمد سعد، ناصيف زيتون، ورحمة رياض في رحلة لاكتشاف صوتٍ استثنائي جديد.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBC 3" start="20260813153000 +0400" stop="20260813160000 +0400">
     <title lang="ar">قناص الدروع</title>
     <desc lang="ar">يُجبر فين وماكس وجريس وأصدقائهم على جمع النجوم من قارات  العالم المختلفة لحماية الكون، حيث تهدد قوى الظلام العالم بعودتها من جديد بعد خسارتهم المعارك واختفائهم منذ زمن بعيد.</desc>
@@ -1838,6 +2290,9 @@
     <title lang="ar">برنامج براد وصينية</title>
   </programme>
   <programme channel="MBC Action" start="20260813153000 +0400" stop="20260813170000 +0400">
+    <title lang="ar">بودكاست ملح الدوري</title>
+  </programme>
+  <programme channel="MBCAction.sa" start="20260813153000 +0400" stop="20260813170000 +0400">
     <title lang="ar">بودكاست ملح الدوري</title>
   </programme>
   <programme channel="MBCActionEn.sa" start="20260813153000 +0400" stop="20260813170000 +0400">
@@ -2244,6 +2699,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260813160000 +0400" stop="20260813180000 +0400">
+    <title lang="en">Hitman's Wife's Bodyguard</title>
+    <desc lang="ar">تتمة للفيلم الذي صدر عام 2017 بعنوان (الحارس الشخصي لقاتل  محترف)، والذي تدور أحداثه بعد أربع سنوات من أحداث الفيلم اﻷول، حيث يحاول برايس وكنكايد إنقاذ سونيا زوجة كنكايد من مخاطر جديدة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260813160000 +0400" stop="20260813180000 +0400">
     <title lang="en">Hitman's Wife's Bodyguard</title>
     <desc lang="ar">تتمة للفيلم الذي صدر عام 2017 بعنوان (الحارس الشخصي لقاتل  محترف)، والذي تدور أحداثه بعد أربع سنوات من أحداث الفيلم اﻷول، حيث يحاول برايس وكنكايد إنقاذ سونيا زوجة كنكايد من مخاطر جديدة.</desc>
     <category lang="ar">فيلم</category>
@@ -2930,6 +3390,11 @@
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
   <programme channel="MBC Action" start="20260813170000 +0400" stop="20260813183000 +0400">
+    <title lang="ar">أكشن مع وليد</title>
+    <desc lang="ar">برنامج رياضي متنوع، يقدمه الإعلامي السعودي وليد الفراج، على  قناة إم بي سي أكشن، يستضيف محللين رياضين ونجوم الرياضة، ويستعرض أهم أحداث وأخبار دوري روشن السعودي لكرة القدم.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
+  <programme channel="MBCAction.sa" start="20260813170000 +0400" stop="20260813183000 +0400">
     <title lang="ar">أكشن مع وليد</title>
     <desc lang="ar">برنامج رياضي متنوع، يقدمه الإعلامي السعودي وليد الفراج، على  قناة إم بي سي أكشن، يستضيف محللين رياضين ونجوم الرياضة، ويستعرض أهم أحداث وأخبار دوري روشن السعودي لكرة القدم.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
@@ -3756,6 +4221,11 @@
     <desc lang="ar">يجمع القدر بشكل غريب مجموعة من رجال الشرطة والمجرمين والسياح  والمراهقين في إحدى غابات جورجيا، حينما ينطلق دب في حالة هياج، قاتلًا أي شيء في طريقه بعد تناوله مخدرات بطريق الخطأ.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260814180000 +0400" stop="20260814193000 +0400">
+    <title lang="en">Cocaine Bear</title>
+    <desc lang="ar">يجمع القدر بشكل غريب مجموعة من رجال الشرطة والمجرمين والسياح  والمراهقين في إحدى غابات جورجيا، حينما ينطلق دب في حالة هياج، قاتلًا أي شيء في طريقه بعد تناوله مخدرات بطريق الخطأ.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260814180000 +0400" stop="20260814193000 +0400">
     <title lang="en">Cocaine Bear</title>
     <desc lang="ar">يجمع القدر بشكل غريب مجموعة من رجال الشرطة والمجرمين والسياح  والمراهقين في إحدى غابات جورجيا، حينما ينطلق دب في حالة هياج، قاتلًا أي شيء في طريقه بعد تناوله مخدرات بطريق الخطأ.</desc>
@@ -4034,6 +4504,11 @@
     <desc lang="ar">وداد، أم كفيفة تتحدى فقدان بصرها بقوة بصيرتها وإرادتها،  مكرسة حياتها لرعاية أبنائها بمساندة زوجها الوفي صالح. وسط ظروف معيشية قاسية، لا تكتفي وداد بحماية مملكتها الصغيرة، بل تحمل على عاتقها عبء احتواء صراعات شقيق زوجها منصور وزوجته شاهة. ومع اشتداد الأزمات ومواجهة عواصف الحياة التي تهدد استقرار بيتها، تلملم وداد شتات قوتها لتتحول لدرع بشري يتصدى لكل من يحاول النيل من عائلتها.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260814183000 +0400" stop="20260814191500 +0400">
+    <title lang="ar">الغميضة</title>
+    <desc lang="ar">وداد، أم كفيفة تتحدى فقدان بصرها بقوة بصيرتها وإرادتها،  مكرسة حياتها لرعاية أبنائها بمساندة زوجها الوفي صالح. وسط ظروف معيشية قاسية، لا تكتفي وداد بحماية مملكتها الصغيرة، بل تحمل على عاتقها عبء احتواء صراعات شقيق زوجها منصور وزوجته شاهة. ومع اشتداد الأزمات ومواجهة عواصف الحياة التي تهدد استقرار بيتها، تلملم وداد شتات قوتها لتتحول لدرع بشري يتصدى لكل من يحاول النيل من عائلتها.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC 3" start="20260814183000 +0400" stop="20260814190000 +0400">
     <title lang="en">Agent 203</title>
     <desc lang="ar">تكتشف (زوي) سرًا خطيرًا عن والدها، حيث يظهر أنه كان جاسوسًا  يعمل على محاربة كائنات فضائية ويختفي، لذا تقرر (زوي) إكمال مهمة والدها لتصبح العميلة رقم 203.</desc>
@@ -4075,6 +4550,9 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC Action" start="20260814183000 +0400" stop="20260814193000 +0400">
+    <title lang="ar">برنامج ارض المليون</title>
+  </programme>
+  <programme channel="MBCAction.sa" start="20260814183000 +0400" stop="20260814193000 +0400">
     <title lang="ar">برنامج ارض المليون</title>
   </programme>
   <programme channel="MBCActionEn.sa" start="20260814183000 +0400" stop="20260814193000 +0400">
@@ -4660,6 +5138,11 @@
     <desc lang="ar">في إطار درامي، يتناول العمل قصة أبناء حي (توزلو ياكا)، وهم  (علي) وأصدقاؤه الذين التحقوا بمدرسة رفيعة المستوى للتحقيق في مقتل صديقهم والوصول لقاتله ومعاقبته بأشد الطرق، حيث كان صديقهم يدرس في نفس المدرسة في منحة دراسية.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260814191500 +0400" stop="20260814194500 +0400">
+    <title lang="en">Tozluyaka</title>
+    <desc lang="ar">في إطار درامي، يتناول العمل قصة أبناء حي (توزلو ياكا)، وهم  (علي) وأصدقاؤه الذين التحقوا بمدرسة رفيعة المستوى للتحقيق في مقتل صديقهم والوصول لقاتله ومعاقبته بأشد الطرق، حيث كان صديقهم يدرس في نفس المدرسة في منحة دراسية.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC Drama +" start="20260814191500 +0400" stop="20260814200000 +0400">
     <title lang="ar">كذبة إبريل</title>
     <desc lang="ar">تدور القصة حول أسرة تاجر معروف على مستوى المجتمع، عاش هو  وزوجته (بيبي) حياة جعلت منهما محط أنظار البعيد قبل القريب. حيث ظنت بيبي أنها ممسكة بزمام أمور أسرتها في غياب زوجها المستمر عن المنزل بسبب سفره الدائم. فتتفاجئ بعد فوات الأوان إنها كانت تعيش وسط دوامة من الأكاذيب التي عصفت بحياتها، لتقلبها رأسا على عقب بعد موت الزوج المفاجئ بحادث.</desc>
@@ -4866,6 +5349,11 @@
     <desc lang="ar">في جو الخيال العلمي يرصد الفيلم قصة جندي يُدعى وليام كيدج  (توم كروز). كيدج لم يخض معركةً من قبل ،لكنه يجد نفسه محاصرًا في عملية انتحارية وفي دقائق معدودة يُقتل. وبطريقةٍ ما يجد نفسه يعيش المعركة من جديد حيث يحارب ويُقتل ويعود من جديد مرةً أخرى يحارب ويُقتل، وفي كل مرة يكتسب مهارات قتالية جديدة. ولذلك يتحد مع امرأة من القوات الخاصة تُدعى ريتا (إيميلي بلانت) من أجل محاربة هجومٍ شرسٍ من قبل الميمكس القادمين من الفضاء.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260814193000 +0400" stop="20260814213000 +0400">
+    <title lang="en">Edge of Tomorrow</title>
+    <desc lang="ar">في جو الخيال العلمي يرصد الفيلم قصة جندي يُدعى وليام كيدج  (توم كروز). كيدج لم يخض معركةً من قبل ،لكنه يجد نفسه محاصرًا في عملية انتحارية وفي دقائق معدودة يُقتل. وبطريقةٍ ما يجد نفسه يعيش المعركة من جديد حيث يحارب ويُقتل ويعود من جديد مرةً أخرى يحارب ويُقتل، وفي كل مرة يكتسب مهارات قتالية جديدة. ولذلك يتحد مع امرأة من القوات الخاصة تُدعى ريتا (إيميلي بلانت) من أجل محاربة هجومٍ شرسٍ من قبل الميمكس القادمين من الفضاء.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260814193000 +0400" stop="20260814213000 +0400">
     <title lang="en">Edge of Tomorrow</title>
     <desc lang="ar">في جو الخيال العلمي يرصد الفيلم قصة جندي يُدعى وليام كيدج  (توم كروز). كيدج لم يخض معركةً من قبل ،لكنه يجد نفسه محاصرًا في عملية انتحارية وفي دقائق معدودة يُقتل. وبطريقةٍ ما يجد نفسه يعيش المعركة من جديد حيث يحارب ويُقتل ويعود من جديد مرةً أخرى يحارب ويُقتل، وفي كل مرة يكتسب مهارات قتالية جديدة. ولذلك يتحد مع امرأة من القوات الخاصة تُدعى ريتا (إيميلي بلانت) من أجل محاربة هجومٍ شرسٍ من قبل الميمكس القادمين من الفضاء.</desc>
@@ -4983,6 +5471,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC1.ae" start="20260814194500 +0400" stop="20260814201500 +0400">
+    <title lang="ar">جاك العلم</title>
+    <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="MBC1En.ae" start="20260814194500 +0400" stop="20260814201500 +0400">
     <title lang="ar">جاك العلم</title>
     <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
     <category lang="ar">مسلسل</category>
@@ -5487,6 +5980,11 @@
     <desc lang="ar">تدور أحداث المسلسل في إحدى القرى الريفية السورية، ويتناول  العلاقات الإنسانية وهموم سكان الريف، والقضايا والمشكلات اليومية للشباب وكبار السن وما يواجهونه من تحديات حياتية مختلفة، في إطار كوميدي خفيف.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260814201500 +0400" stop="20260814210000 +0400">
+    <title lang="ar">نسمات أيلول</title>
+    <desc lang="ar">تدور أحداث المسلسل في إحدى القرى الريفية السورية، ويتناول  العلاقات الإنسانية وهموم سكان الريف، والقضايا والمشكلات اليومية للشباب وكبار السن وما يواجهونه من تحديات حياتية مختلفة، في إطار كوميدي خفيف.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC 4" start="20260814201500 +0400" stop="20260814211500 +0400">
     <title lang="ar">من ... إلى</title>
     <desc lang="ar">يجد وليد نفسه في دوامة مظلمة عندما تقع جريمة قتل مروعة في  منزله ويخسر ابنه، وتختفي زوجته الحامل سارة ويعلم عن تزويرها لهويتها ويلاحقها ماضي إجرامي.</desc>
@@ -5945,6 +6443,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC1.ae" start="20260814210000 +0400" stop="20260814214500 +0400">
+    <title lang="ar">المداح ج6: أسطورة النهاية</title>
+    <desc lang="ar">بعد تجرده من قدراته الاستثنائية فداءً لمن يحب، يواجه 'صابر  المداح' الاختبار الأصعب أمام مارد غياهب العالم السفلي 'سميح'. وفي رحلة محفوفة بالخطر لاسترداد قواه، يخوض صابر معركة وجودية لكبح جماح الشر المستعر ومنع طوفان الظلام.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="MBC1En.ae" start="20260814210000 +0400" stop="20260814214500 +0400">
     <title lang="ar">المداح ج6: أسطورة النهاية</title>
     <desc lang="ar">بعد تجرده من قدراته الاستثنائية فداءً لمن يحب، يواجه 'صابر  المداح' الاختبار الأصعب أمام مارد غياهب العالم السفلي 'سميح'. وفي رحلة محفوفة بالخطر لاسترداد قواه، يخوض صابر معركة وجودية لكبح جماح الشر المستعر ومنع طوفان الظلام.</desc>
     <category lang="ar">مسلسل</category>
@@ -6439,6 +6942,11 @@
     <desc lang="ar">بعد نهاية العالم على نحو مأساوي، وفي إحدى الصحاري المقفرة،  يعيش اثنان من الثوار الفارين اللذين يحملان إمكانية استعادة النظام لطبيعته من جديد، أولهما هو ماكس (توم هاردي)، الرجل الذي يسعى وراء التصالح مع الذات بعد خسارته لزوجته وابنه في أعقاب الفوضى التي اجتاحت الكوكب، وفيوريسا (تشارليز ثيرون) التي تعتقد أن طريقتها في اﻹصلاح قد تكون مجدية عبر الصحراء.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260814213000 +0400" stop="20260814233000 +0400">
+    <title lang="en">Mad Max: Fury Road</title>
+    <desc lang="ar">بعد نهاية العالم على نحو مأساوي، وفي إحدى الصحاري المقفرة،  يعيش اثنان من الثوار الفارين اللذين يحملان إمكانية استعادة النظام لطبيعته من جديد، أولهما هو ماكس (توم هاردي)، الرجل الذي يسعى وراء التصالح مع الذات بعد خسارته لزوجته وابنه في أعقاب الفوضى التي اجتاحت الكوكب، وفيوريسا (تشارليز ثيرون) التي تعتقد أن طريقتها في اﻹصلاح قد تكون مجدية عبر الصحراء.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260814213000 +0400" stop="20260814233000 +0400">
     <title lang="en">Mad Max: Fury Road</title>
     <desc lang="ar">بعد نهاية العالم على نحو مأساوي، وفي إحدى الصحاري المقفرة،  يعيش اثنان من الثوار الفارين اللذين يحملان إمكانية استعادة النظام لطبيعته من جديد، أولهما هو ماكس (توم هاردي)، الرجل الذي يسعى وراء التصالح مع الذات بعد خسارته لزوجته وابنه في أعقاب الفوضى التي اجتاحت الكوكب، وفيوريسا (تشارليز ثيرون) التي تعتقد أن طريقتها في اﻹصلاح قد تكون مجدية عبر الصحراء.</desc>
@@ -6540,6 +7048,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC1.ae" start="20260814214500 +0400" stop="20260814223000 +0400">
+    <title lang="ar">درب الذهب</title>
+    <desc lang="ar">بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة  السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="MBC1En.ae" start="20260814214500 +0400" stop="20260814223000 +0400">
     <title lang="ar">درب الذهب</title>
     <desc lang="ar">بعد سنوات من غدرٍ أودى بها خلف القضبان، تخرج فايزة من عتمة  السجن إلى عالم الثراء، فتجد سعد الذي خانها يوماً قد شيد إمبراطوريته من حطام صفقتهما القديمة. وبينما تتصادم طموحاتهما في صفقات مشبوهة جديدة، يشتعل فتيل انتقام تتشابك فيه مصائر أبنائهما بمرارة الماضي.</desc>
     <category lang="ar">مسلسل</category>
@@ -7222,6 +7735,11 @@
     <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260814223000 +0400" stop="20260814230000 +0400">
+    <title lang="ar">جاك العلم</title>
+    <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC 3" start="20260814223000 +0400" stop="20260814230000 +0400">
     <title lang="en">The 3 musketeers</title>
     <desc lang="ar">في باريس عام 1623، تحلم أربع فتيات بالانضمام إلى فيلق  الفرسان لحماية الملك لويس الثالث عشر، لكن بعدما يُمنعن من ذلك، يخفين هوياتهن لتحقيق العدالة وحماية الملك ومواجهة من يهدد مملكة فرنسا.</desc>
@@ -7569,6 +8087,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC1.ae" start="20260814230000 +0400" stop="20260815010000 +0400">
+    <title lang="en">Tozluyaka</title>
+    <desc lang="ar">في إطار درامي، يتناول العمل قصة أبناء حي (توزلو ياكا)، وهم  (علي) وأصدقاؤه الذين التحقوا بمدرسة رفيعة المستوى للتحقيق في مقتل صديقهم والوصول لقاتله ومعاقبته بأشد الطرق، حيث كان صديقهم يدرس في نفس المدرسة في منحة دراسية.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="MBC1En.ae" start="20260814230000 +0400" stop="20260815010000 +0400">
     <title lang="en">Tozluyaka</title>
     <desc lang="ar">في إطار درامي، يتناول العمل قصة أبناء حي (توزلو ياكا)، وهم  (علي) وأصدقاؤه الذين التحقوا بمدرسة رفيعة المستوى للتحقيق في مقتل صديقهم والوصول لقاتله ومعاقبته بأشد الطرق، حيث كان صديقهم يدرس في نفس المدرسة في منحة دراسية.</desc>
     <category lang="ar">مسلسل</category>
@@ -7973,6 +8496,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260814233000 +0400" stop="20260815010500 +0400">
+    <title lang="en">Ghost in the Shell</title>
+    <desc lang="ar">تقود شُرطية نصف آلية (سايبورج) تدعى ميجور قسم فريق النخبة  المعروف بـ(القطاع 9)، يتم توكيلها بمهمة إيقاف المجرمين والمتطرفين الأكثر خطورة على الإطلاق؛ فينخرط (القطاع 9) في مواجهة ضد عدو يستهدف القضاء على التقدم التقني في تكنولوجيا الآليين.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260814233000 +0400" stop="20260815010500 +0400">
     <title lang="en">Ghost in the Shell</title>
     <desc lang="ar">تقود شُرطية نصف آلية (سايبورج) تدعى ميجور قسم فريق النخبة  المعروف بـ(القطاع 9)، يتم توكيلها بمهمة إيقاف المجرمين والمتطرفين الأكثر خطورة على الإطلاق؛ فينخرط (القطاع 9) في مواجهة ضد عدو يستهدف القضاء على التقدم التقني في تكنولوجيا الآليين.</desc>
     <category lang="ar">فيلم</category>
@@ -9096,6 +9624,11 @@
     <desc lang="ar">وداد، أم كفيفة تتحدى فقدان بصرها بقوة بصيرتها وإرادتها،  مكرسة حياتها لرعاية أبنائها بمساندة زوجها الوفي صالح. وسط ظروف معيشية قاسية، لا تكتفي وداد بحماية مملكتها الصغيرة، بل تحمل على عاتقها عبء احتواء صراعات شقيق زوجها منصور وزوجته شاهة. ومع اشتداد الأزمات ومواجهة عواصف الحياة التي تهدد استقرار بيتها، تلملم وداد شتات قوتها لتتحول لدرع بشري يتصدى لكل من يحاول النيل من عائلتها.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260815010000 +0400" stop="20260815014500 +0400">
+    <title lang="ar">الغميضة</title>
+    <desc lang="ar">وداد، أم كفيفة تتحدى فقدان بصرها بقوة بصيرتها وإرادتها،  مكرسة حياتها لرعاية أبنائها بمساندة زوجها الوفي صالح. وسط ظروف معيشية قاسية، لا تكتفي وداد بحماية مملكتها الصغيرة، بل تحمل على عاتقها عبء احتواء صراعات شقيق زوجها منصور وزوجته شاهة. ومع اشتداد الأزمات ومواجهة عواصف الحياة التي تهدد استقرار بيتها، تلملم وداد شتات قوتها لتتحول لدرع بشري يتصدى لكل من يحاول النيل من عائلتها.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC 2" start="20260815010000 +0400" stop="20260815023000 +0400">
     <title lang="en">Ace Ventura: When Nature Calls</title>
     <desc lang="ar">يعود إيس فنتورا مخبر الحيوانات الأليفة من التقاعد للتحقيق في  اختفاء خفاش بيضاء نادرة، والذي يعد رمزًا لقبيلة أفريقية، ويلجأ إلى كافة أساليبه غير الاعتيادية لحل القضية.</desc>
@@ -9321,6 +9854,9 @@
   <programme channel="MBC MAX" start="20260815010500 +0400" stop="20260815013000 +0400">
     <title lang="ar">برنامج world of movies 3</title>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815010500 +0400" stop="20260815013000 +0400">
+    <title lang="ar">برنامج world of movies 3</title>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815010500 +0400" stop="20260815013000 +0400">
     <title lang="ar">برنامج world of movies 3</title>
   </programme>
@@ -9528,6 +10064,11 @@
     <desc lang="ar">شاب لعوب يُدعى (بريت) يرث شركة كبيرة عن والده، تتغير حياته  المليئة بالحفلات، واللهو عندما يقابل خبير الكونج فو (كاتو)، حيث يتولى سويا إجهاض عملية سطو، ويصبح من الأبطال الخارقين الذين يحاربون الجريمة، والإرهاب.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815013000 +0400" stop="20260815033000 +0400">
+    <title lang="en">The Green Hornet</title>
+    <desc lang="ar">شاب لعوب يُدعى (بريت) يرث شركة كبيرة عن والده، تتغير حياته  المليئة بالحفلات، واللهو عندما يقابل خبير الكونج فو (كاتو)، حيث يتولى سويا إجهاض عملية سطو، ويصبح من الأبطال الخارقين الذين يحاربون الجريمة، والإرهاب.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815013000 +0400" stop="20260815033000 +0400">
     <title lang="en">The Green Hornet</title>
     <desc lang="ar">شاب لعوب يُدعى (بريت) يرث شركة كبيرة عن والده، تتغير حياته  المليئة بالحفلات، واللهو عندما يقابل خبير الكونج فو (كاتو)، حيث يتولى سويا إجهاض عملية سطو، ويصبح من الأبطال الخارقين الذين يحاربون الجريمة، والإرهاب.</desc>
@@ -9636,6 +10177,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC1.ae" start="20260815014500 +0400" stop="20260815024500 +0400">
+    <title lang="ar">المداح ج6: أسطورة النهاية</title>
+    <desc lang="ar">بعد تجرده من قدراته الاستثنائية فداءً لمن يحب، يواجه 'صابر  المداح' الاختبار الأصعب أمام مارد غياهب العالم السفلي 'سميح'. وفي رحلة محفوفة بالخطر لاسترداد قواه، يخوض صابر معركة وجودية لكبح جماح الشر المستعر ومنع طوفان الظلام.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="MBC1En.ae" start="20260815014500 +0400" stop="20260815024500 +0400">
     <title lang="ar">المداح ج6: أسطورة النهاية</title>
     <desc lang="ar">بعد تجرده من قدراته الاستثنائية فداءً لمن يحب، يواجه 'صابر  المداح' الاختبار الأصعب أمام مارد غياهب العالم السفلي 'سميح'. وفي رحلة محفوفة بالخطر لاسترداد قواه، يخوض صابر معركة وجودية لكبح جماح الشر المستعر ومنع طوفان الظلام.</desc>
     <category lang="ar">مسلسل</category>
@@ -10377,6 +10923,11 @@
     <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="MBC1En.ae" start="20260815024500 +0400" stop="20260815030800 +0400">
+    <title lang="ar">جاك العلم</title>
+    <desc lang="ar">في إطار كوميدي، يعود (أبو صامل) مع زوجته (أم صامل) من جديد،  وتقع بينهما العديد من الأحداث والمفارقات التي تحاول (أم صامل) السيطرة فيها وفرض رأيها بشدة.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="MBC Drama +" start="20260815024500 +0400" stop="20260815032100 +0400">
     <title lang="ar">اللعبة</title>
     <desc lang="ar">تدور الأحداث حول وسيم ومازو، وهما الزميلان منذ صغرهما اللذان  يتنافسان ضد بعضهما البعض في شكل مباراة مستمرة بينهما، وحينما يتقدم الثنائي في العمر وينتهي التنافس بينهما، يظهر شخص غامض يدفعهما للعودة لمنافسة بعضهما البعض من جديد.</desc>
@@ -10884,6 +11435,11 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="MBC MAX" start="20260815033000 +0400" stop="20260815060000 +0400">
+    <title lang="en">Princess Mononoke</title>
+    <desc lang="ar">يعيش (أشيتاكا) بهدوء ونعيم، في قبيلة تم نفيها جميعا، في أحد  الأيام بينما كان (أشيتاكا) في الجوار مع غزاله الأحمر، صدر صوت غريب يشبه جلبة، وفجأة يظهر حيوان غريب كبير، وبذلك تتغير حياة (أشيتاكا) للأبد منذ تلك اللحظة. .</desc>
+    <category lang="ar">فيلم - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815033000 +0400" stop="20260815060000 +0400">
     <title lang="en">Princess Mononoke</title>
     <desc lang="ar">يعيش (أشيتاكا) بهدوء ونعيم، في قبيلة تم نفيها جميعا، في أحد  الأيام بينما كان (أشيتاكا) في الجوار مع غزاله الأحمر، صدر صوت غريب يشبه جلبة، وفجأة يظهر حيوان غريب كبير، وبذلك تتغير حياة (أشيتاكا) للأبد منذ تلك اللحظة. .</desc>
     <category lang="ar">فيلم - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
@@ -12258,6 +12814,11 @@
     <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم  هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815060000 +0400" stop="20260815070000 +0400">
+    <title lang="en">Films &amp; Stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم  هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815060000 +0400" stop="20260815070000 +0400">
     <title lang="en">Films &amp; Stars</title>
     <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم  هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.</desc>
@@ -12855,6 +13416,11 @@
     <category lang="ar">فيلم</category>
   </programme>
   <programme channel="MBC MAX" start="20260815070000 +0400" stop="20260815093000 +0400">
+    <title lang="en">House of Gucci</title>
+    <desc lang="ar">في إطار من الدراما، تدور أحداث العمل حول قصة مؤامرة باتريسيا  ريجياني الزوجة السابقة لماوريتسيو جوتشي لقتل زوجها، والتاريخ المظلم للعائلة الأشهر في في تاريخ الأزياء.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815070000 +0400" stop="20260815093000 +0400">
     <title lang="en">House of Gucci</title>
     <desc lang="ar">في إطار من الدراما، تدور أحداث العمل حول قصة مؤامرة باتريسيا  ريجياني الزوجة السابقة لماوريتسيو جوتشي لقتل زوجها، والتاريخ المظلم للعائلة الأشهر في في تاريخ الأزياء.</desc>
     <category lang="ar">فيلم</category>
@@ -14371,6 +14937,11 @@
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815093000 +0400" stop="20260815100000 +0400">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815093000 +0400" stop="20260815100000 +0400">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
@@ -14689,6 +15260,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260815100000 +0400" stop="20260815120000 +0400">
+    <title lang="en">The Grinch</title>
+    <desc lang="ar">تدور أحداث الفيلم عن (جرينش) الغاضب الذي يخطط لتدمير موسم  عيد الكريسماس لقاطني القرية المجاورة لـ(هوفيل)، إلى أن تتغير عواطفه نحو العيد على يد فتاة صغيرة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815100000 +0400" stop="20260815120000 +0400">
     <title lang="en">The Grinch</title>
     <desc lang="ar">تدور أحداث الفيلم عن (جرينش) الغاضب الذي يخطط لتدمير موسم  عيد الكريسماس لقاطني القرية المجاورة لـ(هوفيل)، إلى أن تتغير عواطفه نحو العيد على يد فتاة صغيرة.</desc>
     <category lang="ar">فيلم</category>
@@ -15798,6 +16374,11 @@
     <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815120000 +0400" stop="20260815133000 +0400">
+    <title lang="en">The Addams Family 2</title>
+    <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815120000 +0400" stop="20260815133000 +0400">
     <title lang="en">The Addams Family 2</title>
     <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
@@ -16707,6 +17288,9 @@
   <programme channel="MBC MAX" start="20260815133000 +0400" stop="20260815140000 +0400">
     <title lang="ar">برنامج planet action 6</title>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815133000 +0400" stop="20260815140000 +0400">
+    <title lang="ar">برنامج planet action 6</title>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815133000 +0400" stop="20260815140000 +0400">
     <title lang="ar">برنامج planet action 6</title>
   </programme>
@@ -17005,6 +17589,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260815140000 +0400" stop="20260815160000 +0400">
+    <title lang="en">The Golden Compass</title>
+    <desc lang="ar">في أجواء فانتازية، (ليزا) فتاة عادية تدرس في جامعة جوردان،  تحيا حياة مملة، وتبحث عن مغامرة مثيرة، لكن تتغير حياتها عندما تجد جزيئات دقيقة للغاية في حجم التراب أمام منزلها لها القدرة على توحيد العوامل المختلفة، لكن هناك مجهولا ما يصاب بالضيق من هذا الاكتشاف، ويسعى لتدميره، فتخوض مغامرة مثيرة مليئة بالحيوانات الناطقة، والكائنات الغريبة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815140000 +0400" stop="20260815160000 +0400">
     <title lang="en">The Golden Compass</title>
     <desc lang="ar">في أجواء فانتازية، (ليزا) فتاة عادية تدرس في جامعة جوردان،  تحيا حياة مملة، وتبحث عن مغامرة مثيرة، لكن تتغير حياتها عندما تجد جزيئات دقيقة للغاية في حجم التراب أمام منزلها لها القدرة على توحيد العوامل المختلفة، لكن هناك مجهولا ما يصاب بالضيق من هذا الاكتشاف، ويسعى لتدميره، فتخوض مغامرة مثيرة مليئة بالحيوانات الناطقة، والكائنات الغريبة.</desc>
     <category lang="ar">فيلم</category>
@@ -18232,6 +18821,11 @@
     <title lang="ar">برنامج شو القصة</title>
   </programme>
   <programme channel="MBC MAX" start="20260815160000 +0400" stop="20260815183000 +0400">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="ar">يترك (هاري بوتر)، وأصدقائه في مدرسة (هوجورتس)، منازلهم بسبب  اقتراب المواجهة المحتومة مع (لورد فولدمورت) المخيف، الذي يحاول السيطرة على كلٍ من في مدرسة (هووجورتس)، التي طرد منها من قبل وزارة السحر ليغرق العالم بأكمله في الظلام، ويكتشفوا خلال رحلتهم وجود أقوى ثلاثة أشياء في عالم السحر بأسره، وهى مقدسات الموت.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815160000 +0400" stop="20260815183000 +0400">
     <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
     <desc lang="ar">يترك (هاري بوتر)، وأصدقائه في مدرسة (هوجورتس)، منازلهم بسبب  اقتراب المواجهة المحتومة مع (لورد فولدمورت) المخيف، الذي يحاول السيطرة على كلٍ من في مدرسة (هووجورتس)، التي طرد منها من قبل وزارة السحر ليغرق العالم بأكمله في الظلام، ويكتشفوا خلال رحلتهم وجود أقوى ثلاثة أشياء في عالم السحر بأسره، وهى مقدسات الموت.</desc>
     <category lang="ar">فيلم</category>
@@ -19671,6 +20265,11 @@
     <desc lang="ar">يحاول (هاري بوتر) برفقة (رون)، و(هيرميون) الفوز على قوى  الشر، وهنا يحاول (هاري) العودة إلى (هوجوورتس) ﻹيجاد وتدمير (فولدمورت) نهائيًا الذي يكتشف مهمتهم وخطتهم فتبدأ أكبر المعارك بين (هاري) ورفاقه، وبين (فولدمورت)، حيث يستخدم تعويذة النار الشيطانية، والتي تتسبب في تدمير (الهوركروكس) السادس.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815183000 +0400" stop="20260815203000 +0400">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
+    <desc lang="ar">يحاول (هاري بوتر) برفقة (رون)، و(هيرميون) الفوز على قوى  الشر، وهنا يحاول (هاري) العودة إلى (هوجوورتس) ﻹيجاد وتدمير (فولدمورت) نهائيًا الذي يكتشف مهمتهم وخطتهم فتبدأ أكبر المعارك بين (هاري) ورفاقه، وبين (فولدمورت)، حيث يستخدم تعويذة النار الشيطانية، والتي تتسبب في تدمير (الهوركروكس) السادس.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815183000 +0400" stop="20260815203000 +0400">
     <title lang="en">Harry Potter and the Deathly Hallows: Part 2</title>
     <desc lang="ar">يحاول (هاري بوتر) برفقة (رون)، و(هيرميون) الفوز على قوى  الشر، وهنا يحاول (هاري) العودة إلى (هوجوورتس) ﻹيجاد وتدمير (فولدمورت) نهائيًا الذي يكتشف مهمتهم وخطتهم فتبدأ أكبر المعارك بين (هاري) ورفاقه، وبين (فولدمورت)، حيث يستخدم تعويذة النار الشيطانية، والتي تتسبب في تدمير (الهوركروكس) السادس.</desc>
@@ -20869,6 +21468,11 @@
     <desc lang="ar">تدور احداث الفيلم حول أفضل حارس شخصي في العالم، والذي يتم  تكليفه بحراسة قاتل محترف، حيث أن هذا القاتل مطلوب للإدلاء بشهادته أمام محكمة العدل الدولية، وهنا يجب على الاثنين أن ينحيا خلافتهما جانبًا، وأن يعملا معًا من أجل الوصول إلى المحكمة في الوقت المحدد.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815203000 +0400" stop="20260815223000 +0400">
+    <title lang="en">The Hitman's Bodyguard</title>
+    <desc lang="ar">تدور احداث الفيلم حول أفضل حارس شخصي في العالم، والذي يتم  تكليفه بحراسة قاتل محترف، حيث أن هذا القاتل مطلوب للإدلاء بشهادته أمام محكمة العدل الدولية، وهنا يجب على الاثنين أن ينحيا خلافتهما جانبًا، وأن يعملا معًا من أجل الوصول إلى المحكمة في الوقت المحدد.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815203000 +0400" stop="20260815223000 +0400">
     <title lang="en">The Hitman's Bodyguard</title>
     <desc lang="ar">تدور احداث الفيلم حول أفضل حارس شخصي في العالم، والذي يتم  تكليفه بحراسة قاتل محترف، حيث أن هذا القاتل مطلوب للإدلاء بشهادته أمام محكمة العدل الدولية، وهنا يجب على الاثنين أن ينحيا خلافتهما جانبًا، وأن يعملا معًا من أجل الوصول إلى المحكمة في الوقت المحدد.</desc>
@@ -22010,6 +22614,9 @@
   <programme channel="MBC MAX" start="20260815223000 +0400" stop="20260815230000 +0400">
     <title lang="ar">برنامج world of movies 3</title>
   </programme>
+  <programme channel="MBCMax.ae" start="20260815223000 +0400" stop="20260815230000 +0400">
+    <title lang="ar">برنامج world of movies 3</title>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260815223000 +0400" stop="20260815230000 +0400">
     <title lang="ar">برنامج world of movies 3</title>
   </programme>
@@ -22324,6 +22931,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260815230000 +0400" stop="20260816003000 +0400">
+    <title lang="en">Cocaine Bear</title>
+    <desc lang="ar">يجمع القدر بشكل غريب مجموعة من رجال الشرطة والمجرمين والسياح  والمراهقين في إحدى غابات جورجيا، حينما ينطلق دب في حالة هياج، قاتلًا أي شيء في طريقه بعد تناوله مخدرات بطريق الخطأ.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260815230000 +0400" stop="20260816003000 +0400">
     <title lang="en">Cocaine Bear</title>
     <desc lang="ar">يجمع القدر بشكل غريب مجموعة من رجال الشرطة والمجرمين والسياح  والمراهقين في إحدى غابات جورجيا، حينما ينطلق دب في حالة هياج، قاتلًا أي شيء في طريقه بعد تناوله مخدرات بطريق الخطأ.</desc>
     <category lang="ar">فيلم</category>
@@ -23177,6 +23789,11 @@
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816003000 +0400" stop="20260816010000 +0400">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816003000 +0400" stop="20260816010000 +0400">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
@@ -23526,6 +24143,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260816010000 +0400" stop="20260816025500 +0400">
+    <title lang="en">Cop Out</title>
+    <desc lang="ar">جيمي وبول من شرطة نيويورك، فوضويان، مشاغبان، لا يلتزمان  بالقانون ويصرفان الأمور بطريقتهما الخاصة. جيمي محتفظ منذ زمن طويل ببطاقة بيسبول قديمة جدًا ونادرة، وقيمتها المادية مرتفعة للغاية، في أحد المهمات تسرق منه وهى كانت أمله الوحيد كي يستطيع تزويج ابنته، يبدأ الشرطيان بحثهما معا لاستعادة البطاقة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816010000 +0400" stop="20260816025500 +0400">
     <title lang="en">Cop Out</title>
     <desc lang="ar">جيمي وبول من شرطة نيويورك، فوضويان، مشاغبان، لا يلتزمان  بالقانون ويصرفان الأمور بطريقتهما الخاصة. جيمي محتفظ منذ زمن طويل ببطاقة بيسبول قديمة جدًا ونادرة، وقيمتها المادية مرتفعة للغاية، في أحد المهمات تسرق منه وهى كانت أمله الوحيد كي يستطيع تزويج ابنته، يبدأ الشرطيان بحثهما معا لاستعادة البطاقة.</desc>
     <category lang="ar">فيلم</category>
@@ -24487,6 +25109,11 @@
     <category lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
   </programme>
   <programme channel="MBC MAX" start="20260816025500 +0400" stop="20260816043000 +0400">
+    <title lang="en">The Addams Family 2</title>
+    <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816025500 +0400" stop="20260816043000 +0400">
     <title lang="en">The Addams Family 2</title>
     <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
     <category lang="ar">فيلم</category>
@@ -25508,6 +26135,11 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="MBC MAX" start="20260816043000 +0400" stop="20260816070000 +0400">
+    <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
+    <desc lang="ar">يترك (هاري بوتر)، وأصدقائه في مدرسة (هوجورتس)، منازلهم بسبب  اقتراب المواجهة المحتومة مع (لورد فولدمورت) المخيف، الذي يحاول السيطرة على كلٍ من في مدرسة (هووجورتس)، التي طرد منها من قبل وزارة السحر ليغرق العالم بأكمله في الظلام، ويكتشفوا خلال رحلتهم وجود أقوى ثلاثة أشياء في عالم السحر بأسره، وهى مقدسات الموت.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816043000 +0400" stop="20260816070000 +0400">
     <title lang="en">Harry Potter and the Deathly Hallows: Part 1</title>
     <desc lang="ar">يترك (هاري بوتر)، وأصدقائه في مدرسة (هوجورتس)، منازلهم بسبب  اقتراب المواجهة المحتومة مع (لورد فولدمورت) المخيف، الذي يحاول السيطرة على كلٍ من في مدرسة (هووجورتس)، التي طرد منها من قبل وزارة السحر ليغرق العالم بأكمله في الظلام، ويكتشفوا خلال رحلتهم وجود أقوى ثلاثة أشياء في عالم السحر بأسره، وهى مقدسات الموت.</desc>
     <category lang="ar">فيلم</category>
@@ -26951,6 +27583,11 @@
     <desc lang="ar">في أجواء فانتازية، (ليزا) فتاة عادية تدرس في جامعة جوردان،  تحيا حياة مملة، وتبحث عن مغامرة مثيرة، لكن تتغير حياتها عندما تجد جزيئات دقيقة للغاية في حجم التراب أمام منزلها لها القدرة على توحيد العوامل المختلفة، لكن هناك مجهولا ما يصاب بالضيق من هذا الاكتشاف، ويسعى لتدميره، فتخوض مغامرة مثيرة مليئة بالحيوانات الناطقة، والكائنات الغريبة.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816070000 +0400" stop="20260816090000 +0400">
+    <title lang="en">The Golden Compass</title>
+    <desc lang="ar">في أجواء فانتازية، (ليزا) فتاة عادية تدرس في جامعة جوردان،  تحيا حياة مملة، وتبحث عن مغامرة مثيرة، لكن تتغير حياتها عندما تجد جزيئات دقيقة للغاية في حجم التراب أمام منزلها لها القدرة على توحيد العوامل المختلفة، لكن هناك مجهولا ما يصاب بالضيق من هذا الاكتشاف، ويسعى لتدميره، فتخوض مغامرة مثيرة مليئة بالحيوانات الناطقة، والكائنات الغريبة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816070000 +0400" stop="20260816090000 +0400">
     <title lang="en">The Golden Compass</title>
     <desc lang="ar">في أجواء فانتازية، (ليزا) فتاة عادية تدرس في جامعة جوردان،  تحيا حياة مملة، وتبحث عن مغامرة مثيرة، لكن تتغير حياتها عندما تجد جزيئات دقيقة للغاية في حجم التراب أمام منزلها لها القدرة على توحيد العوامل المختلفة، لكن هناك مجهولا ما يصاب بالضيق من هذا الاكتشاف، ويسعى لتدميره، فتخوض مغامرة مثيرة مليئة بالحيوانات الناطقة، والكائنات الغريبة.</desc>
@@ -28098,6 +28735,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260816090000 +0400" stop="20260816110000 +0400">
+    <title lang="en">Argo</title>
+    <desc lang="ar">قصة حقيقية وقعت أحداثها عقب حادثة اقتحام واحتجاز  الدبلوماسيين في السفارة اﻷمريكية في طهران، حيث تنطلق عملية شبه مستحيلة تستهدف تحرير وتهريب الدبلوماسيين خارج اﻷراضي اﻹيرانية.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816090000 +0400" stop="20260816110000 +0400">
     <title lang="en">Argo</title>
     <desc lang="ar">قصة حقيقية وقعت أحداثها عقب حادثة اقتحام واحتجاز  الدبلوماسيين في السفارة اﻷمريكية في طهران، حيث تنطلق عملية شبه مستحيلة تستهدف تحرير وتهريب الدبلوماسيين خارج اﻷراضي اﻹيرانية.</desc>
     <category lang="ar">فيلم</category>
@@ -29261,6 +29903,11 @@
     <desc lang="ar">تدور أحداث الفيلم عن الطيار الكوبي رينيه جونزاليس الذي يطير  غلى مدينة ميامي في ولاية فلوريدا اﻷمريكية، وذلك كي ينضوى في تنظيم مناهض لنظام فيديل كاسترو، تاركًا وراءه زوجته وابنته في العاصمة الكوبية هافانا.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816110000 +0400" stop="20260816130000 +0400">
+    <title lang="en">Wasp Network</title>
+    <desc lang="ar">تدور أحداث الفيلم عن الطيار الكوبي رينيه جونزاليس الذي يطير  غلى مدينة ميامي في ولاية فلوريدا اﻷمريكية، وذلك كي ينضوى في تنظيم مناهض لنظام فيديل كاسترو، تاركًا وراءه زوجته وابنته في العاصمة الكوبية هافانا.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816110000 +0400" stop="20260816130000 +0400">
     <title lang="en">Wasp Network</title>
     <desc lang="ar">تدور أحداث الفيلم عن الطيار الكوبي رينيه جونزاليس الذي يطير  غلى مدينة ميامي في ولاية فلوريدا اﻷمريكية، وذلك كي ينضوى في تنظيم مناهض لنظام فيديل كاسترو، تاركًا وراءه زوجته وابنته في العاصمة الكوبية هافانا.</desc>
@@ -30378,6 +31025,11 @@
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816130000 +0400" stop="20260816133000 +0400">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816130000 +0400" stop="20260816133000 +0400">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
@@ -30682,6 +31334,11 @@
     <title lang="ar">برنامج هنهم</title>
   </programme>
   <programme channel="MBC MAX" start="20260816133000 +0400" stop="20260816153000 +0400">
+    <title lang="en">Green Book</title>
+    <desc lang="ar">تدور القصة حول توني ليب (فيجو مورتينسون)، حارس إيطالي أمريكي  يتم استئجاره عام 1962 ليعمل سائقًا لصالح د. دون شيرلي (ماهرشالا علي)؛ واحد من أرقي عازفي موسيقى الجاز في العالم، حيث يأخذه في جولة بين معالم جنوب أمريكا.. وتتمكن الرحلة من فتح أعين كل رجل منهما على عالم الرجل الآخر، فضلًا عن توجيه بصيرتهما للعالم الذي يعيشان به.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816133000 +0400" stop="20260816153000 +0400">
     <title lang="en">Green Book</title>
     <desc lang="ar">تدور القصة حول توني ليب (فيجو مورتينسون)، حارس إيطالي أمريكي  يتم استئجاره عام 1962 ليعمل سائقًا لصالح د. دون شيرلي (ماهرشالا علي)؛ واحد من أرقي عازفي موسيقى الجاز في العالم، حيث يأخذه في جولة بين معالم جنوب أمريكا.. وتتمكن الرحلة من فتح أعين كل رجل منهما على عالم الرجل الآخر، فضلًا عن توجيه بصيرتهما للعالم الذي يعيشان به.</desc>
     <category lang="ar">فيلم</category>
@@ -31910,6 +32567,9 @@
   <programme channel="MBC MAX" start="20260816153000 +0400" stop="20260816160000 +0400">
     <title lang="ar">برنامج planet action 6</title>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816153000 +0400" stop="20260816160000 +0400">
+    <title lang="ar">برنامج planet action 6</title>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816153000 +0400" stop="20260816160000 +0400">
     <title lang="ar">برنامج planet action 6</title>
   </programme>
@@ -32204,6 +32864,11 @@
     <title lang="ar">برنامج أنت مين</title>
   </programme>
   <programme channel="MBC MAX" start="20260816160000 +0400" stop="20260816180000 +0400">
+    <title lang="en">Spotlight</title>
+    <desc lang="ar">يروي الفيلم القصة الحقيقية للتحقيق الخاص بجريدة (بوسطن غلوب)  الحائز على جائزة (بوليتزر)، وذلك عندما خاض الفريق العنيد لصحيفة (سبوتلايت) التحقيق في ادعاءات الاعتداء الجنسي في الكنيسة الكاثوليكية على مدار عام كامل، والذي كشف معلومات تم التستر عليها لعقود طويلة في مجالات دينية وقانونية.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816160000 +0400" stop="20260816180000 +0400">
     <title lang="en">Spotlight</title>
     <desc lang="ar">يروي الفيلم القصة الحقيقية للتحقيق الخاص بجريدة (بوسطن غلوب)  الحائز على جائزة (بوليتزر)، وذلك عندما خاض الفريق العنيد لصحيفة (سبوتلايت) التحقيق في ادعاءات الاعتداء الجنسي في الكنيسة الكاثوليكية على مدار عام كامل، والذي كشف معلومات تم التستر عليها لعقود طويلة في مجالات دينية وقانونية.</desc>
     <category lang="ar">فيلم</category>
@@ -33346,6 +34011,11 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC MAX" start="20260816180000 +0400" stop="20260816203000 +0400">
+    <title lang="en">Detroit</title>
+    <desc lang="ar">غارة كبيرة تشنها الشرطة في (ديترويت) عام 1967، مما يؤدي  بالأمر إلى واحدة من أكبر الانتفاضات الشعبية في تاريخ (الولايات المتحدة الأمريكية)؛ تنتج عنها فوضى عارمة وخسائر فادحة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260816180000 +0400" stop="20260816203000 +0400">
     <title lang="en">Detroit</title>
     <desc lang="ar">غارة كبيرة تشنها الشرطة في (ديترويت) عام 1967، مما يؤدي  بالأمر إلى واحدة من أكبر الانتفاضات الشعبية في تاريخ (الولايات المتحدة الأمريكية)؛ تنتج عنها فوضى عارمة وخسائر فادحة.</desc>
     <category lang="ar">فيلم</category>
@@ -34796,6 +35466,11 @@
     <desc lang="ar">تتمة للفيلم الذي صدر عام 2017 بعنوان (الحارس الشخصي لقاتل  محترف)، والذي تدور أحداثه بعد أربع سنوات من أحداث الفيلم اﻷول، حيث يحاول برايس وكنكايد إنقاذ سونيا زوجة كنكايد من مخاطر جديدة.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816203000 +0400" stop="20260816223000 +0400">
+    <title lang="en">Hitman's Wife's Bodyguard</title>
+    <desc lang="ar">تتمة للفيلم الذي صدر عام 2017 بعنوان (الحارس الشخصي لقاتل  محترف)، والذي تدور أحداثه بعد أربع سنوات من أحداث الفيلم اﻷول، حيث يحاول برايس وكنكايد إنقاذ سونيا زوجة كنكايد من مخاطر جديدة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816203000 +0400" stop="20260816223000 +0400">
     <title lang="en">Hitman's Wife's Bodyguard</title>
     <desc lang="ar">تتمة للفيلم الذي صدر عام 2017 بعنوان (الحارس الشخصي لقاتل  محترف)، والذي تدور أحداثه بعد أربع سنوات من أحداث الفيلم اﻷول، حيث يحاول برايس وكنكايد إنقاذ سونيا زوجة كنكايد من مخاطر جديدة.</desc>
@@ -35923,6 +36598,11 @@
     <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260816223000 +0400" stop="20260817000000 +0400">
+    <title lang="en">The Addams Family 2</title>
+    <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260816223000 +0400" stop="20260817000000 +0400">
     <title lang="en">The Addams Family 2</title>
     <desc lang="ar">تدور أحداث الفيلم في إطار من الخيال والمغامرات، حيث يستكمل  العمل رحلة عائلة آدامز غريبة الأطوار في سعيهم نحو العيش في سلام، ومواجهة العالم ونظراته لهم.</desc>
@@ -36753,6 +37433,11 @@
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="MBCMax.ae" start="20260817000000 +0400" stop="20260817003000 +0400">
+    <title lang="en">Hollywood Buzz</title>
+    <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
+    <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
+  </programme>
   <programme channel="MBCMaxEn.ae" start="20260817000000 +0400" stop="20260817003000 +0400">
     <title lang="en">Hollywood Buzz</title>
     <desc lang="ar">يستعرض البرنامج أحدث اﻷخبار والتطورات عن الأفلام ومقابلات  النجوم الجديدة والموضة في عاصمة السينما اﻷمريكية.</desc>
@@ -37013,6 +37698,11 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="MBC MAX" start="20260817003000 +0400" stop="20260817023000 +0400">
+    <title lang="en">The Grinch</title>
+    <desc lang="ar">تدور أحداث الفيلم عن (جرينش) الغاضب الذي يخطط لتدمير موسم  عيد الكريسماس لقاطني القرية المجاورة لـ(هوفيل)، إلى أن تتغير عواطفه نحو العيد على يد فتاة صغيرة.</desc>
+    <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="MBCMax.ae" start="20260817003000 +0400" stop="20260817023000 +0400">
     <title lang="en">The Grinch</title>
     <desc lang="ar">تدور أحداث الفيلم عن (جرينش) الغاضب الذي يخطط لتدمير موسم  عيد الكريسماس لقاطني القرية المجاورة لـ(هوفيل)، إلى أن تتغير عواطفه نحو العيد على يد فتاة صغيرة.</desc>
     <category lang="ar">فيلم</category>
