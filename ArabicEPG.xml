@@ -1693,6 +1693,11 @@
     <desc lang="ar">تدور أحداث الفيلم في إطار من الكوميديا حول شخص يعيش في حارة  شعبية، يجد في أحد الأيام كتاب اسمه (إطلعولي بره)، يتحدث عن وجود شخصيات بداخل كل فرد، وعندما يقرأه هذا الشخص، تخرج له عدد من الشخصيات تسيطر على حياته وقراراته.</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260813230000 +0400" stop="20260814000000 +0400">
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
   <programme channel="BEIN MOVIES DRAMA" start="20260813233000 +0400" stop="20260814011500 +0400">
     <title lang="en">Bridget Jones's Diary</title>
     <desc lang="ar">(بريدجيت جونز) امرأة عادية تكافح ضد سنها ووزنها وعملها،  تفتقد للرجال في حياتها لعيبوها الكثيرة. كقرار في بداية العام الجديد تقرر بريدجيت أن تتحكم في حياتها، وأن تقوم بكتابة مذكرات يومية عن حياتها لا تذكر إلا الحقيقة بها. تبدأ الأمور بالاضطراب حينما يبدأ دانييل (زير النساء) الاهتمام بها، وفي الوقت ذاته، تجد اهتمامًا من جهة (مارك دارثى)، لتقع في الحيرة والاختيار بينهما.</desc>
@@ -2124,9 +2129,7 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Sharjah TV" start="20260814000000 +0400" stop="20260814010000 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
-    <category lang="ar">مسلسل</category>
+    <title lang="ar">ملخص برنامج الخط المباشر</title>
   </programme>
   <programme channel="TeN TV" start="20260814000000 +0400" stop="20260814020000 +0400">
     <title lang="ar">برنامج البريمو</title>
@@ -2790,7 +2793,7 @@
     <title lang="ar">برنامج دورينا غير</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814010000 +0400" stop="20260814020000 +0400">
-    <title lang="ar">ملخص برنامج الخط المباشر</title>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260814010000 +0400" stop="20260814020000 +0400">
     <title lang="ar">سهرة تلفزيونية</title>
@@ -3566,8 +3569,8 @@
     <desc lang="ar">يناقش المسلسل شخصية حمادة عزو الرجل متعدد الزيجات والعلاقات،  ذو الشخصية المستهترة التي نتجت عن اهتمام والدته الزائد له، مما جعله غير قادر على تحمل المسئولية، فأصبح يصطدم بواقع الحياة ومشاكلها كل ما تقدم في العمر وتزداد مسئولياته، في حين أن ابنة عمه نوال تحاول جعله إنسان منظم ومسئول.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814020000 +0400" stop="20260814030000 +0400">
-    <title lang="ar">برنامج</title>
+  <programme channel="Sharjah TV" start="20260814020000 +0400" stop="20260814024000 +0400">
+    <title lang="ar">برنامج أماسي</title>
   </programme>
   <programme channel="TeN TV" start="20260814020000 +0400" stop="20260814030000 +0400">
     <title lang="ar">الطاووس</title>
@@ -3870,6 +3873,11 @@
   <programme channel="OSN TV Kids" start="20260814024000 +0400" stop="20260814025100 +0400">
     <title lang="en">Little Princess</title>
     <desc lang="ar">تعيش الأميرة المفعمة بالطاقة والسحر مدفوعة بفضولها وعنادها  اللذين يثيران الإعجاب، فهي لا تكف عن طرح الأسئلة حول العالم من حولها، ورغم كثرة مطالبها، يعجز الجميع عن الغضب منها ما دامت تسعى دائمًا إلى تحسين كل شيء.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260814024000 +0400" stop="20260814031500 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Action" start="20260814024000 +0400" stop="20260814035500 +0400">
@@ -4255,9 +4263,6 @@
   <programme channel="Saudiya TV" start="20260814030000 +0400" stop="20260814032000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260814030000 +0400" stop="20260814034000 +0400">
-    <title lang="ar">برنامج أماسي</title>
-  </programme>
   <programme channel="TeN TV" start="20260814030000 +0400" stop="20260814040000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
@@ -4381,6 +4386,9 @@
     <title lang="ar">كذبة إبريل</title>
     <desc lang="ar">تدور القصة حول أسرة تاجر معروف على مستوى المجتمع، عاش هو  وزوجته (بيبي) حياة جعلت منهما محط أنظار البعيد قبل القريب. حيث ظنت بيبي أنها ممسكة بزمام أمور أسرتها في غياب زوجها المستمر عن المنزل بسبب سفره الدائم. فتتفاجئ بعد فوات الأوان إنها كانت تعيش وسط دوامة من الأكاذيب التي عصفت بحياتها، لتقلبها رأسا على عقب بعد موت الزوج المفاجئ بحادث.</desc>
     <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260814031500 +0400" stop="20260814040000 +0400">
+    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="DMC" start="20260814031700 +0400" stop="20260814053700 +0400">
     <title lang="ar">سوتس</title>
@@ -4681,11 +4689,6 @@
   <programme channel="OSN TV One" start="20260814034000 +0400" stop="20260814043000 +0400">
     <title lang="en">Warrior S2</title>
     <desc lang="ar">بينما يستعد يونج جون وأه شام في عقد صفقة شديدة السرية  بمقابلة شخصيات غامضة، تتصاعد التهديدات لتواجه الجميع، بينما يحاول المحاربين الحفاظ على مكانتهم خارج الوطن.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814034000 +0400" stop="20260814041500 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Tunisia2.tn" start="20260814034000 +0400" stop="20260814050000 +0400">
@@ -5108,6 +5111,9 @@
     <desc lang="ar">مسلسل شبابي (سيت كوم) عبارة عن حلقات منفصلة متصلة من بطولة  الوجوه الجديدة؛ (أحمد حاتم) و(ريهام حجاج) و(رامز أمير) و(ميرهان حسين) و(طارق الإبياري).</desc>
     <category lang="ar">مسلسل - ﺳﻴﺖ ﻛﻮﻡ</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260814040000 +0400" stop="20260814050000 +0400">
+    <title lang="ar">برنامج</title>
+  </programme>
   <programme channel="TeN TV" start="20260814040000 +0400" stop="20260814050000 +0400">
     <title lang="ar">برنامج هلا بيك</title>
   </programme>
@@ -5226,9 +5232,6 @@
   </programme>
   <programme channel="Masah" start="20260814041500 +0400" stop="20260814051500 +0400">
     <title lang="ar">برنامج بودكاست نغم</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814041500 +0400" stop="20260814050000 +0400">
-    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="Tunisia1.tn" start="20260814041500 +0400" stop="20260814042000 +0400">
     <title lang="ar">النشرة الجوية</title>
@@ -6741,7 +6744,7 @@
     <desc lang="ar">تدور فكرة المسلسل حول شقيقتين هما هلالة ذات الطباع الحادّة  والشخصية القوية، ونشمية الشقيقة الصغرى التي تُكنّ لشقيقتها هلالة مشاعر الحب والاحترام، وهو ما يدفعها لتكون منقادةً لها، وعندما تتزوج نشمية من الطبيب ماجد، تشعر هلالة بالغيرة على شقيقتها وتخاف من الابتعاد عنها، وتحاول التفريق بينهما.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814060000 +0400" stop="20260814070000 +0400">
+  <programme channel="Sharjah TV" start="20260814060000 +0400" stop="20260814064500 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="TeN TV" start="20260814060000 +0400" stop="20260814070000 +0400">
@@ -7089,6 +7092,9 @@
     <title lang="en">Sisters</title>
     <desc lang="ar">تتقاطع مسارات الأمهات اللاتي تختلف أحلامهن وحياتهن عن  بعضهن البعض وتتسببن في أحداث غير متوقعة بعد سنوات.</desc>
     <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260814064500 +0400" stop="20260814074500 +0400">
+    <title lang="ar">برنامج فتاوى</title>
   </programme>
   <programme channel="Al Kahera Wal Nas TV 2" start="20260814064900 +0400" stop="20260814080000 +0400">
     <title lang="ar">ولاد ناس</title>
@@ -7533,9 +7539,6 @@
   <programme channel="Saudiya TV" start="20260814070000 +0400" stop="20260814073000 +0400">
     <title lang="ar">فترة دينية</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260814070000 +0400" stop="20260814074500 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
   <programme channel="TeN TV" start="20260814070000 +0400" stop="20260814080000 +0400">
     <title lang="ar">برنامج كل يوم أكلة</title>
   </programme>
@@ -7839,8 +7842,10 @@
     <desc lang="ar">يقرر شرطي انتحال شخصية سائق أجرة لمطاردة قاتل متسلسل، اعتاد  قتل سائقي سيارات الأجرة وسرقة أموالهم في الكويت خلال فترة الثمانينيات من القرن الماضي.</desc>
     <category lang="ar">فيلم - ﻗﺼﻴﺮ</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814074500 +0400" stop="20260814084500 +0400">
-    <title lang="ar">برنامج فتاوى</title>
+  <programme channel="Sharjah TV" start="20260814074500 +0400" stop="20260814081500 +0400">
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Movies" start="20260814074500 +0400" stop="20260814094500 +0400">
     <title lang="en">Silkwood</title>
@@ -8376,6 +8381,9 @@
     <desc lang="ar">يعود (هاري بوتر) إلى مدرسته ليلتقي مرة أخرى بأصدقائه  المقربين، ويكتشف كتاب في المدرسة كان يمتلكه (الأمير الهجين) مليء بتعويذات غريبة، والتي تجعل (هاري) يبحث عن حقيقة شخصية صاحب الكتاب. في نفس الوقت يبذل الأستاذ دمبلدور مجهودًا كبيرًا مع (هاري) ليحضره للمعركة المؤكدة بينه وبين (لورد فولدمورت).</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260814081500 +0400" stop="20260814091500 +0400">
+    <title lang="ar">برنامج أماسي</title>
+  </programme>
   <programme channel="WTV" start="20260814081500 +0400" stop="20260814083000 +0400">
     <title lang="ar">برنامج تريندينج</title>
   </programme>
@@ -8619,11 +8627,6 @@
   <programme channel="OSN TV Yahala Bil Arabi" start="20260814084500 +0400" stop="20260814093000 +0400">
     <title lang="en">My Siblings S4</title>
     <desc lang="ar">في الموسم الرابع، يستمر نجاح برنامج الطبخ الذي بدأته (شنجول)  و(أورهان) بأقصى سرعة، ولا تزال (شنجول) تسعى إلى تنفيذ خطط مختلفة خاصة بها، كما تظهر بعض الحقائق فجأة وتُحدث تأثيرًا صادمًا كبيرًا على الأخوين (إيرين)، إلا أنهما يواجهان (عاكف) و(نبهات) برعب شديد.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814084500 +0400" stop="20260814091500 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Oman" start="20260814085000 +0400" stop="20260814090500 +0400">
@@ -9171,8 +9174,10 @@
     <desc lang="ar">في الموسم الثاني، تتوالى مغامرات (ليو) و(بيب) وكلبهما (بوجي)  في عالمهم المكون من قطع الليغو، حيث يستخدمونها في بناء وابتكار أشياء مختلفة، ويتعملون مهارات جديدة مع الأشخاص والحيوانات الذي يتعرفون عليهم في عدة أماكن جديدة.</desc>
     <category lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814091500 +0400" stop="20260814101500 +0400">
-    <title lang="ar">برنامج أماسي</title>
+  <programme channel="Sharjah TV" start="20260814091500 +0400" stop="20260814100000 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Utv" start="20260814091500 +0400" stop="20260814100000 +0400">
     <title lang="ar">برنامج منشآت ضخمة</title>
@@ -9827,6 +9832,9 @@
   <programme channel="Saudiya TV" start="20260814100000 +0400" stop="20260814110000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
+  <programme channel="Sharjah TV" start="20260814100000 +0400" stop="20260814110000 +0400">
+    <title lang="ar">برنامج صباح الشارقة</title>
+  </programme>
   <programme channel="Star World" start="20260814100000 +0400" stop="20260814110000 +0400">
     <title lang="en">Top Chef S16</title>
     <desc lang="ar">يستمر تنافس المتسابقين من الطهاة الموهوبين على الفوز بلقب  (توب شيف)، حيث يشهد هذا الجزء العديد من تحديات الطهي الجديدة لاختبار قدرات المشتركين ومهاراتهم.</desc>
@@ -9920,11 +9928,6 @@
   <programme channel="OSN TV Yahala Bil Arabi" start="20260814101500 +0400" stop="20260814111000 +0400">
     <title lang="en">My Siblings S4</title>
     <desc lang="ar">في الموسم الرابع، يستمر نجاح برنامج الطبخ الذي بدأته (شنجول)  و(أورهان) بأقصى سرعة، ولا تزال (شنجول) تسعى إلى تنفيذ خطط مختلفة خاصة بها، كما تظهر بعض الحقائق فجأة وتُحدث تأثيرًا صادمًا كبيرًا على الأخوين (إيرين)، إلا أنهما يواجهان (عاكف) و(نبهات) برعب شديد.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814101500 +0400" stop="20260814110000 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="OSN TV Kids" start="20260814101600 +0400" stop="20260814101800 +0400">
@@ -10524,7 +10527,7 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814110000 +0400" stop="20260814120000 +0400">
-    <title lang="ar">برنامج صباح الشارقة</title>
+    <title lang="ar">برنامج فتاوى</title>
   </programme>
   <programme channel="Star World" start="20260814110000 +0400" stop="20260814120000 +0400">
     <title lang="en">Top Chef S16</title>
@@ -11018,7 +11021,7 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814120000 +0400" stop="20260814130000 +0400">
-    <title lang="ar">برنامج فتاوى</title>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Star World" start="20260814120000 +0400" stop="20260814125000 +0400">
     <title lang="ar">برنامج Jamie: Eat Yourself Healthy</title>
@@ -12790,7 +12793,9 @@
     <title lang="ar">برنامج زمان أول</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814150000 +0400" stop="20260814160000 +0400">
-    <title lang="ar">برنامج</title>
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Movies" start="20260814150000 +0400" stop="20260814164500 +0400">
     <title lang="en">Ferdinand</title>
@@ -13369,9 +13374,7 @@
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
   <programme channel="Sharjah TV" start="20260814160000 +0400" stop="20260814170000 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
-    <category lang="ar">مسلسل</category>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Star Action" start="20260814160000 +0400" stop="20260814174500 +0400">
     <title lang="en">3 Days to Kill</title>
@@ -13966,7 +13969,7 @@
   <programme channel="Saudiya TV" start="20260814170000 +0400" stop="20260814180000 +0400">
     <title lang="ar">برنامج فتاوى</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260814170000 +0400" stop="20260814180000 +0400">
+  <programme channel="Sharjah TV" start="20260814170000 +0400" stop="20260814173000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="TeN TV" start="20260814170000 +0400" stop="20260814180000 +0400">
@@ -14201,6 +14204,9 @@
     <desc lang="ar">مسلسل ناقد كوميدي متعدد الأجزاء، يتناول في حلقاته عدة قصص  وحكايات بأسلوب كوميدي ناقد وساخر وينتقد الأوضاع الاجتماعية والسياسية في البلاد، ويقدم صور ساخرة لها.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260814173000 +0400" stop="20260814174500 +0400">
+    <title lang="ar">برنامج نصيحة طبيب</title>
+  </programme>
   <programme channel="WTV" start="20260814173000 +0400" stop="20260814180000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
@@ -14230,6 +14236,11 @@
   <programme channel="OSN TV Now" start="20260814174500 +0400" stop="20260814181500 +0400">
     <title lang="en">Lucky Louie</title>
     <desc lang="ar">تتمركز الأحداث حول أسرة من الطبقة الكادحة العاملة وأصدقائهم  غرباء الأطوار، وذلك من خلال لوي الميكانيكي، الذي يعمل بمحل بيع قطع السيارات الذي يمتلكه صديقه المقرب مايك ، وزوجته الممرضة كيم وابنتهما الصغيرة لوسي.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260814174500 +0400" stop="20260814183000 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Action" start="20260814174500 +0400" stop="20260814192500 +0400">
@@ -14604,9 +14615,6 @@
   <programme channel="Saudiya TV" start="20260814180000 +0400" stop="20260814190000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260814180000 +0400" stop="20260814183000 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
   <programme channel="TeN TV" start="20260814180000 +0400" stop="20260814190000 +0400">
     <title lang="ar">برنامج هلا بيك</title>
   </programme>
@@ -14741,8 +14749,8 @@
     <desc lang="ar">مسلسل ناقد كوميدي متعدد الأجزاء، يتناول في حلقاته عدة قصص  وحكايات بأسلوب كوميدي ناقد وساخر وينتقد الأوضاع الاجتماعية والسياسية في البلاد، ويقدم صور ساخرة لها.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814183000 +0400" stop="20260814184500 +0400">
-    <title lang="ar">برنامج نصيحة طبيب</title>
+  <programme channel="Sharjah TV" start="20260814183000 +0400" stop="20260814190000 +0400">
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260814183000 +0400" stop="20260814190000 +0400">
     <title lang="ar">ريمي الفتى الشريد</title>
@@ -14800,11 +14808,6 @@
   </programme>
   <programme channel="OmanTV.sa" start="20260814184500 +0400" stop="20260814193000 +0400">
     <title lang="ar">برنامج حصاد</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814184500 +0400" stop="20260814193000 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
-    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Al Aoula Morocco" start="20260814185000 +0400" stop="20260814191000 +0400">
     <title lang="en">ﺍﻷﺧﺒﺎﺭ . ﺍﻷﺧﺒﺎﺭ ﺍﻹﺳﺒﺎﻧﻴﺔ</title>
@@ -15140,6 +15143,9 @@
   <programme channel="Saudiya TV" start="20260814190000 +0400" stop="20260814200000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
+  <programme channel="Sharjah TV" start="20260814190000 +0400" stop="20260814200000 +0400">
+    <title lang="ar">برنامج</title>
+  </programme>
   <programme channel="TeN TV" start="20260814190000 +0400" stop="20260814200000 +0400">
     <title lang="ar">فارس بلا جواز</title>
     <desc lang="ar">من خلال حلقات متصلة منفصلة، تدور أحداث المسلسل عندما يتعرض  فارس لبعض الظروف الخارجة عن إرداته، والتي تجبره للبحث عن عروس.</desc>
@@ -15331,9 +15337,6 @@
   </programme>
   <programme channel="SamaDubai.ae" start="20260814193000 +0400" stop="20260814200000 +0400">
     <title lang="ar">برنامج الطبيعة مع علي بن ثالث</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814193000 +0400" stop="20260814200000 +0400">
-    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260814193000 +0400" stop="20260814203000 +0400">
     <title lang="ar">سهم الغدر</title>
@@ -15729,7 +15732,7 @@
     <title lang="ar">برنامج زمان أول</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814200000 +0400" stop="20260814210000 +0400">
-    <title lang="ar">برنامج</title>
+    <title lang="ar">برنامج أماسي</title>
   </programme>
   <programme channel="TeN TV" start="20260814200000 +0400" stop="20260814210000 +0400">
     <title lang="ar">نشرة الأخبار</title>
@@ -16340,8 +16343,8 @@
     <desc lang="ar">برنامج مسابقات عائلي، تتسابق فيه العائلات في ألعاب تعتمد على  الذكاء والتخطيط، ويبث كل يوم سبت عبر قناة السعودية.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260814210000 +0400" stop="20260814220000 +0400">
-    <title lang="ar">برنامج أماسي</title>
+  <programme channel="Sharjah TV" start="20260814210000 +0400" stop="20260814213000 +0400">
+    <title lang="ar">أخبار</title>
   </programme>
   <programme channel="Star World" start="20260814210000 +0400" stop="20260814220000 +0400">
     <title lang="en">Sullivan'S Crossing S2</title>
@@ -16577,6 +16580,9 @@
   </programme>
   <programme channel="Roya" start="20260814213000 +0400" stop="20260814223000 +0400">
     <title lang="ar">أخبار</title>
+  </programme>
+  <programme channel="Sharjah TV" start="20260814213000 +0400" stop="20260814220000 +0400">
+    <title lang="ar">برنامج نبض الشباب</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260814213000 +0400" stop="20260814223000 +0400">
     <title lang="ar">الزاحفون</title>
@@ -16960,8 +16966,8 @@
   <programme channel="Saudiya TV" start="20260814220000 +0400" stop="20260814223000 +0400">
     <title lang="ar">برنامج ذرة خير</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260814220000 +0400" stop="20260814223000 +0400">
-    <title lang="ar">أخبار</title>
+  <programme channel="Sharjah TV" start="20260814220000 +0400" stop="20260814230000 +0400">
+    <title lang="ar">برنامج ألم وأمل</title>
   </programme>
   <programme channel="Star Movies" start="20260814220000 +0400" stop="20260814234000 +0400">
     <title lang="en">Diary of a Wimpy Kid: Rodrick Rules</title>
@@ -17187,9 +17193,6 @@
   </programme>
   <programme channel="Saudiya TV" start="20260814223000 +0400" stop="20260814230000 +0400">
     <title lang="ar">برنامج</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260814223000 +0400" stop="20260814230000 +0400">
-    <title lang="ar">برنامج نبض الشباب</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260814223000 +0400" stop="20260814230000 +0400">
     <title lang="ar">طاش ما طاش ج4</title>
@@ -17596,7 +17599,9 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260814230000 +0400" stop="20260815000000 +0400">
-    <title lang="ar">برنامج ألم وأمل</title>
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Action" start="20260814230000 +0400" stop="20260815003000 +0400">
     <title lang="en">The Transporter</title>
@@ -18208,9 +18213,7 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Sharjah TV" start="20260815000000 +0400" stop="20260815010000 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
-    <category lang="ar">مسلسل</category>
+    <title lang="ar">ملخص برنامج الخط المباشر</title>
   </programme>
   <programme channel="TeN TV" start="20260815000000 +0400" stop="20260815020000 +0400">
     <title lang="ar">برنامج</title>
@@ -18743,7 +18746,7 @@
     <title lang="ar">برنامج دورينا غير</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815010000 +0400" stop="20260815020000 +0400">
-    <title lang="ar">ملخص برنامج الخط المباشر</title>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260815010000 +0400" stop="20260815020000 +0400">
     <title lang="ar">برنامج ذكريات منوعة</title>
@@ -19345,8 +19348,8 @@
     <desc lang="ar">يناقش المسلسل شخصية حمادة عزو الرجل متعدد الزيجات والعلاقات،  ذو الشخصية المستهترة التي نتجت عن اهتمام والدته الزائد له، مما جعله غير قادر على تحمل المسئولية، فأصبح يصطدم بواقع الحياة ومشاكلها كل ما تقدم في العمر وتزداد مسئولياته، في حين أن ابنة عمه نوال تحاول جعله إنسان منظم ومسئول.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260815020000 +0400" stop="20260815030000 +0400">
-    <title lang="ar">برنامج</title>
+  <programme channel="Sharjah TV" start="20260815020000 +0400" stop="20260815024000 +0400">
+    <title lang="ar">برنامج أماسي</title>
   </programme>
   <programme channel="TeN TV" start="20260815020000 +0400" stop="20260815030000 +0400">
     <title lang="ar">الطاووس</title>
@@ -19572,6 +19575,11 @@
   <programme channel="OSN TV Kids" start="20260815024000 +0400" stop="20260815025100 +0400">
     <title lang="en">Little Princess</title>
     <desc lang="ar">تعيش الأميرة المفعمة بالطاقة والسحر مدفوعة بفضولها وعنادها  اللذين يثيران الإعجاب، فهي لا تكف عن طرح الأسئلة حول العالم من حولها، ورغم كثرة مطالبها، يعجز الجميع عن الغضب منها ما دامت تسعى دائمًا إلى تحسين كل شيء.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260815024000 +0400" stop="20260815031500 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC Masr Drama" start="20260815024500 +0400" stop="20260815033000 +0400">
@@ -19859,9 +19867,6 @@
   <programme channel="Saudiya TV" start="20260815030000 +0400" stop="20260815032000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815030000 +0400" stop="20260815034000 +0400">
-    <title lang="ar">برنامج أماسي</title>
-  </programme>
   <programme channel="TeN TV" start="20260815030000 +0400" stop="20260815040000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
@@ -19936,6 +19941,9 @@
     <title lang="en">Stuart Fails to Save the Universe</title>
     <desc lang="ar">يُسند إلى ستيوارت بلوم، مالك متجر القصص المصورة، مهمة إنقاذ  العالم من نهايته، حيث يُكلف باستعادة الواقع بمساعدة من حبيبته دينيس، وعالم الجيولوجيا بيرت، وعالم الفيزياء باري كريبكي.</desc>
     <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260815031500 +0400" stop="20260815040000 +0400">
+    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="Discovery" start="20260815031800 +0400" stop="20260815034800 +0400">
     <title lang="en">How Do They Do It? - Guitar Amplifier, Clay Pots</title>
@@ -20156,11 +20164,6 @@
   <programme channel="OSN TV Showcase" start="20260815034000 +0400" stop="20260815040500 +0400">
     <title lang="en">Stuart Fails to Save the Universe</title>
     <desc lang="ar">يُسند إلى ستيوارت بلوم، مالك متجر القصص المصورة، مهمة إنقاذ  العالم من نهايته، حيث يُكلف باستعادة الواقع بمساعدة من حبيبته دينيس، وعالم الجيولوجيا بيرت، وعالم الفيزياء باري كريبكي.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815034000 +0400" stop="20260815041500 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Nessma" start="20260815034500 +0400" stop="20260815043000 +0400">
@@ -20471,6 +20474,9 @@
     <desc lang="ar">مسلسل شبابي (سيت كوم) عبارة عن حلقات منفصلة متصلة من بطولة  الوجوه الجديدة؛ (أحمد حاتم) و(ريهام حجاج) و(رامز أمير) و(ميرهان حسين) و(طارق الإبياري).</desc>
     <category lang="ar">مسلسل - ﺳﻴﺖ ﻛﻮﻡ</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260815040000 +0400" stop="20260815050000 +0400">
+    <title lang="ar">برنامج</title>
+  </programme>
   <programme channel="Star World" start="20260815040000 +0400" stop="20260815044500 +0400">
     <title lang="en">Sullivan'S Crossing S2</title>
     <desc lang="ar">في الموسم الثاني، تستكشف (ماجي) مشاعرها المعقدة تجاه (كال)  وحياتها في البلدة، وتواجه تحديات مع والدها (سولي)، الذي يعاني من مشاكل مالية وصحية، بينما تكافح من أجل اتخاذ قرارات صائبة بشأن مستقبلها.</desc>
@@ -20585,9 +20591,6 @@
     <title lang="ar">مستر إكس</title>
     <desc lang="ar">تتسبب عقدة نفسية قديمة لدى إكس في إنشاء منظمة سرية، يسعى من  خلالها بدفع الرجال لطلاق زوجاتهم، ولكن تنشأ قصة حب بينه وبين محامية تضعها الظروف في طريقه، فيحاول جاهدا إبعادها عن كل المخاطر.</desc>
     <category lang="ar">فيلم</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815041500 +0400" stop="20260815050000 +0400">
-    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="OSN TV Kids" start="20260815041800 +0400" stop="20260815042300 +0400">
     <title lang="en">Hot Wheels City S4</title>
@@ -21672,7 +21675,7 @@
     <desc lang="ar">تدور فكرة المسلسل حول شقيقتين هما هلالة ذات الطباع الحادّة  والشخصية القوية، ونشمية الشقيقة الصغرى التي تُكنّ لشقيقتها هلالة مشاعر الحب والاحترام، وهو ما يدفعها لتكون منقادةً لها، وعندما تتزوج نشمية من الطبيب ماجد، تشعر هلالة بالغيرة على شقيقتها وتخاف من الابتعاد عنها، وتحاول التفريق بينهما.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260815060000 +0400" stop="20260815070000 +0400">
+  <programme channel="Sharjah TV" start="20260815060000 +0400" stop="20260815064500 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="TeN TV" start="20260815060000 +0400" stop="20260815070000 +0400">
@@ -21929,6 +21932,9 @@
     <title lang="en">Harry Potter and the Prisoner of Azkaban</title>
     <desc lang="ar">في الجزء الثالث من سلسلة (هاري بوتر)، يعود الساحر الصغير مرة  أخرى، وفي أثناء قضاء إجازته الصيفية مع أسرة (ديريسلي)، وتضطره حماقات الأسرة إلى ممارسة السحر الممنوع ممارسته خارج عالم السحرة، فيقرر الهروب من مدرسة (هووجوتس)، لمحاولة حل مشكلة مخالفته للقانون، ويتعقد الموقف بهروب (سيرس بلاك)؛ السجين الخطير من سجن أزكابان المخيف، ومحاولته الانتقام منه، وقتله، فهل سينجح (هاري بوتر) في النجاة من المأزق.</desc>
     <category lang="ar">فيلم</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260815064500 +0400" stop="20260815074500 +0400">
+    <title lang="ar">برنامج فتاوى</title>
   </programme>
   <programme channel="Al Kahera Wal Nas TV 2" start="20260815064900 +0400" stop="20260815080000 +0400">
     <title lang="ar">ولاد ناس</title>
@@ -22290,9 +22296,6 @@
   <programme channel="Saudiya TV" start="20260815070000 +0400" stop="20260815073000 +0400">
     <title lang="ar">فترة دينية</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815070000 +0400" stop="20260815074500 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
   <programme channel="TeN TV" start="20260815070000 +0400" stop="20260815080000 +0400">
     <title lang="ar">برنامج كل يوم أكلة</title>
   </programme>
@@ -22547,8 +22550,10 @@
     <desc lang="ar">في عالم النازحين السوريين الذين غادروا بلادهم بسبب ظروف  الحرب، يضطر عميد بإحدى الجامعات اللبنانية الابتعاد عن وظيفته والتفرغ للتحقيق، حينما تقع جريمة شديدة الغموض.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260815074500 +0400" stop="20260815084500 +0400">
-    <title lang="ar">برنامج فتاوى</title>
+  <programme channel="Sharjah TV" start="20260815074500 +0400" stop="20260815081500 +0400">
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Discovery" start="20260815074600 +0400" stop="20260815083200 +0400">
     <title lang="en">Barnwood Builders - Log Cabin Treehouse</title>
@@ -22959,6 +22964,9 @@
   <programme channel="JordanTV.jo" start="20260815081500 +0400" stop="20260815084500 +0400">
     <title lang="ar">القران الكريم - ابتهالات دينية</title>
   </programme>
+  <programme channel="Sharjah TV" start="20260815081500 +0400" stop="20260815091500 +0400">
+    <title lang="ar">برنامج أماسي</title>
+  </programme>
   <programme channel="OSN TV Comedy" start="20260815082000 +0400" stop="20260815084500 +0400">
     <title lang="en">The Middle S9</title>
     <desc lang="ar">يعود (أكسل) من رحلته الصيفية في أوروبا ويجد فرصة عمل جديدة  خارج المدينة، ويسعى (مايك) لتقوية علاقته بـ(سو) ويحاولان إسعاد (فرانكي)، بينما تتواصل مغامرات (بريك) المثيرة في المدرسة.</desc>
@@ -23147,11 +23155,6 @@
   <programme channel="OSN TV One" start="20260815084500 +0400" stop="20260815093000 +0400">
     <title lang="en">Revolution S2</title>
     <desc lang="ar">في الموسم الثاني، تواجه (راشيل) بشكل غير متوقع ذكرى من  ماضيها، بينما يجد (نيفيول) و(جايسون) نفسيهما يشرعان في عملية بحث شاقة عن (جوليا) داخل مخيم للاجئين.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815084500 +0400" stop="20260815091500 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="OSN TV Crime" start="20260815085000 +0400" stop="20260815093500 +0400">
@@ -23583,8 +23586,10 @@
     <desc lang="ar">يواصل فرودو وسام مهمتهم الخطيرة تجاه جبل الموت من أجل تدمير  الخاتم الموجود في حوزة فرودو حتى لا يعود سيد الظلام ساورون لسطوته، كما يناضل أراجوان ورفاقه من أجل الوفاء لارثه حيث يقود أتباعه ضد قوة سيد الظلام ساورون وجيوشه المجيشة.</desc>
     <category lang="ar">فيلم</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260815091500 +0400" stop="20260815101500 +0400">
-    <title lang="ar">برنامج أماسي</title>
+  <programme channel="Sharjah TV" start="20260815091500 +0400" stop="20260815100000 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Utv" start="20260815091500 +0400" stop="20260815100000 +0400">
     <title lang="ar">برنامج منشآت ضخمة</title>
@@ -24082,6 +24087,9 @@
   <programme channel="Saudiya TV" start="20260815100000 +0400" stop="20260815110000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
+  <programme channel="Sharjah TV" start="20260815100000 +0400" stop="20260815110000 +0400">
+    <title lang="ar">برنامج صباح الشارقة</title>
+  </programme>
   <programme channel="TeN TV" start="20260815100000 +0400" stop="20260815110000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
@@ -24161,11 +24169,6 @@
   <programme channel="OSN TV Yahala Bil Arabi" start="20260815101500 +0400" stop="20260815110000 +0400">
     <title lang="en">Forbidden Apple S4</title>
     <desc lang="ar">يريد (هاليت) الرجوع لـ(يلدز) مرة أخرى، وإقامة حياة مستقرة  معها، بينما هي مهتمة بـ(كريم)، ويتزوج (إندر) و(كايا) ثم ينفصلان في النهاية، ويموت (هاليت) في حادث كبير، وتقترب (يلدز) من رجل الأعمال الثري (شاتاي كويوكو)، بينما يصبح (إندر) و(ساهيكا) شريكين جديدين لشركة (كويو).</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815101500 +0400" stop="20260815110000 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="OSN TV Crime" start="20260815102000 +0400" stop="20260815110500 +0400">
@@ -24677,7 +24680,7 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815110000 +0400" stop="20260815120000 +0400">
-    <title lang="ar">برنامج صباح الشارقة</title>
+    <title lang="ar">برنامج فتاوى</title>
   </programme>
   <programme channel="Star World" start="20260815110000 +0400" stop="20260815120000 +0400">
     <title lang="en">Top Chef S16</title>
@@ -25200,7 +25203,7 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815120000 +0400" stop="20260815130000 +0400">
-    <title lang="ar">برنامج فتاوى</title>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Star World" start="20260815120000 +0400" stop="20260815125000 +0400">
     <title lang="ar">برنامج Jamie: Eat Yourself Healthy</title>
@@ -26944,7 +26947,9 @@
     <title lang="ar">برنامج زمان أول</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815150000 +0400" stop="20260815160000 +0400">
-    <title lang="ar">برنامج</title>
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Movies" start="20260815150000 +0400" stop="20260815163000 +0400">
     <title lang="en">Ice Age: Dawn of the Dinosaurs</title>
@@ -27477,9 +27482,7 @@
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
   <programme channel="Sharjah TV" start="20260815160000 +0400" stop="20260815170000 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
-    <category lang="ar">مسلسل</category>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="TeN TV" start="20260815160000 +0400" stop="20260815170000 +0400">
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ بيت دعاء</title>
@@ -28089,7 +28092,7 @@
   <programme channel="Saudiya TV" start="20260815170000 +0400" stop="20260815180000 +0400">
     <title lang="ar">برنامج فتاوى</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815170000 +0400" stop="20260815180000 +0400">
+  <programme channel="Sharjah TV" start="20260815170000 +0400" stop="20260815173000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="TeN TV" start="20260815170000 +0400" stop="20260815180000 +0400">
@@ -28281,6 +28284,9 @@
     <desc lang="ar">تدور أحداث المسلسل في إطار درامي رومانسي ، حول ثلاثة أصدقاء  (إيزل ، وعلي ، وجنكيز) تتوتر علاقتهم بعد أن يقرر (جنكيز ، وعلي) سرقة بنك بمساعدة (عائشة) حبيبة (إيزل) ، وتوريط (إيزل) في هذه السرقة ، وبعد دخوله السجن بتهمة السرقة يبدأ (إيزل) التخطيط للانتقام من صديقيه وحبيبته ، ووسط دائرة اﻹنتقام والثأر تتكشف حقائق جديدة، وتشتعل جذوة الحب التي حاول أن يطفئها</desc>
     <category lang="ar">مسلسل</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260815173000 +0400" stop="20260815174500 +0400">
+    <title lang="ar">برنامج نصيحة طبيب</title>
+  </programme>
   <programme channel="Thikrayat Tv" start="20260815173000 +0400" stop="20260815183000 +0400">
     <title lang="ar">الزاحفون</title>
     <desc lang="ar">يعمل (أبو رامز) مُنجّدا بسيطا في حارة السّبع دوخات، ثم يكتشف  الجميع أنه ليس فقيراً كما يدعي ويملك ثروة طائلة، فيوزع ثروته علي أبنائة الستة لكنه يُسجن بعد التحقق من مصدر المال، ثم تنقلب أحوال أبناءه رأسا على عقب.</desc>
@@ -28332,6 +28338,11 @@
   <programme channel="OSN TV Now" start="20260815174500 +0400" stop="20260815181500 +0400">
     <title lang="en">Lucky Louie</title>
     <desc lang="ar">تتمركز الأحداث حول أسرة من الطبقة الكادحة العاملة وأصدقائهم  غرباء الأطوار، وذلك من خلال لوي الميكانيكي، الذي يعمل بمحل بيع قطع السيارات الذي يمتلكه صديقه المقرب مايك ، وزوجته الممرضة كيم وابنتهما الصغيرة لوسي.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260815174500 +0400" stop="20260815183000 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="DMC" start="20260815175000 +0400" stop="20260815190000 +0400">
@@ -28668,9 +28679,6 @@
   <programme channel="Saudiya TV" start="20260815180000 +0400" stop="20260815190000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815180000 +0400" stop="20260815183000 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
   <programme channel="TeN TV" start="20260815180000 +0400" stop="20260815190000 +0400">
     <title lang="ar">برنامج هلا بيك</title>
   </programme>
@@ -28827,8 +28835,8 @@
   <programme channel="Roya" start="20260815183000 +0400" stop="20260815190000 +0400">
     <title lang="ar">أخبار</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815183000 +0400" stop="20260815184500 +0400">
-    <title lang="ar">برنامج نصيحة طبيب</title>
+  <programme channel="Sharjah TV" start="20260815183000 +0400" stop="20260815190000 +0400">
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260815183000 +0400" stop="20260815193000 +0400">
     <title lang="ar">برنامج تيلي ماتش</title>
@@ -28906,11 +28914,6 @@
   </programme>
   <programme channel="OmanTV.sa" start="20260815184500 +0400" stop="20260815193000 +0400">
     <title lang="ar">برنامج حصاد</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815184500 +0400" stop="20260815193000 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
-    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="MBC Masr Drama" start="20260815185000 +0400" stop="20260815193000 +0400">
     <title lang="ar">زي الشمس</title>
@@ -29245,6 +29248,9 @@
   <programme channel="Saudiya TV" start="20260815190000 +0400" stop="20260815193000 +0400">
     <title lang="ar">برنامج بالفطرة</title>
   </programme>
+  <programme channel="Sharjah TV" start="20260815190000 +0400" stop="20260815200000 +0400">
+    <title lang="ar">برنامج</title>
+  </programme>
   <programme channel="TeN TV" start="20260815190000 +0400" stop="20260815200000 +0400">
     <title lang="ar">برنامج بيزنس</title>
   </programme>
@@ -29428,9 +29434,6 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Saudiya TV" start="20260815193000 +0400" stop="20260815200000 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815193000 +0400" stop="20260815200000 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260815193000 +0400" stop="20260815203000 +0400">
@@ -29821,7 +29824,7 @@
     <title lang="ar">برنامج زمان أول</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815200000 +0400" stop="20260815210000 +0400">
-    <title lang="ar">برنامج</title>
+    <title lang="ar">برنامج أماسي</title>
   </programme>
   <programme channel="TeN TV" start="20260815200000 +0400" stop="20260815210000 +0400">
     <title lang="ar">نشرة الأخبار</title>
@@ -30385,8 +30388,8 @@
   <programme channel="Saudiya TV" start="20260815210000 +0400" stop="20260815220000 +0400">
     <title lang="ar">برنامج ابتكارات المملكة</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815210000 +0400" stop="20260815220000 +0400">
-    <title lang="ar">برنامج أماسي</title>
+  <programme channel="Sharjah TV" start="20260815210000 +0400" stop="20260815213000 +0400">
+    <title lang="ar">أخبار</title>
   </programme>
   <programme channel="Star Action" start="20260815210000 +0400" stop="20260815230000 +0400">
     <title lang="en">Murder at Yellowstone City</title>
@@ -30617,6 +30620,9 @@
   </programme>
   <programme channel="SamaDubai.ae" start="20260815213000 +0400" stop="20260815220000 +0400">
     <title lang="ar">برنامج دبي المستقبل</title>
+  </programme>
+  <programme channel="Sharjah TV" start="20260815213000 +0400" stop="20260815220000 +0400">
+    <title lang="ar">برنامج بيوت الشعر</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260815213000 +0400" stop="20260815223000 +0400">
     <title lang="ar">الزاحفون</title>
@@ -31006,8 +31012,8 @@
   <programme channel="Saudiya TV" start="20260815220000 +0400" stop="20260815223000 +0400">
     <title lang="ar">برنامج ذرة خير</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260815220000 +0400" stop="20260815223000 +0400">
-    <title lang="ar">أخبار</title>
+  <programme channel="Sharjah TV" start="20260815220000 +0400" stop="20260815230000 +0400">
+    <title lang="ar">برنامج ضيف الشارقة</title>
   </programme>
   <programme channel="Star Movies" start="20260815220000 +0400" stop="20260815234500 +0400">
     <title lang="en">Step Up 3D</title>
@@ -31220,9 +31226,6 @@
   </programme>
   <programme channel="Saudiya TV" start="20260815223000 +0400" stop="20260815230000 +0400">
     <title lang="ar">برنامج</title>
-  </programme>
-  <programme channel="Sharjah TV" start="20260815223000 +0400" stop="20260815230000 +0400">
-    <title lang="ar">برنامج بيوت الشعر</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260815223000 +0400" stop="20260815230000 +0400">
     <title lang="ar">طاش ما طاش ج4</title>
@@ -31609,7 +31612,9 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Sharjah TV" start="20260815230000 +0400" stop="20260816000000 +0400">
-    <title lang="ar">برنامج ضيف الشارقة</title>
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Star Action" start="20260815230000 +0400" stop="20260816012500 +0400">
     <title lang="en">Armageddon</title>
@@ -32237,9 +32242,7 @@
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Sharjah TV" start="20260816000000 +0400" stop="20260816010000 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
-    <category lang="ar">مسلسل</category>
+    <title lang="ar">ملخص برنامج الخط المباشر</title>
   </programme>
   <programme channel="TeN TV" start="20260816000000 +0400" stop="20260816020000 +0400">
     <title lang="ar">برنامج البريمو</title>
@@ -32820,7 +32823,7 @@
     <title lang="ar">برنامج دورينا غير</title>
   </programme>
   <programme channel="Sharjah TV" start="20260816010000 +0400" stop="20260816020000 +0400">
-    <title lang="ar">ملخص برنامج الخط المباشر</title>
+    <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Thikrayat Tv" start="20260816010000 +0400" stop="20260816020000 +0400">
     <title lang="ar">برنامج أهلا وسهلا</title>
@@ -33378,8 +33381,8 @@
     <desc lang="ar">يناقش المسلسل شخصية حمادة عزو الرجل متعدد الزيجات والعلاقات،  ذو الشخصية المستهترة التي نتجت عن اهتمام والدته الزائد له، مما جعله غير قادر على تحمل المسئولية، فأصبح يصطدم بواقع الحياة ومشاكلها كل ما تقدم في العمر وتزداد مسئولياته، في حين أن ابنة عمه نوال تحاول جعله إنسان منظم ومسئول.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260816020000 +0400" stop="20260816030000 +0400">
-    <title lang="ar">برنامج</title>
+  <programme channel="Sharjah TV" start="20260816020000 +0400" stop="20260816024000 +0400">
+    <title lang="ar">برنامج أماسي</title>
   </programme>
   <programme channel="TeN TV" start="20260816020000 +0400" stop="20260816030000 +0400">
     <title lang="ar">الطاووس</title>
@@ -33598,6 +33601,11 @@
   <programme channel="OSN TV Comedy" start="20260816024000 +0400" stop="20260816030500 +0400">
     <title lang="en">The Big Bang Theory S3</title>
     <desc lang="ar">في الموسم الثالث، يعود الفريق مرة اخري إلى وطنهم من رحلة  استكشافية في القطب الشمالي، ولكن يحدث صراعًا بين ليونارد و بيتي; يدفع شيلدون أخيرًا للعودة إلى تكساس للتدخل وحل النزاع بينهما.</desc>
+    <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260816024000 +0400" stop="20260816031500 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="BEIN MOVIES PREMIERE" start="20260816024500 +0400" stop="20260816041500 +0400">
@@ -33901,9 +33909,6 @@
   <programme channel="Saudiya TV" start="20260816030000 +0400" stop="20260816040000 +0400">
     <title lang="ar">برنامج ابتكارات المملكة</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260816030000 +0400" stop="20260816034000 +0400">
-    <title lang="ar">برنامج أماسي</title>
-  </programme>
   <programme channel="Star Action" start="20260816030000 +0400" stop="20260816043000 +0400">
     <title lang="en">No Way Up</title>
     <desc lang="ar">يجمع القدر مجموعة من الشخصيات بجنسيات مختلفة في قاع المحيط  الأطلنطي حينما تتحط طائرتهم، ويصبح عليهم الكفاح ضد نقص الأكسجين وأسماك القرش في سبيل النجاة.</desc>
@@ -33980,6 +33985,9 @@
     <title lang="en">Oz</title>
     <desc lang="ar">يتتبع المسلسل الأنشطة اليومية للسجناء في سجن أوزوالد المعروف  باسم "أوز"، حيث يواجه السجناء المجرمون تحديات متعددة يوميًا في محاولاتهم للبقاء على قيد الحياة.</desc>
     <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260816031500 +0400" stop="20260816040000 +0400">
+    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="OSN Ya Hala" start="20260816032000 +0400" stop="20260816041000 +0400">
     <title lang="ar">سعادة المجنون</title>
@@ -34150,11 +34158,6 @@
     <title lang="en">The Man with the Iron Fists</title>
     <desc lang="ar">تدور قصة الفيلم في الصين التي خضعت وقتئذ للنظام اﻹقطاعي، حيث  يجرى سباق على كنز ثمين من الذهب بين مجموعة من القتلة والمحاربين ومعهم جندي بريطاني في قرية نائية، وفي هذه القرية يحاول حداد بسيط الدفاع عن نفسه وعن رفاقه من السكان.</desc>
     <category lang="ar">فيلم</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260816034000 +0400" stop="20260816041500 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
-    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="BEIN MOVIES ACTION" start="20260816034500 +0400" stop="20260816051500 +0400">
     <title lang="en">Possessions</title>
@@ -34504,6 +34507,9 @@
     <desc lang="ar">برنامج يسرد قصص نجاح شخصيات وطنية والصعوبات التي واجهتهم في  حياتهم منذ البداية، وصولا إلى الإنجازات التي حققوها الآن.</desc>
     <category lang="en">ﺑﺮﻧﺎﻣﺞ</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260816040000 +0400" stop="20260816050000 +0400">
+    <title lang="ar">برنامج</title>
+  </programme>
   <programme channel="TeN TV" start="20260816040000 +0400" stop="20260816050000 +0400">
     <title lang="ar">برنامج هلا بيك</title>
   </programme>
@@ -34578,9 +34584,6 @@
     <title lang="en">Black Snow S2</title>
     <desc lang="ar">ينشغل المحقق (كورماك) في حل لغز حالتين مؤلمتين واحدة مهنية  بالتحقيق في اختفاء (زوي جاكوبس) من حفل عيد ميلادها الواحد والعشرين، بالإضافة إلى البحث عن شقيقه الأصغر المختفي منذ الطفولة.</desc>
     <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260816041500 +0400" stop="20260816050000 +0400">
-    <title lang="ar">فترة دينية</title>
   </programme>
   <programme channel="OSN TV Kids" start="20260816042100 +0400" stop="20260816043300 +0400">
     <title lang="en">The Pingu Show</title>
@@ -35677,7 +35680,7 @@
     <desc lang="ar">تدور فكرة المسلسل حول شقيقتين هما هلالة ذات الطباع الحادّة  والشخصية القوية، ونشمية الشقيقة الصغرى التي تُكنّ لشقيقتها هلالة مشاعر الحب والاحترام، وهو ما يدفعها لتكون منقادةً لها، وعندما تتزوج نشمية من الطبيب ماجد، تشعر هلالة بالغيرة على شقيقتها وتخاف من الابتعاد عنها، وتحاول التفريق بينهما.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260816060000 +0400" stop="20260816070000 +0400">
+  <programme channel="Sharjah TV" start="20260816060000 +0400" stop="20260816064500 +0400">
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Star Action" start="20260816060000 +0400" stop="20260816075000 +0400">
@@ -35907,6 +35910,9 @@
     <title lang="en">The Mentalist S5</title>
     <desc lang="ar">في الموسم الخامس، يعود باتريك جين قارئ الأفكار مجددًا في فصل  جديد يسعى من خلاله كشف هوية ريد جون، القاتل الأكثر غموضًا في المدينة، بجانب كشف تورط لوريلي مارتنز في معرفته.</desc>
     <category lang="ar">مسلسل</category>
+  </programme>
+  <programme channel="Sharjah TV" start="20260816064500 +0400" stop="20260816074500 +0400">
+    <title lang="ar">برنامج فتاوى</title>
   </programme>
   <programme channel="OSN TV Kids" start="20260816064900 +0400" stop="20260816071500 +0400">
     <title lang="en">Ronja, the Robber's Daughter</title>
@@ -36214,9 +36220,6 @@
   <programme channel="Saudiya TV" start="20260816070000 +0400" stop="20260816072500 +0400">
     <title lang="ar">فترة دينية</title>
   </programme>
-  <programme channel="Sharjah TV" start="20260816070000 +0400" stop="20260816074500 +0400">
-    <title lang="ar">برنامج</title>
-  </programme>
   <programme channel="TeN TV" start="20260816070000 +0400" stop="20260816080000 +0400">
     <title lang="ar">برنامج صحتين</title>
   </programme>
@@ -36413,8 +36416,10 @@
     <desc lang="ar">يحصل (سليم) وابن عمه (يحيى) على ميراث عمهما المتوفي، ثم  يكتشفان أن الميراث عبارة عن شحنة مخدرات، فيحاولان التصرف فيها وبيعها من خلال ابتكار لعبة إلكترونية وبمساعدة مجموعة من الأشخاص، لكن تنقلب حياتهما رأسًا على عقب بعد ظهور زعيم عصابة خطير يدّعي أنه المالك الحقيقي للسلع.</desc>
     <category lang="ar">فيلم</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260816074500 +0400" stop="20260816084500 +0400">
-    <title lang="ar">برنامج فتاوى</title>
+  <programme channel="Sharjah TV" start="20260816074500 +0400" stop="20260816081500 +0400">
+    <title lang="ar">بابا المجال</title>
+    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="OSN TV Comedy" start="20260816075000 +0400" stop="20260816082000 +0400">
     <title lang="en">Friends S6</title>
@@ -36885,6 +36890,9 @@
     <desc lang="ar">تدور أحداث الفيلم حول لاعب كرة سلة سابق يطيح إدمانه للكحول  بمستقبله، لكنه يحصل على فرصة ثانية عندما يعرض عليه مدير مدرسة ثانوية للبنات تدريب فريق البنات الخاص بتلك المدرسة. ترى هل ينجح في ذلك؟</desc>
     <category lang="ar">فيلم</category>
   </programme>
+  <programme channel="Sharjah TV" start="20260816081500 +0400" stop="20260816091500 +0400">
+    <title lang="ar">برنامج أماسي</title>
+  </programme>
   <programme channel="Star World" start="20260816081500 +0400" stop="20260816090000 +0400">
     <title lang="en">Sullivan'S Crossing S2</title>
     <desc lang="ar">في الموسم الثاني، تستكشف (ماجي) مشاعرها المعقدة تجاه (كال)  وحياتها في البلدة، وتواجه تحديات مع والدها (سولي)، الذي يعاني من مشاكل مالية وصحية، بينما تكافح من أجل اتخاذ قرارات صائبة بشأن مستقبلها.</desc>
@@ -37031,11 +37039,6 @@
   <programme channel="OSN TV Comedy" start="20260816084500 +0400" stop="20260816091000 +0400">
     <title lang="en">The Big Bang Theory S3</title>
     <desc lang="ar">في الموسم الثالث، يعود الفريق مرة اخري إلى وطنهم من رحلة  استكشافية في القطب الشمالي، ولكن يحدث صراعًا بين ليونارد و بيتي; يدفع شيلدون أخيرًا للعودة إلى تكساس للتدخل وحل النزاع بينهما.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260816084500 +0400" stop="20260816091500 +0400">
-    <title lang="ar">بابا المجال</title>
-    <desc lang="ar">يكافح الميكانيكي زين ليعيش حياة شريفة مع والدته وخطيبته  وأخواتها. بينما تقوم والدته بإخفاء حقيقة أن والده ما زال على قيد الحياة، ولكن السر الذي أخفته طويلًا يهدد حياة زين ويقلبها رأساً على عقب.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="WTV" start="20260816084500 +0400" stop="20260816090000 +0400">
@@ -37468,8 +37471,10 @@
     <desc lang="ar">في الموسم الثاني، تتوالى مغامرات (ليو) و(بيب) وكلبهما (بوجي)  في عالمهم المكون من قطع الليغو، حيث يستخدمونها في بناء وابتكار أشياء مختلفة، ويتعملون مهارات جديدة مع الأشخاص والحيوانات الذي يتعرفون عليهم في عدة أماكن جديدة.</desc>
     <category lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
   </programme>
-  <programme channel="Sharjah TV" start="20260816091500 +0400" stop="20260816101500 +0400">
-    <title lang="ar">برنامج أماسي</title>
+  <programme channel="Sharjah TV" start="20260816091500 +0400" stop="20260816100000 +0400">
+    <title lang="ar">عزك يا شام</title>
+    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
+    <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="Utv" start="20260816091500 +0400" stop="20260816103000 +0400">
     <title lang="ar">برنامج منشآت ضخمة</title>
@@ -38044,11 +38049,6 @@
   <programme channel="OSN TV One" start="20260816101500 +0400" stop="20260816110500 +0400">
     <title lang="en">Bel-Air S3</title>
     <desc lang="ar">في الموسم الثالث، تنتهي الدراسة في الصيف، ويتخذ ويل تحولا  مثيرا في حياته، حيث يدشن شراكة مع كارلتون الذي يريد بشدة ترك حياة الإدمان، ولكن العمل بينهما يكشف اختلافات كبيرة في وجهات نظرهما، فهل تصمد الشراكة بينهما؟.</desc>
-    <category lang="ar">مسلسل</category>
-  </programme>
-  <programme channel="Sharjah TV" start="20260816101500 +0400" stop="20260816110000 +0400">
-    <title lang="ar">عزك يا شام</title>
-    <desc lang="ar">في إطار درامي اجتماعي، يتناول المسلسل قصصًا مختلفة من خلال  حلقات منفصلة متصلة، تدور أحداثها داخل حارة في مدينة (دمشق) خلال فترة أربعينيات القرن الماضي.</desc>
     <category lang="ar">مسلسل</category>
   </programme>
   <programme channel="OSN TV Kids" start="20260816101800 +0400" stop="20260816102300 +0400">
