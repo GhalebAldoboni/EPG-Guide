@@ -1,11 +1,45 @@
 from datetime import datetime, timedelta
 from pathlib import Path
 from types import SimpleNamespace
+from zoneinfo import ZoneInfo
 
 import pytest
 
 import update_epg
 from epg_generator import Channel, Programme, SourceParseError, build_xmltv
+
+
+def make_json_response(body: bytes, *, content_length=None):
+    class Headers:
+        @staticmethod
+        def get_content_type():
+            return "application/json"
+
+        @staticmethod
+        def get(name):
+            if name == "Content-Length" and content_length is not None:
+                return str(content_length)
+            return None
+
+    class Response:
+        status = 200
+        headers = Headers()
+
+        @staticmethod
+        def geturl():
+            return update_epg.TIMEZONE_URL
+
+        @staticmethod
+        def read(limit):
+            return body[:limit]
+
+        def __enter__(self):
+            return self
+
+        def __exit__(self, *args):
+            return None
+
+    return Response()
 
 
 def sample_guide():
@@ -135,6 +169,9 @@ def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixt
         )
 
     monkeypatch.setattr(update_epg, "fetch_text", fake_fetch)
+    monkeypatch.setattr(
+        update_epg, "fetch_source_timezone", lambda: ZoneInfo("Asia/Dubai")
+    )
 
     channels, programmes = update_epg.collect_guide(delay=0, workers=1)
 
@@ -153,6 +190,75 @@ def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixt
         "سياسية ناجحة تواجه خصمًا قويًا.",
         "فيلم",
     )
+
+
+def test_collect_guide_applies_detected_wall_clock_shift(monkeypatch, fixture_html):
+    index_html = fixture_html("tvguide_index_en.html")
+
+    def fake_fetch(url, limiter, retries=3):
+        if url == update_epg.INDEX_URL:
+            return index_html
+        return fixture_html("channel_1128_ar.html")
+
+    monkeypatch.setattr(update_epg, "fetch_text", fake_fetch)
+    monkeypatch.setattr(
+        update_epg, "fetch_source_timezone", lambda: ZoneInfo("Asia/Dubai")
+    )
+    monkeypatch.setattr(
+        update_epg,
+        "source_wall_clock_shift",
+        lambda source_timezone: timedelta(hours=8),
+    )
+
+    _, programmes = update_epg.collect_guide(delay=0, workers=1)
+
+    assert programmes[0].start.hour == 4
+
+
+def test_source_wall_clock_shift_is_dst_aware():
+    new_york = ZoneInfo("America/New_York")
+
+    assert update_epg.source_wall_clock_shift(
+        new_york,
+        now=datetime(2026, 8, 13, 20, 0, tzinfo=update_epg.DUBAI),
+    ) == timedelta(hours=8)
+    assert update_epg.source_wall_clock_shift(
+        new_york,
+        now=datetime(2026, 1, 13, 20, 0, tzinfo=update_epg.DUBAI),
+    ) == timedelta(hours=9)
+
+
+def test_source_wall_clock_shift_supports_fractional_timezone_offsets():
+    assert update_epg.source_wall_clock_shift(
+        ZoneInfo("Asia/Kathmandu"),
+        now=datetime(2026, 8, 13, 20, 0, tzinfo=update_epg.DUBAI),
+    ) == -timedelta(hours=1, minutes=45)
+
+
+def test_fetch_source_timezone_accepts_valid_bounded_response(monkeypatch):
+    body = b'{"success":true,"timezone":{"id":"Asia/Dubai"}}'
+    response = make_json_response(body)
+    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
+
+    assert update_epg.fetch_source_timezone() == ZoneInfo("Asia/Dubai")
+
+
+def test_fetch_source_timezone_rejects_invalid_payload(monkeypatch):
+    response = make_json_response(b'{"success":true,"timezone":{}}')
+    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
+
+    with pytest.raises(SourceParseError, match="invalid timezone"):
+        update_epg.fetch_source_timezone()
+
+
+def test_fetch_source_timezone_rejects_oversized_response(monkeypatch):
+    response = make_json_response(
+        b"{}", content_length=update_epg.MAX_TIMEZONE_RESPONSE_BYTES + 1
+    )
+    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
+
+    with pytest.raises(SourceParseError, match="size limit"):
+        update_epg.fetch_source_timezone()
 
 
 def test_validate_guide_accepts_complete_xml_and_reports_summary():
@@ -222,6 +328,61 @@ def test_validate_guide_rejects_old_and_future_data_with_current_gap():
     with pytest.raises(SourceParseError, match="current broadcast"):
         update_epg.validate_guide(
             xml, min_channels=1, min_programmes=2, min_future_days=2
+        )
+
+
+def test_validate_guide_rejects_small_gap_around_now():
+    channel = Channel("Test TV", "قناة الاختبار", "https://elcinema.com/tvguide/1/")
+    now = datetime.now(update_epg.DUBAI)
+    xml = build_xmltv(
+        (channel,),
+        (
+            Programme(channel.id, "انتهى", now - timedelta(hours=2), now - timedelta(hours=1)),
+            Programme(channel.id, "لاحقًا", now + timedelta(hours=1), now + timedelta(days=3)),
+        ),
+    )
+
+    with pytest.raises(SourceParseError, match="current broadcast"):
+        update_epg.validate_guide(
+            xml, min_channels=1, min_programmes=2, min_future_days=2
+        )
+
+
+def test_validate_guide_requires_current_coverage_on_half_the_channels():
+    now = datetime.now(update_epg.DUBAI)
+    channels = tuple(
+        Channel(
+            f"Test {index}",
+            f"قناة {index}",
+            f"https://elcinema.com/tvguide/{index}/",
+        )
+        for index in range(8)
+    )
+    programmes = tuple(
+        programme
+        for index, channel in enumerate(channels)
+        for programme in (
+            Programme(
+                channel.id,
+                "الحالي" if index == 0 else "السابق",
+                now - timedelta(hours=1 if index == 0 else 2),
+                now + timedelta(hours=1) if index == 0 else now - timedelta(hours=1),
+            ),
+            Programme(
+                channel.id,
+                "لاحقًا",
+                now + timedelta(hours=1),
+                now + timedelta(days=3),
+            ),
+        )
+    )
+
+    with pytest.raises(SourceParseError, match=r"\(1/4 channels\)"):
+        update_epg.validate_guide(
+            build_xmltv(channels, programmes),
+            min_channels=8,
+            min_programmes=16,
+            min_future_days=2,
         )
 
 

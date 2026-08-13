@@ -1,5 +1,5 @@
 from dataclasses import FrozenInstanceError
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from xml.etree import ElementTree
 
 import pytest
@@ -126,6 +126,75 @@ def test_midnight_in_same_date_group_rolls_into_next_day(fixture_html):
         datetime(2026, 8, 14, 0, 0, tzinfo=DUBAI_OFFSET),
     ]
     assert programmes[0].stop == programmes[1].start
+
+
+def test_wall_clock_shift_wraps_within_each_source_date_group():
+    html = """
+    <meta property="og:image" content="https://media0106.elcinema.com/logo.png">
+    <div class="panel jumbo"><h1>قناة اختبار</h1></div>
+    <div class="tvgrid">
+      <div class="dates">الخميس 13 أغسطس</div>
+      <div class="boxed-category-0"><ul class="no-margin">
+        <li>ليلاً</li><li>03:00 مساءً <span class="subheader">[60 دقيقة]</span></li>
+      </ul></div>
+      <div class="boxed-category-0"><ul class="no-margin">
+        <li>منتصف الليل</li><li>04:00 مساءً <span class="subheader">[60 دقيقة]</span></li>
+      </ul></div>
+      <div class="boxed-category-0"><ul class="no-margin">
+        <li>بعد منتصف الليل</li><li>05:00 مساءً <span class="subheader">[60 دقيقة]</span></li>
+      </ul></div>
+      <div class="dates">الجمعة 14 أغسطس</div>
+      <div class="boxed-category-0"><ul class="no-margin">
+        <li>اليوم التالي</li><li>06:00 مساءً <span class="subheader">[60 دقيقة]</span></li>
+      </ul></div>
+    </div>
+    """
+    channel = Channel("Test TV", "Test TV", f"{ELCINEMA}/en/tvguide/9999/")
+
+    _, programmes = parse_channel_page(
+        html,
+        channel,
+        year=2026,
+        wall_clock_shift=timedelta(hours=8),
+    )
+
+    assert [programme.start for programme in programmes] == [
+        datetime(2026, 8, 13, 23, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 0, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 1, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 2, 0, tzinfo=DUBAI_OFFSET),
+    ]
+    assert [programme.stop for programme in programmes] == [
+        datetime(2026, 8, 14, 0, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 1, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 2, 0, tzinfo=DUBAI_OFFSET),
+        datetime(2026, 8, 14, 3, 0, tzinfo=DUBAI_OFFSET),
+    ]
+
+
+def test_first_after_midnight_card_uses_reference_calendar_date():
+    html = """
+    <meta property="og:image" content="https://media0106.elcinema.com/logo.png">
+    <div class="panel jumbo"><h1>قناة اختبار</h1></div>
+    <div class="tvgrid">
+      <div class="dates">الخميس 13 أغسطس</div>
+      <div class="boxed-category-0"><ul class="no-margin">
+        <li>بعد منتصف الليل</li><li>12:30 صباحًا <span class="subheader">[60 دقيقة]</span></li>
+      </ul></div>
+    </div>
+    """
+    channel = Channel("Test TV", "Test TV", f"{ELCINEMA}/en/tvguide/9999/")
+
+    _, programmes = parse_channel_page(
+        html,
+        channel,
+        year=2026,
+        reference_date=date(2026, 8, 14),
+    )
+
+    assert programmes[0].start == datetime(
+        2026, 8, 14, 0, 30, tzinfo=DUBAI_OFFSET
+    )
 
 
 def test_date_groups_roll_december_into_the_next_year(fixture_html):

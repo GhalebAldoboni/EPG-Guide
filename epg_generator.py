@@ -306,6 +306,7 @@ def parse_channel_page(
     channel: Channel,
     year: int,
     reference_date: date | None = None,
+    wall_clock_shift: timedelta = timedelta(0),
 ) -> tuple[Channel, tuple[Programme, ...]]:
     """Parse one Arabic channel page into channel metadata and programmes."""
     root = _tree(html)
@@ -357,7 +358,23 @@ def parse_channel_page(
         previous_start: datetime | None = None
         for card in cards:
             title, time_text, duration, description, category = _card_fields(card)
-            start = parse_arabic_datetime(date_text, time_text, current_year)
+            source_start = parse_arabic_datetime(date_text, time_text, current_year)
+            shifted_minutes = (
+                source_start.hour * 60
+                + source_start.minute
+                + int(wall_clock_shift.total_seconds() // 60)
+            ) % (24 * 60)
+            start = source_start.replace(
+                hour=shifted_minutes // 60,
+                minute=shifted_minutes % 60,
+            )
+            if (
+                previous_start is None
+                and reference_date is not None
+                and start.date() < reference_date
+                and start.hour < 12
+            ):
+                start += timedelta(days=(reference_date - start.date()).days)
             if previous_start is not None and start < previous_start:
                 start += timedelta(days=1)
             if pending is not None:
