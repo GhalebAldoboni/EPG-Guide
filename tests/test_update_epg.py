@@ -90,6 +90,38 @@ def test_load_subscription_aliases_rejects_invalid_schema(tmp_path: Path, conten
         update_epg.load_subscription_aliases(path)
 
 
+def test_committed_playlist_aliases_are_sanitized_unique_and_representative():
+    aliases = update_epg.load_subscription_aliases()
+    expected = {
+        "Al sharqya": ({"AR| AL SHARQIYA TV FHD"}, set()),
+        "Emirates": ({"AR| AL EMARAT TV HD"}, {"AlEmarat.ae"}),
+        "MBC": ({"AR| MBC 1"}, {"MBC1En.ae"}),
+        "National Geographic": (
+            {"AR| ABU DHABI NATIONAL GEO HD", "AR| AD NAT GEO HD"},
+            set(),
+        ),
+        "Utv": ({"AR| UTV IRAQ"}, set()),
+    }
+
+    for channel_id, (names, ids) in expected.items():
+        assert names.issubset(set(aliases[channel_id]["names"]))
+        assert ids.issubset(set(aliases[channel_id]["ids"]))
+
+    all_names = [name for values in aliases.values() for name in values["names"]]
+    all_ids = [alias_id for values in aliases.values() for alias_id in values["ids"]]
+    assert len({name.casefold() for name in all_names}) == len(all_names)
+    assert len(set(all_ids)) == len(all_ids)
+    assert "TS" not in all_ids
+    assert all(
+        "://" not in value
+        and "username=" not in value.casefold()
+        and "password=" not in value.casefold()
+        and "+6h" not in value.casefold()
+        for value in (*all_names, *all_ids)
+    )
+    assert not {"BE| MTV HD", "BE| MTV HEVC"} & set(aliases["MTV"]["names"])
+
+
 def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixture_html):
     def fake_fetch(url, limiter, retries=3):
         if url == update_epg.INDEX_URL:
