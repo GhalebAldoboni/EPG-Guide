@@ -32,12 +32,8 @@ INDEX_URL = f"{BASE_URL}/en/tvguide/"
 SUBSCRIPTION_ALIASES_PATH = Path(__file__).with_name("channel_aliases.json")
 USER_AGENT = "EPG-Guide-Updater/2.0 (+https://github.com/MuazT/EPG-Guide)"
 DUBAI = ZoneInfo("Asia/Dubai")
-CHANNEL_CLOCK_CORRECTIONS = MappingProxyType(
-    {
-        # The broadcaster runs one hour ahead of elCinema's published grid.
-        "Sharjah TV": timedelta(hours=-1),
-    }
-)
+# Live broadcasts run one hour ahead of elCinema's published programme grid.
+SCHEDULE_CLOCK_CORRECTION = timedelta(hours=-1)
 MAX_RESPONSE_BYTES = 5 * 1024 * 1024
 ALLOWED_SOURCE_HOSTS = frozenset({"elcinema.com", "www.elcinema.com"})
 MAX_CHANNELS = 250
@@ -151,9 +147,9 @@ def source_wall_clock_shift(
     return dubai_offset - source_offset
 
 
-def channel_wall_clock_shift(channel: Channel, base_shift: timedelta) -> timedelta:
-    """Apply verified broadcaster-specific corrections to the source shift."""
-    return base_shift + CHANNEL_CLOCK_CORRECTIONS.get(channel.id, timedelta(0))
+def schedule_wall_clock_shift(base_shift: timedelta) -> timedelta:
+    """Apply the verified live-broadcast correction to elCinema's source shift."""
+    return base_shift + SCHEDULE_CLOCK_CORRECTION
 
 
 def load_subscription_aliases(
@@ -248,7 +244,7 @@ def collect_guide(
             channel,
             scrape_date.year,
             reference_date=scrape_date,
-            wall_clock_shift=channel_wall_clock_shift(channel, wall_clock_shift),
+            wall_clock_shift=schedule_wall_clock_shift(wall_clock_shift),
         )
 
     parsed: dict[str, tuple[Channel, tuple[Programme, ...]]] = {}

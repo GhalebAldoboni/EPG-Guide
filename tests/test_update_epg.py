@@ -159,7 +159,7 @@ def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixt
     )
 
 
-def test_collect_guide_applies_detected_wall_clock_shift(monkeypatch, fixture_html):
+def test_collect_guide_applies_source_and_schedule_clock_shifts(monkeypatch, fixture_html):
     index_html = fixture_html("tvguide_index_en.html")
 
     def fake_fetch(url, limiter, retries=3):
@@ -179,7 +179,7 @@ def test_collect_guide_applies_detected_wall_clock_shift(monkeypatch, fixture_ht
 
     _, programmes = update_epg.collect_guide(delay=0, workers=1)
 
-    assert programmes[0].start.hour == 4
+    assert programmes[0].start.hour == 3
 
 
 def test_source_wall_clock_shift_is_dst_aware():
@@ -202,19 +202,11 @@ def test_source_wall_clock_shift_supports_fractional_timezone_offsets():
     ) == -timedelta(hours=1, minutes=45)
 
 
-def test_channel_wall_clock_shift_corrects_only_sharjah_tv():
+def test_schedule_wall_clock_shift_corrects_all_channels():
     base_shift = timedelta(hours=8)
-    sharjah = Channel(
-        "Sharjah TV", "Sharjah TV", "https://elcinema.com/en/tvguide/1188/"
-    )
-    emirates = Channel(
-        "Emirates", "Emirates", "https://elcinema.com/en/tvguide/1135/"
-    )
 
-    assert update_epg.channel_wall_clock_shift(sharjah, base_shift) == timedelta(
-        hours=7
-    )
-    assert update_epg.channel_wall_clock_shift(emirates, base_shift) == base_shift
+    assert update_epg.schedule_wall_clock_shift(base_shift) == timedelta(hours=7)
+    assert update_epg.schedule_wall_clock_shift(timedelta(0)) == timedelta(hours=-1)
 
 
 def test_configured_source_timezone_uses_valid_environment(monkeypatch):
