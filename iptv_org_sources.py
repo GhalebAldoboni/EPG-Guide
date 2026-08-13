@@ -41,7 +41,7 @@ EXTRA_CHANNELS = (
         "ARTAflam2.sa",
         "ART Aflam 2",
         "https://www.artonline.tv/",
-        aliases=("AR| ART AFLAM 2 FHD",),
+        aliases=("AR| ART AFLAM 2", "AR| ART AFLAM 2 FHD"),
     ),
     Channel(
         "ARTCinema.sa",

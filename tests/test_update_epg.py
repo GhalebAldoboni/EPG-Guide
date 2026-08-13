@@ -123,6 +123,66 @@ def test_committed_playlist_aliases_are_sanitized_unique_and_representative():
     assert not {"BE| MTV HD", "BE| MTV HEVC"} & set(aliases["MTV"]["names"])
 
 
+def test_committed_aliases_cover_verified_playlist_broadcast_names():
+    aliases = update_epg.load_subscription_aliases()
+    expected = {
+        "LBC": {"AR| LBC SAT HD"},
+        "MBC": {"AR| GOBX MBC 1 FHD", "AR| GOBX MBC 1 HD"},
+        "MBC 2": {"AR| GOBX MBC 2 FHD", "AR| GOBX MBC 2 HD"},
+        "MBC 3": {"AR| GOBX MBC 3 FHD", "AR| GOBX MBC 3 HD"},
+        "MBC 4": {"AR| GOBX MBC 4 FHD", "AR| GOBX MBC 4 HD"},
+        "MBC 5": {"AR| GOBX MBC 5 FHD", "AR| GOBX MBC 5 HD"},
+        "MBC Action": {
+            "AR| GOBX MBC ACTION FHD",
+            "AR| GOBX MBC ACTION HD",
+        },
+        "MBC Bollywood": {"AR| GOBX MBC BOLLYWOOD FHD"},
+        "MBC Drama": {
+            "AR| GOBX MBC DRAMA FHD",
+            "AR| GOBX MBC DRAMA HD",
+            "AR| MBC DRAMA",
+            "AR| MBC DRAMA SD",
+        },
+        "MBC Drama +": {
+            "AR| GOBX MBC DRAMA+ FHD",
+            "AR| GOBX MBC DRAMA+ HD",
+            "AR| MBC DRAMA+ FHD",
+        },
+        "MBC Egypt": {
+            "AR| GOBX MBC MASR 1 FHD",
+            "AR| GOBX MBC MASR 1 HD",
+            "AR| MBC MASR",
+        },
+        "MBC Iraq": {
+            "AR| GOBX MBC IRAQ FHD",
+            "AR| GOBX MBC IRAQ HD",
+        },
+        "MBC MASR 2": {
+            "AR| GOBX MBC MASR 2 FHD",
+            "AR| GOBX MBC MASR 2 HD",
+        },
+        "MBC MAX": {"AR| GOBX MBC MAX HD"},
+        "OSN TV Comedy": {"AR| OSN COMDEY"},
+        "OSN TV Crime": {"AR| OSN CRIME"},
+        "OSN TV Kids": {"AR| OSN KIDS"},
+        "OSN TV Movies Action": {"AR| OSN MOVIES ACTION"},
+        "OSN TV Movies Family": {"AR| OSN MOVIES FAMILY"},
+        "OSN TV Movies Hollywood": {"AR| OSN MOVIES HOLLOWAY"},
+        "OSN TV Movies Premiere": {"AR| OSN MOVIES PREMIERE"},
+        "OSN TV Now": {"AR| OSN NOW"},
+        "OSN TV One": {"AR| OSN ONE"},
+        "OSN TV Showcase": {"AR| OSN SHOWCASE"},
+        "OSN TV Yahala Bil Arabi": {"AR| OSN YAHALA BIL ARABI"},
+        "OSN Ya Hala": {"AR| OSN YAHALA"},
+        "Osn Ya Hala Aflam": {"AR| OSN YAHALA AFLAM"},
+        "Sharjah TV": {"AR| Al SHARJAH HD"},
+        "Watania 2": {"AR| TUNISIA NAT 2"},
+    }
+
+    for channel_id, names in expected.items():
+        assert names.issubset(set(aliases[channel_id]["names"])), channel_id
+
+
 def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixture_html):
     def fake_fetch(url, limiter, retries=3):
         if url == update_epg.INDEX_URL:

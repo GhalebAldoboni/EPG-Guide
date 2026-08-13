@@ -218,6 +218,7 @@
   </channel>
   <channel id="ARTAflam2.sa">
     <display-name lang="en">ART Aflam 2</display-name>
+    <display-name lang="en">AR| ART AFLAM 2</display-name>
     <display-name lang="en">AR| ART AFLAM 2 FHD</display-name>
     <url>https://www.artonline.tv/</url>
   </channel>
@@ -530,6 +531,7 @@
     <display-name lang="en">AR: LBC HD</display-name>
     <display-name lang="en">AR: LBC 4K ◉</display-name>
     <display-name lang="en">AR| LBC FHD</display-name>
+    <display-name lang="en">AR| LBC SAT HD</display-name>
     <display-name lang="en">STC| LBC ʰᵉᵛᶜ</display-name>
     <display-name lang="en">STC| LBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1341_1.png" />
@@ -540,6 +542,7 @@
     <display-name lang="en">AR: LBC HD</display-name>
     <display-name lang="en">AR: LBC 4K ◉</display-name>
     <display-name lang="en">AR| LBC FHD</display-name>
+    <display-name lang="en">AR| LBC SAT HD</display-name>
     <display-name lang="en">STC| LBC ʰᵉᵛᶜ</display-name>
     <display-name lang="en">STC| LBC ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1341_1.png" />
@@ -601,6 +604,8 @@
     <display-name lang="en">AR: MBC 1 4K ◉</display-name>
     <display-name lang="en">AR: MBC 1 ◉</display-name>
     <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 HD</display-name>
     <display-name lang="en">GOBX| MBC 1 FHD</display-name>
     <display-name lang="en">GOBX| MBC 1 HD</display-name>
     <display-name lang="en">MYHD| MBC 1 FHD</display-name>
@@ -616,6 +621,8 @@
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
     <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 HD</display-name>
     <display-name lang="en">GOBX| MBC 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC 2 HD</display-name>
     <display-name lang="en">MYHD| MBC 2 FHD</display-name>
@@ -631,6 +638,8 @@
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
     <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 HD</display-name>
     <display-name lang="en">GOBX| MBC 3 HD</display-name>
     <display-name lang="en">MYHD| MBC 3 FHD</display-name>
     <display-name lang="en">MYHD| MBC 3 HD</display-name>
@@ -645,6 +654,8 @@
     <display-name lang="en">AR: MBC 4 HD</display-name>
     <display-name lang="en">AR: MBC 4 4K ◉</display-name>
     <display-name lang="en">AR| MBC 4</display-name>
+    <display-name lang="en">AR| GOBX MBC 4 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 4 HD</display-name>
     <display-name lang="en">GOBX| MBC 4 FHD</display-name>
     <display-name lang="en">GOBX| MBC 4 HD</display-name>
     <display-name lang="en">MYHD| MBC 4 FHD</display-name>
@@ -662,6 +673,8 @@
     <display-name lang="en">AR: MBC 5 ᴿᴬᵂ</display-name>
     <display-name lang="en">AR| MBC 5</display-name>
     <display-name lang="en">AR| MBC 5 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 5 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 5 HD</display-name>
     <display-name lang="en">GOBX| MBC 5 FHD</display-name>
     <display-name lang="en">GOBX| MBC 5 HD</display-name>
     <display-name lang="en">MYHD| MBC 5 FHD</display-name>
@@ -673,6 +686,8 @@
     <display-name lang="en">AR: MBC Action</display-name>
     <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
     <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION HD</display-name>
     <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION HD</display-name>
@@ -687,6 +702,7 @@
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
     <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">AR| GOBX MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
     <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
@@ -699,12 +715,19 @@
     <display-name lang="en">AR: MBC Drama</display-name>
     <display-name lang="en">AR: MBC Drama HD</display-name>
     <display-name lang="en">AR: MBC DRAMA 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA</display-name>
+    <display-name lang="en">AR| MBC DRAMA SD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1194_1.png" />
     <url>https://elcinema.com/en/tvguide/1194/</url>
   </channel>
   <channel id="MBC Drama +">
     <display-name lang="en">MBC Drama +</display-name>
     <display-name lang="en">AR: MBC Drama+ 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA+ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA+ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA+ HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1131_1.png" />
     <url>https://elcinema.com/en/tvguide/1131/</url>
   </channel>
@@ -712,6 +735,9 @@
     <display-name lang="en">MBC Egypt</display-name>
     <display-name lang="en">AR: MBC Maser HD</display-name>
     <display-name lang="en">AR: MBC MASER 4K ◉</display-name>
+    <display-name lang="en">AR| MBC MASR</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 1 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1239_1.png" />
     <url>https://elcinema.com/en/tvguide/1239/</url>
   </channel>
@@ -721,6 +747,8 @@
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
     <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ HD</display-name>
     <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
     <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
@@ -732,6 +760,8 @@
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
     <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 HD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
     <display-name lang="en">MYHD| MBC MASER 2</display-name>
@@ -753,6 +783,7 @@
     <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
     <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
     <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">AR| GOBX MBC MAX HD</display-name>
     <display-name lang="en">GOBX| MBC MAX HD</display-name>
     <display-name lang="en">MYHD| MBC MAX FHD</display-name>
     <display-name lang="en">MYHD| MBC MAX HD</display-name>
@@ -767,6 +798,8 @@
     <display-name lang="en">AR: MBC 1 4K ◉</display-name>
     <display-name lang="en">AR: MBC 1 ◉</display-name>
     <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 HD</display-name>
     <display-name lang="en">GOBX| MBC 1 FHD</display-name>
     <display-name lang="en">GOBX| MBC 1 HD</display-name>
     <display-name lang="en">MYHD| MBC 1 FHD</display-name>
@@ -782,6 +815,8 @@
     <display-name lang="en">AR: MBC 1 4K ◉</display-name>
     <display-name lang="en">AR: MBC 1 ◉</display-name>
     <display-name lang="en">AR| MBC 1</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 1 HD</display-name>
     <display-name lang="en">GOBX| MBC 1 FHD</display-name>
     <display-name lang="en">GOBX| MBC 1 HD</display-name>
     <display-name lang="en">MYHD| MBC 1 FHD</display-name>
@@ -797,6 +832,8 @@
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
     <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 HD</display-name>
     <display-name lang="en">GOBX| MBC 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC 2 HD</display-name>
     <display-name lang="en">MYHD| MBC 2 FHD</display-name>
@@ -812,6 +849,8 @@
     <display-name lang="en">AR: MBC 2 HD ◉</display-name>
     <display-name lang="en">AR: MBC 2 4K</display-name>
     <display-name lang="en">AR| MBC 2</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 2 HD</display-name>
     <display-name lang="en">GOBX| MBC 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC 2 HD</display-name>
     <display-name lang="en">MYHD| MBC 2 FHD</display-name>
@@ -827,6 +866,8 @@
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
     <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 HD</display-name>
     <display-name lang="en">GOBX| MBC 3 HD</display-name>
     <display-name lang="en">MYHD| MBC 3 FHD</display-name>
     <display-name lang="en">MYHD| MBC 3 HD</display-name>
@@ -841,6 +882,8 @@
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
     <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 HD</display-name>
     <display-name lang="en">GOBX| MBC 3 HD</display-name>
     <display-name lang="en">MYHD| MBC 3 FHD</display-name>
     <display-name lang="en">MYHD| MBC 3 HD</display-name>
@@ -855,6 +898,8 @@
     <display-name lang="en">AR: MBC 3 HD</display-name>
     <display-name lang="en">AR: MBC 3 4K ◉</display-name>
     <display-name lang="en">AR| MBC 3</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 3 HD</display-name>
     <display-name lang="en">GOBX| MBC 3 HD</display-name>
     <display-name lang="en">MYHD| MBC 3 FHD</display-name>
     <display-name lang="en">MYHD| MBC 3 HD</display-name>
@@ -869,6 +914,8 @@
     <display-name lang="en">AR: MBC 4 HD</display-name>
     <display-name lang="en">AR: MBC 4 4K ◉</display-name>
     <display-name lang="en">AR| MBC 4</display-name>
+    <display-name lang="en">AR| GOBX MBC 4 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 4 HD</display-name>
     <display-name lang="en">GOBX| MBC 4 FHD</display-name>
     <display-name lang="en">GOBX| MBC 4 HD</display-name>
     <display-name lang="en">MYHD| MBC 4 FHD</display-name>
@@ -886,6 +933,8 @@
     <display-name lang="en">AR: MBC 5 ᴿᴬᵂ</display-name>
     <display-name lang="en">AR| MBC 5</display-name>
     <display-name lang="en">AR| MBC 5 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 5 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC 5 HD</display-name>
     <display-name lang="en">GOBX| MBC 5 FHD</display-name>
     <display-name lang="en">GOBX| MBC 5 HD</display-name>
     <display-name lang="en">MYHD| MBC 5 FHD</display-name>
@@ -897,6 +946,8 @@
     <display-name lang="en">AR: MBC Action</display-name>
     <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
     <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION HD</display-name>
     <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION HD</display-name>
@@ -910,6 +961,8 @@
     <display-name lang="en">AR: MBC Action</display-name>
     <display-name lang="en">AR: MBC ACTION 4K ◉</display-name>
     <display-name lang="en">AR| MBC ACTION</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC ACTION HD</display-name>
     <display-name lang="en">GOBX| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION FHD</display-name>
     <display-name lang="en">MYHD| MBC ACTION HD</display-name>
@@ -924,6 +977,7 @@
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
     <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">AR| GOBX MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
     <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
@@ -937,6 +991,7 @@
     <display-name lang="en">AR: MBC Bollywood HD</display-name>
     <display-name lang="en">AR: MBC Bollywood 4K ◉</display-name>
     <display-name lang="en">AR| MBC BOLLYWOOD</display-name>
+    <display-name lang="en">AR| GOBX MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD FHD</display-name>
     <display-name lang="en">MYHD| MBC BOLLYWOOD HD</display-name>
     <display-name lang="en">STC| MBC BOLLYWOOD ʰᵉᵛᶜ</display-name>
@@ -949,6 +1004,10 @@
     <display-name lang="en">AR: MBC Drama</display-name>
     <display-name lang="en">AR: MBC Drama HD</display-name>
     <display-name lang="en">AR: MBC DRAMA 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA</display-name>
+    <display-name lang="en">AR| MBC DRAMA SD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1194_1.png" />
     <url>https://elcinema.com/en/tvguide/1194/</url>
   </channel>
@@ -957,6 +1016,10 @@
     <display-name lang="en">AR: MBC Drama</display-name>
     <display-name lang="en">AR: MBC Drama HD</display-name>
     <display-name lang="en">AR: MBC DRAMA 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA</display-name>
+    <display-name lang="en">AR| MBC DRAMA SD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1194_1.png" />
     <url>https://elcinema.com/en/tvguide/1194/</url>
   </channel>
@@ -965,12 +1028,19 @@
     <display-name lang="en">AR: MBC Drama</display-name>
     <display-name lang="en">AR: MBC Drama HD</display-name>
     <display-name lang="en">AR: MBC DRAMA 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA</display-name>
+    <display-name lang="en">AR| MBC DRAMA SD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1194_1.png" />
     <url>https://elcinema.com/en/tvguide/1194/</url>
   </channel>
   <channel id="MBCDramaPlus.ae">
     <display-name lang="en">MBC Drama +</display-name>
     <display-name lang="en">AR: MBC Drama+ 4K ◉</display-name>
+    <display-name lang="en">AR| MBC DRAMA+ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA+ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC DRAMA+ HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1131_1.png" />
     <url>https://elcinema.com/en/tvguide/1131/</url>
   </channel>
@@ -978,6 +1048,9 @@
     <display-name lang="en">MBC Egypt</display-name>
     <display-name lang="en">AR: MBC Maser HD</display-name>
     <display-name lang="en">AR: MBC MASER 4K ◉</display-name>
+    <display-name lang="en">AR| MBC MASR</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 1 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 1 HD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1239_1.png" />
     <url>https://elcinema.com/en/tvguide/1239/</url>
   </channel>
@@ -987,6 +1060,8 @@
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
     <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ HD</display-name>
     <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
     <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
@@ -998,6 +1073,8 @@
     <display-name lang="en">AR: MBC IRAQ HD</display-name>
     <display-name lang="en">AR: MBC IRAQ 4K ◉</display-name>
     <display-name lang="en">AR| MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC IRAQ HD</display-name>
     <display-name lang="en">GOBX| MBC IRAQ HD</display-name>
     <display-name lang="en">MYHD| MBC IRAQ  FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1340_1.png" />
@@ -1009,6 +1086,8 @@
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
     <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 HD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
     <display-name lang="en">MYHD| MBC MASER 2</display-name>
@@ -1024,6 +1103,8 @@
     <display-name lang="en">AR: MBC Maser 2 HD</display-name>
     <display-name lang="en">AR: MBC MASER 2 4K ◉</display-name>
     <display-name lang="en">AR| MBC MASR 2</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 FHD</display-name>
+    <display-name lang="en">AR| GOBX MBC MASR 2 HD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 FHD</display-name>
     <display-name lang="en">GOBX| MBC MASR 2 HD</display-name>
     <display-name lang="en">MYHD| MBC MASER 2</display-name>
@@ -1039,6 +1120,7 @@
     <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
     <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
     <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">AR| GOBX MBC MAX HD</display-name>
     <display-name lang="en">GOBX| MBC MAX HD</display-name>
     <display-name lang="en">MYHD| MBC MAX FHD</display-name>
     <display-name lang="en">MYHD| MBC MAX HD</display-name>
@@ -1053,6 +1135,7 @@
     <display-name lang="en">AR: MBC MAX 4K ◉</display-name>
     <display-name lang="en">AR: MBC MAX ᴿᴬᵂ</display-name>
     <display-name lang="en">AR| MBC MAX</display-name>
+    <display-name lang="en">AR| GOBX MBC MAX HD</display-name>
     <display-name lang="en">GOBX| MBC MAX HD</display-name>
     <display-name lang="en">MYHD| MBC MAX FHD</display-name>
     <display-name lang="en">MYHD| MBC MAX HD</display-name>
@@ -1221,6 +1304,7 @@
     <display-name lang="en">OSN TV Comedy</display-name>
     <display-name lang="en">OSN: COMEDY ᶠ ᴴᴰ</display-name>
     <display-name lang="en">OSN: COMDEY ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| OSN COMDEY</display-name>
     <display-name lang="en">BE: OSN COMDEY ᴴᴰ</display-name>
     <display-name lang="en">OSN| COMDEY FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1257_1.png" />
@@ -1230,6 +1314,7 @@
     <display-name lang="en">OSN TV Crime</display-name>
     <display-name lang="en">OSN: CRIME ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: CRIME ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN CRIME</display-name>
     <display-name lang="en">BE: OSN CRIME ᴴᴰ</display-name>
     <display-name lang="en">OSN| CRIME FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1395_1.png" />
@@ -1239,6 +1324,7 @@
     <display-name lang="en">OSN TV Kids</display-name>
     <display-name lang="en">OSN: KIDS ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: KIDS ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN KIDS</display-name>
     <display-name lang="en">BE: OSN KIDS ᴴᴰ</display-name>
     <display-name lang="en">OSN| KIDS FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1232_1.png" />
@@ -1247,6 +1333,7 @@
   <channel id="OSN TV Movies Action">
     <display-name lang="en">OSN TV Movies Action</display-name>
     <display-name lang="en">OSN: MOVIES ACTION ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| OSN MOVIES ACTION</display-name>
     <display-name lang="en">BE: OSN MOVIES ACTION ᴴᴰ</display-name>
     <display-name lang="en">OSN| MOVIES ACTION FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1211_1.png" />
@@ -1260,6 +1347,7 @@
   <channel id="OSN TV Movies Family">
     <display-name lang="en">OSN TV Movies Family</display-name>
     <display-name lang="en">OSN: MOVIES FAMILY ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| OSN MOVIES FAMILY</display-name>
     <display-name lang="en">BE: OSN MOVIES  FAMILY ᴴᴰ</display-name>
     <display-name lang="en">OSN| MOVIES FAMILY FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1392_1.png" />
@@ -1269,6 +1357,7 @@
     <display-name lang="en">OSN TV Movies Hollywood</display-name>
     <display-name lang="en">OSN: MOVIES HOLLYWOOD ᶠ ᴴᴰ</display-name>
     <display-name lang="en">OSN: MOVIES HOLLOWAY ᴿᴬᵂ</display-name>
+    <display-name lang="en">AR| OSN MOVIES HOLLOWAY</display-name>
     <display-name lang="en">BE: OSN MOVIES HOLLOWAY ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1391_1.png" />
     <url>https://elcinema.com/en/tvguide/1391/</url>
@@ -1277,6 +1366,7 @@
     <display-name lang="en">OSN TV Movies Premiere</display-name>
     <display-name lang="en">OSN: MOVIES PREMIERE ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: MOVIES PREMIERE ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN MOVIES PREMIERE</display-name>
     <display-name lang="en">BE: OSN MOVIES PREMIERE ᴴᴰ</display-name>
     <display-name lang="en">OSN| MOVIES PREMIERE FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1213_1.png" />
@@ -1286,6 +1376,7 @@
     <display-name lang="en">OSN TV Now</display-name>
     <display-name lang="en">OSN: NOW ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: NOW ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN NOW</display-name>
     <display-name lang="en">BE: OSN NOW ᴴᴰ</display-name>
     <display-name lang="en">OSN| NOW FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1396_1.png" />
@@ -1295,6 +1386,7 @@
     <display-name lang="en">OSN TV One</display-name>
     <display-name lang="en">OSN: ONE ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: TV ONE ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN ONE</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1393_1.png" />
     <url>https://elcinema.com/en/tvguide/1393/</url>
   </channel>
@@ -1302,6 +1394,7 @@
     <display-name lang="en">OSN TV Showcase</display-name>
     <display-name lang="en">OSN: SHOWCASE ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: SHOWCASE ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN SHOWCASE</display-name>
     <display-name lang="en">BE: OSN SHOWCASE ᴴᴰ</display-name>
     <display-name lang="en">OSN| SHOWCASE FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1394_1.png" />
@@ -1311,6 +1404,7 @@
     <display-name lang="en">OSN TV Yahala Bil Arabi</display-name>
     <display-name lang="en">OSN: YAHALA BIL ARABI ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA BIL ARABI ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN YAHALA BIL ARABI</display-name>
     <display-name lang="en">BE: OSN YAHALA BIL ARABI ᴴᴰ</display-name>
     <display-name lang="en">OSN| YAHALA BIL ARABI FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1390_1.png" />
@@ -1320,6 +1414,7 @@
     <display-name lang="en">OSN Ya Hala</display-name>
     <display-name lang="en">OSN: YAHALA ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN YAHALA</display-name>
     <display-name lang="en">OSN| YAHALA FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1205_1.png" />
     <url>https://elcinema.com/en/tvguide/1205/</url>
@@ -1328,6 +1423,7 @@
     <display-name lang="en">Osn Ya Hala Aflam</display-name>
     <display-name lang="en">OSN: YAHALA AFLAM ᴿᴬᵂ</display-name>
     <display-name lang="en">OSN: YAHALA AFLAM ᶠ ᴴᴰ</display-name>
+    <display-name lang="en">AR| OSN YAHALA AFLAM</display-name>
     <display-name lang="en">BE: OSN YAHALA AFLAM ᴴᴰ</display-name>
     <display-name lang="en">OSN| YAHALA AFLAM FHD</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1285_1.png" />
@@ -1528,6 +1624,7 @@
     <display-name lang="en">Sharjah TV</display-name>
     <display-name lang="en">AR: Sharjah 4K</display-name>
     <display-name lang="en">AR: Sharjah HD</display-name>
+    <display-name lang="en">AR| Al SHARJAH HD</display-name>
     <display-name lang="en">STC| SHARJAH TV ʰᵉᵛᶜ</display-name>
     <display-name lang="en">STC| SHARJAH TV ᴴᴰ</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1188_1.png" />
@@ -1619,6 +1716,7 @@
   <channel id="Tunisia2.tn">
     <display-name lang="en">Watania 2</display-name>
     <display-name lang="en">AR: Tunisia National 2 ◉</display-name>
+    <display-name lang="en">AR| TUNISIA NAT 2</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1334_1.png" />
     <url>https://elcinema.com/en/tvguide/1334/</url>
   </channel>
@@ -1631,6 +1729,7 @@
   <channel id="Watania 2">
     <display-name lang="en">Watania 2</display-name>
     <display-name lang="en">AR: Tunisia National 2 ◉</display-name>
+    <display-name lang="en">AR| TUNISIA NAT 2</display-name>
     <icon src="https://media0106.elcinema.com/tvguide/1334_1.png" />
     <url>https://elcinema.com/en/tvguide/1334/</url>
   </channel>
@@ -9900,7 +9999,8 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Assadissa.ma" start="20260814100000 +0400" stop="20260814101500 +0400">
-    <title lang="ar">أمداح نبوية</title>
+    <title lang="ar">افتتاح الإرسال + القرآن الكريم + ابتهال+ أوقات الصلاة</title>
+    <category lang="ar">القرآن الكريم</category>
   </programme>
   <programme channel="BeIn Series HD 1" start="20260814100000 +0400" stop="20260814110000 +0400">
     <title lang="en">The Miniature Wife</title>
@@ -38438,8 +38538,7 @@
     <title lang="ar">برنامج</title>
   </programme>
   <programme channel="Assadissa.ma" start="20260816100000 +0400" stop="20260816101500 +0400">
-    <title lang="ar">افتتاح الإرسال + القرآن الكريم + ابتهال+ أوقات الصلاة</title>
-    <category lang="ar">القرآن الكريم</category>
+    <title lang="ar">أمداح نبوية</title>
   </programme>
   <programme channel="BEIN MOVIES ACTION" start="20260816100000 +0400" stop="20260816123000 +0400">
     <title lang="en">Spider-Man 3</title>

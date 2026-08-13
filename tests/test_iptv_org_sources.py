@@ -54,6 +54,7 @@ def test_extra_channels_are_missing_playlist_ids_with_aliases():
         "Assadissa.ma",
     }
     assert "AR| ART AFLAM 1 FHD" in channels[0].aliases
+    assert "AR| ART AFLAM 2" in channels[1].aliases
     assert "AR| ASSADISSA HEVC" in channels[-1].aliases
 
 

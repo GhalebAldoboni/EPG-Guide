@@ -164,7 +164,7 @@
     "ids": ["JordanTV.jo"]
   },
   "LBC": {
-    "names": ["AR: LBC HD","AR: LBC 4K ◉","AR| LBC FHD","STC| LBC ʰᵉᵛᶜ","STC| LBC ᴴᴰ"],
+    "names": ["AR: LBC HD","AR: LBC 4K ◉","AR| LBC FHD","AR| LBC SAT HD","STC| LBC ʰᵉᵛᶜ","STC| LBC ᴴᴰ"],
     "ids": ["LBC.lb"]
   },
   "LBCI": {
@@ -188,51 +188,51 @@
     "ids": []
   },
   "MBC": {
-    "names": ["AR: MBC 1 HD","AR: MBC 1 4K ◉","AR: MBC 1 ◉","AR| MBC 1","GOBX| MBC 1 FHD","GOBX| MBC 1 HD","MYHD| MBC 1 FHD","MYHD| MBC HD","STC| MBC ʰᵉᵛᶜ","STC| MBC ᴴᴰ"],
+    "names": ["AR: MBC 1 HD","AR: MBC 1 4K ◉","AR: MBC 1 ◉","AR| MBC 1","AR| GOBX MBC 1 FHD","AR| GOBX MBC 1 HD","GOBX| MBC 1 FHD","GOBX| MBC 1 HD","MYHD| MBC 1 FHD","MYHD| MBC HD","STC| MBC ʰᵉᵛᶜ","STC| MBC ᴴᴰ"],
     "ids": ["MBC1.ae","MBC1En.ae"]
   },
   "MBC 2": {
-    "names": ["AR: MBC 2","AR: MBC 2 HD ◉","AR: MBC 2 4K","AR| MBC 2","GOBX| MBC 2 FHD","GOBX| MBC 2 HD","MYHD| MBC 2 FHD","MYHD| MBC 2 HD","STC| MBC 2 ʰᵉᵛᶜ","STC| MBC 2 ᴴᴰ"],
+    "names": ["AR: MBC 2","AR: MBC 2 HD ◉","AR: MBC 2 4K","AR| MBC 2","AR| GOBX MBC 2 FHD","AR| GOBX MBC 2 HD","GOBX| MBC 2 FHD","GOBX| MBC 2 HD","MYHD| MBC 2 FHD","MYHD| MBC 2 HD","STC| MBC 2 ʰᵉᵛᶜ","STC| MBC 2 ᴴᴰ"],
     "ids": ["MBC2.ae","MBC2En.ae"]
   },
   "MBC 3": {
-    "names": ["AR: MBC 3","AR: MBC 3 HD","AR: MBC 3 4K ◉","AR| MBC 3","GOBX| MBC 3 HD","MYHD| MBC 3 FHD","MYHD| MBC 3 HD","STC| MBC 3 ʰᵉᵛᶜ","STC| MBC 3 ᴴᴰ"],
+    "names": ["AR: MBC 3","AR: MBC 3 HD","AR: MBC 3 4K ◉","AR| MBC 3","AR| GOBX MBC 3 FHD","AR| GOBX MBC 3 HD","GOBX| MBC 3 HD","MYHD| MBC 3 FHD","MYHD| MBC 3 HD","STC| MBC 3 ʰᵉᵛᶜ","STC| MBC 3 ᴴᴰ"],
     "ids": ["MBC3.ae","MBC3Ar.ae","MBC3En.ae"]
   },
   "MBC 4": {
-    "names": ["AR: MBC 4","AR: MBC 4 HD","AR: MBC 4 4K ◉","AR| MBC 4","GOBX| MBC 4 FHD","GOBX| MBC 4 HD","MYHD| MBC 4 FHD","MYHD| MBC 4 HD","STC| MBC 4 ʰᵉᵛᶜ","STC| MBC 4 ᴴᴰ"],
+    "names": ["AR: MBC 4","AR: MBC 4 HD","AR: MBC 4 4K ◉","AR| MBC 4","AR| GOBX MBC 4 FHD","AR| GOBX MBC 4 HD","GOBX| MBC 4 FHD","GOBX| MBC 4 HD","MYHD| MBC 4 FHD","MYHD| MBC 4 HD","STC| MBC 4 ʰᵉᵛᶜ","STC| MBC 4 ᴴᴰ"],
     "ids": ["MBC4.sa"]
   },
   "MBC 5": {
-    "names": ["AR: MBC 5","AR: MBC 5 HD","AR: MBC 5 4K ◉","AR: MBC 5 ᴿᴬᵂ","AR| MBC 5","AR| MBC 5 FHD","GOBX| MBC 5 FHD","GOBX| MBC 5 HD","MYHD| MBC 5 FHD"],
+    "names": ["AR: MBC 5","AR: MBC 5 HD","AR: MBC 5 4K ◉","AR: MBC 5 ᴿᴬᵂ","AR| MBC 5","AR| MBC 5 FHD","AR| GOBX MBC 5 FHD","AR| GOBX MBC 5 HD","GOBX| MBC 5 FHD","GOBX| MBC 5 HD","MYHD| MBC 5 FHD"],
     "ids": ["MBC5.ae"]
   },
   "MBC Action": {
-    "names": ["AR: MBC Action","AR: MBC ACTION 4K ◉","AR| MBC ACTION","GOBX| MBC ACTION FHD","MYHD| MBC ACTION FHD","MYHD| MBC ACTION HD","STC| MBC ACTION ʰᵉᵛᶜ","STC| MBC ACTION ᴴᴰ"],
+    "names": ["AR: MBC Action","AR: MBC ACTION 4K ◉","AR| MBC ACTION","AR| GOBX MBC ACTION FHD","AR| GOBX MBC ACTION HD","GOBX| MBC ACTION FHD","MYHD| MBC ACTION FHD","MYHD| MBC ACTION HD","STC| MBC ACTION ʰᵉᵛᶜ","STC| MBC ACTION ᴴᴰ"],
     "ids": ["MBCActionEn.sa","MBCAction.sa"]
   },
   "MBC Bollywood": {
-    "names": ["AR: MBC Bollywood","AR: MBC Bollywood HD","AR: MBC Bollywood 4K ◉","AR| MBC BOLLYWOOD","MYHD| MBC BOLLYWOOD FHD","MYHD| MBC BOLLYWOOD HD","STC| MBC BOLLYWOOD ʰᵉᵛᶜ","STC| MBC BOLLYWOOD ᴴᴰ"],
+    "names": ["AR: MBC Bollywood","AR: MBC Bollywood HD","AR: MBC Bollywood 4K ◉","AR| MBC BOLLYWOOD","AR| GOBX MBC BOLLYWOOD FHD","MYHD| MBC BOLLYWOOD FHD","MYHD| MBC BOLLYWOOD HD","STC| MBC BOLLYWOOD ʰᵉᵛᶜ","STC| MBC BOLLYWOOD ᴴᴰ"],
     "ids": ["MBCBollywood.sa","MBCBollywoodEn.sa"]
   },
   "MBC Drama": {
-    "names": ["AR: MBC Drama","AR: MBC Drama HD","AR: MBC DRAMA 4K ◉"],
+    "names": ["AR: MBC Drama","AR: MBC Drama HD","AR: MBC DRAMA 4K ◉","AR| MBC DRAMA","AR| MBC DRAMA SD","AR| GOBX MBC DRAMA FHD","AR| GOBX MBC DRAMA HD"],
     "ids": ["MBCDrama.ae","MBCDramaAr.ae","MBCDramaEn.ae"]
   },
   "MBC Drama +": {
-    "names": ["AR: MBC Drama+ 4K ◉"],
+    "names": ["AR: MBC Drama+ 4K ◉","AR| MBC DRAMA+ FHD","AR| GOBX MBC DRAMA+ FHD","AR| GOBX MBC DRAMA+ HD"],
     "ids": ["MBCDramaPlus.ae"]
   },
   "MBC Egypt": {
-    "names": ["AR: MBC Maser HD","AR: MBC MASER 4K ◉"],
+    "names": ["AR: MBC Maser HD","AR: MBC MASER 4K ◉","AR| MBC MASR","AR| GOBX MBC MASR 1 FHD","AR| GOBX MBC MASR 1 HD"],
     "ids": ["MBCEgyptAr.eg"]
   },
   "MBC Iraq": {
-    "names": ["AR: MBC IRAQ","AR: MBC IRAQ HD","AR: MBC IRAQ 4K ◉","AR| MBC IRAQ FHD","GOBX| MBC IRAQ HD","MYHD| MBC IRAQ  FHD"],
+    "names": ["AR: MBC IRAQ","AR: MBC IRAQ HD","AR: MBC IRAQ 4K ◉","AR| MBC IRAQ FHD","AR| GOBX MBC IRAQ FHD","AR| GOBX MBC IRAQ HD","GOBX| MBC IRAQ HD","MYHD| MBC IRAQ  FHD"],
     "ids": ["MBCIraq.iq","MBCIraqEn.iq"]
   },
   "MBC MASR 2": {
-    "names": ["AR: MBC MASER 2","AR: MBC Maser 2 HD","AR: MBC MASER 2 4K ◉","AR| MBC MASR 2","GOBX| MBC MASR 2 FHD","GOBX| MBC MASR 2 HD","MYHD| MBC MASER 2","MYHD| MBC MASR 2 FHD","STC| MBC MASR 2 ʰᵉᵛᶜ","STC| MBC MASR 2 ᴴᴰ"],
+    "names": ["AR: MBC MASER 2","AR: MBC Maser 2 HD","AR: MBC MASER 2 4K ◉","AR| MBC MASR 2","AR| GOBX MBC MASR 2 FHD","AR| GOBX MBC MASR 2 HD","GOBX| MBC MASR 2 FHD","GOBX| MBC MASR 2 HD","MYHD| MBC MASER 2","MYHD| MBC MASR 2 FHD","STC| MBC MASR 2 ʰᵉᵛᶜ","STC| MBC MASR 2 ᴴᴰ"],
     "ids": ["MbcMasr2.eg","MBCMasr2En.eg"]
   },
   "MBC Masr Drama": {
@@ -240,7 +240,7 @@
     "ids": []
   },
   "MBC MAX": {
-    "names": ["AR: MBC MAX","AR: MBC MAX 4K ◉","AR: MBC MAX ᴿᴬᵂ","AR| MBC MAX","GOBX| MBC MAX HD","MYHD| MBC MAX FHD","MYHD| MBC MAX HD","STC| MBC MAX ʰᵉᵛᶜ","STC| MBC MAX ᴴᴰ"],
+    "names": ["AR: MBC MAX","AR: MBC MAX 4K ◉","AR: MBC MAX ᴿᴬᵂ","AR| MBC MAX","AR| GOBX MBC MAX HD","GOBX| MBC MAX HD","MYHD| MBC MAX FHD","MYHD| MBC MAX HD","STC| MBC MAX ʰᵉᵛᶜ","STC| MBC MAX ᴴᴰ"],
     "ids": ["MBCMaxEn.ae","MBCMax.ae"]
   },
   "Mehwar": {
@@ -304,19 +304,19 @@
     "ids": []
   },
   "OSN TV Comedy": {
-    "names": ["OSN: COMEDY ᶠ ᴴᴰ","OSN: COMDEY ᴿᴬᵂ","BE: OSN COMDEY ᴴᴰ","OSN| COMDEY FHD"],
+    "names": ["OSN: COMEDY ᶠ ᴴᴰ","OSN: COMDEY ᴿᴬᵂ","AR| OSN COMDEY","BE: OSN COMDEY ᴴᴰ","OSN| COMDEY FHD"],
     "ids": []
   },
   "OSN TV Crime": {
-    "names": ["OSN: CRIME ᴿᴬᵂ","OSN: CRIME ᶠ ᴴᴰ","BE: OSN CRIME ᴴᴰ","OSN| CRIME FHD"],
+    "names": ["OSN: CRIME ᴿᴬᵂ","OSN: CRIME ᶠ ᴴᴰ","AR| OSN CRIME","BE: OSN CRIME ᴴᴰ","OSN| CRIME FHD"],
     "ids": []
   },
   "OSN TV Kids": {
-    "names": ["OSN: KIDS ᴿᴬᵂ","OSN: KIDS ᶠ ᴴᴰ","BE: OSN KIDS ᴴᴰ","OSN| KIDS FHD"],
+    "names": ["OSN: KIDS ᴿᴬᵂ","OSN: KIDS ᶠ ᴴᴰ","AR| OSN KIDS","BE: OSN KIDS ᴴᴰ","OSN| KIDS FHD"],
     "ids": []
   },
   "OSN TV Movies Action": {
-    "names": ["OSN: MOVIES ACTION ᴿᴬᵂ","BE: OSN MOVIES ACTION ᴴᴰ","OSN| MOVIES ACTION FHD"],
+    "names": ["OSN: MOVIES ACTION ᴿᴬᵂ","AR| OSN MOVIES ACTION","BE: OSN MOVIES ACTION ᴴᴰ","OSN| MOVIES ACTION FHD"],
     "ids": []
   },
   "OSN TV Movies Comedy": {
@@ -324,39 +324,39 @@
     "ids": []
   },
   "OSN TV Movies Family": {
-    "names": ["OSN: MOVIES FAMILY ᴿᴬᵂ","BE: OSN MOVIES  FAMILY ᴴᴰ","OSN| MOVIES FAMILY FHD"],
+    "names": ["OSN: MOVIES FAMILY ᴿᴬᵂ","AR| OSN MOVIES FAMILY","BE: OSN MOVIES  FAMILY ᴴᴰ","OSN| MOVIES FAMILY FHD"],
     "ids": []
   },
   "OSN TV Movies Hollywood": {
-    "names": ["OSN: MOVIES HOLLYWOOD ᶠ ᴴᴰ","OSN: MOVIES HOLLOWAY ᴿᴬᵂ","BE: OSN MOVIES HOLLOWAY ᴴᴰ"],
+    "names": ["OSN: MOVIES HOLLYWOOD ᶠ ᴴᴰ","OSN: MOVIES HOLLOWAY ᴿᴬᵂ","AR| OSN MOVIES HOLLOWAY","BE: OSN MOVIES HOLLOWAY ᴴᴰ"],
     "ids": []
   },
   "OSN TV Movies Premiere": {
-    "names": ["OSN: MOVIES PREMIERE ᴿᴬᵂ","OSN: MOVIES PREMIERE ᶠ ᴴᴰ","BE: OSN MOVIES PREMIERE ᴴᴰ","OSN| MOVIES PREMIERE FHD"],
+    "names": ["OSN: MOVIES PREMIERE ᴿᴬᵂ","OSN: MOVIES PREMIERE ᶠ ᴴᴰ","AR| OSN MOVIES PREMIERE","BE: OSN MOVIES PREMIERE ᴴᴰ","OSN| MOVIES PREMIERE FHD"],
     "ids": []
   },
   "OSN TV Now": {
-    "names": ["OSN: NOW ᴿᴬᵂ","OSN: NOW ᶠ ᴴᴰ","BE: OSN NOW ᴴᴰ","OSN| NOW FHD"],
+    "names": ["OSN: NOW ᴿᴬᵂ","OSN: NOW ᶠ ᴴᴰ","AR| OSN NOW","BE: OSN NOW ᴴᴰ","OSN| NOW FHD"],
     "ids": []
   },
   "OSN TV One": {
-    "names": ["OSN: ONE ᴿᴬᵂ","OSN: TV ONE ᶠ ᴴᴰ"],
+    "names": ["OSN: ONE ᴿᴬᵂ","OSN: TV ONE ᶠ ᴴᴰ","AR| OSN ONE"],
     "ids": []
   },
   "OSN TV Showcase": {
-    "names": ["OSN: SHOWCASE ᴿᴬᵂ","OSN: SHOWCASE ᶠ ᴴᴰ","BE: OSN SHOWCASE ᴴᴰ","OSN| SHOWCASE FHD"],
+    "names": ["OSN: SHOWCASE ᴿᴬᵂ","OSN: SHOWCASE ᶠ ᴴᴰ","AR| OSN SHOWCASE","BE: OSN SHOWCASE ᴴᴰ","OSN| SHOWCASE FHD"],
     "ids": []
   },
   "OSN TV Yahala Bil Arabi": {
-    "names": ["OSN: YAHALA BIL ARABI ᴿᴬᵂ","OSN: YAHALA BIL ARABI ᶠ ᴴᴰ","BE: OSN YAHALA BIL ARABI ᴴᴰ","OSN| YAHALA BIL ARABI FHD"],
+    "names": ["OSN: YAHALA BIL ARABI ᴿᴬᵂ","OSN: YAHALA BIL ARABI ᶠ ᴴᴰ","AR| OSN YAHALA BIL ARABI","BE: OSN YAHALA BIL ARABI ᴴᴰ","OSN| YAHALA BIL ARABI FHD"],
     "ids": []
   },
   "OSN Ya Hala": {
-    "names": ["OSN: YAHALA ᴿᴬᵂ","OSN: YAHALA ᶠ ᴴᴰ","OSN| YAHALA FHD"],
+    "names": ["OSN: YAHALA ᴿᴬᵂ","OSN: YAHALA ᶠ ᴴᴰ","AR| OSN YAHALA","OSN| YAHALA FHD"],
     "ids": []
   },
   "Osn Ya Hala Aflam": {
-    "names": ["OSN: YAHALA AFLAM ᴿᴬᵂ","OSN: YAHALA AFLAM ᶠ ᴴᴰ","BE: OSN YAHALA AFLAM ᴴᴰ","OSN| YAHALA AFLAM FHD"],
+    "names": ["OSN: YAHALA AFLAM ᴿᴬᵂ","OSN: YAHALA AFLAM ᶠ ᴴᴰ","AR| OSN YAHALA AFLAM","BE: OSN YAHALA AFLAM ᴴᴰ","OSN| YAHALA AFLAM FHD"],
     "ids": []
   },
   "Rotana Cinema": {
@@ -412,7 +412,7 @@
     "ids": []
   },
   "Sharjah TV": {
-    "names": ["AR: Sharjah 4K","AR: Sharjah HD","STC| SHARJAH TV ʰᵉᵛᶜ","STC| SHARJAH TV ᴴᴰ"],
+    "names": ["AR: Sharjah 4K","AR: Sharjah HD","AR| Al SHARJAH HD","STC| SHARJAH TV ʰᵉᵛᶜ","STC| SHARJAH TV ᴴᴰ"],
     "ids": []
   },
   "Star Action": {
@@ -440,7 +440,7 @@
     "ids": []
   },
   "Watania 2": {
-    "names": ["AR: Tunisia National 2 ◉"],
+    "names": ["AR: Tunisia National 2 ◉","AR| TUNISIA NAT 2"],
     "ids": ["Tunisia2.tn"]
   },
   "Watania1": {
