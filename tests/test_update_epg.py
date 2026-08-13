@@ -202,6 +202,21 @@ def test_source_wall_clock_shift_supports_fractional_timezone_offsets():
     ) == -timedelta(hours=1, minutes=45)
 
 
+def test_channel_wall_clock_shift_corrects_only_sharjah_tv():
+    base_shift = timedelta(hours=8)
+    sharjah = Channel(
+        "Sharjah TV", "Sharjah TV", "https://elcinema.com/en/tvguide/1188/"
+    )
+    emirates = Channel(
+        "Emirates", "Emirates", "https://elcinema.com/en/tvguide/1135/"
+    )
+
+    assert update_epg.channel_wall_clock_shift(sharjah, base_shift) == timedelta(
+        hours=7
+    )
+    assert update_epg.channel_wall_clock_shift(emirates, base_shift) == base_shift
+
+
 def test_configured_source_timezone_uses_valid_environment(monkeypatch):
     monkeypatch.setenv("ELCINEMA_SOURCE_TIMEZONE", "America/New_York")
 
