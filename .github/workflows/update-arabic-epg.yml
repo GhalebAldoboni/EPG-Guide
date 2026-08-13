@@ -44,6 +44,10 @@ jobs:
 
       - name: Generate and validate Arabic EPG
         run: python update_epg.py
+        env:
+          # elCinema currently localizes GitHub-hosted runner requests to US Eastern.
+          # ZoneInfo keeps the Dubai correction accurate across DST changes.
+          ELCINEMA_SOURCE_TIMEZONE: America/New_York
 
       - name: Commit changed guide
         run: |

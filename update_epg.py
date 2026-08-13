@@ -15,7 +15,7 @@ from collections import Counter
 from collections.abc import Collection, Mapping
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import replace
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone, tzinfo
 from pathlib import Path
 from types import MappingProxyType
 from urllib.error import HTTPError, URLError
@@ -29,12 +29,10 @@ from epg_generator import Channel, Programme, SourceParseError, build_xmltv, dis
 
 BASE_URL = "https://elcinema.com"
 INDEX_URL = f"{BASE_URL}/en/tvguide/"
-TIMEZONE_URL = "https://ipwho.is/"
 SUBSCRIPTION_ALIASES_PATH = Path(__file__).with_name("channel_aliases.json")
 USER_AGENT = "EPG-Guide-Updater/2.0 (+https://github.com/MuazT/EPG-Guide)"
 DUBAI = ZoneInfo("Asia/Dubai")
 MAX_RESPONSE_BYTES = 5 * 1024 * 1024
-MAX_TIMEZONE_RESPONSE_BYTES = 32 * 1024
 ALLOWED_SOURCE_HOSTS = frozenset({"elcinema.com", "www.elcinema.com"})
 MAX_CHANNELS = 250
 MAX_PROGRAMMES = 100_000
@@ -63,16 +61,6 @@ class _SafeRedirectHandler(HTTPRedirectHandler):
 
 
 urlopen = build_opener(_SafeRedirectHandler()).open
-
-
-class _SafeTimezoneRedirectHandler(HTTPRedirectHandler):
-    def redirect_request(self, req, fp, code, msg, headers, newurl):
-        if newurl != TIMEZONE_URL:
-            raise HTTPError(newurl, code, "unexpected timezone-service redirect", headers, fp)
-        return super().redirect_request(req, fp, code, msg, headers, newurl)
-
-
-timezone_urlopen = build_opener(_SafeTimezoneRedirectHandler()).open
 
 
 class RateLimiter:
@@ -129,50 +117,24 @@ def apply_aliases(channels: tuple[Channel, ...]) -> tuple[Channel, ...]:
     )
 
 
-def fetch_source_timezone(retries: int = 3) -> ZoneInfo:
-    """Resolve the requester's public timezone without retaining its IP data."""
-    for attempt in range(retries):
-        request = Request(
-            TIMEZONE_URL,
-            headers={"User-Agent": USER_AGENT, "Accept": "application/json"},
-        )
-        try:
-            with timezone_urlopen(request, timeout=15) as response:
-                if response.geturl() != TIMEZONE_URL or response.status != 200:
-                    raise SourceParseError("timezone service returned an unexpected response")
-                if response.headers.get_content_type() != "application/json":
-                    raise SourceParseError("timezone service returned non-JSON content")
-                content_length = response.headers.get("Content-Length")
-                if content_length and int(content_length) > MAX_TIMEZONE_RESPONSE_BYTES:
-                    raise SourceParseError("timezone response exceeded the size limit")
-                body = response.read(MAX_TIMEZONE_RESPONSE_BYTES + 1)
-                if len(body) > MAX_TIMEZONE_RESPONSE_BYTES:
-                    raise SourceParseError("timezone response exceeded the size limit")
-                payload = json.loads(body.decode("utf-8"))
-        except SourceParseError:
-            raise
-        except (HTTPError, URLError, TimeoutError, OSError, UnicodeError) as error:
-            if attempt == retries - 1:
-                raise SourceParseError(f"failed to resolve source timezone: {error}") from error
-            time.sleep(2**attempt)
-            continue
-        except ValueError as error:
-            raise SourceParseError("timezone service returned invalid data") from error
-        if not isinstance(payload, dict) or payload.get("success") is not True:
-            raise SourceParseError("timezone service did not resolve a timezone")
-        timezone_data = payload.get("timezone")
-        zone_id = timezone_data.get("id") if isinstance(timezone_data, dict) else None
-        if not isinstance(zone_id, str) or not 1 <= len(zone_id) <= 64:
-            raise SourceParseError("timezone service returned an invalid timezone")
-        try:
-            return ZoneInfo(zone_id)
-        except (ZoneInfoNotFoundError, ValueError) as error:
-            raise SourceParseError("timezone service returned an unknown timezone") from error
-    raise AssertionError("unreachable")
+def configured_source_timezone() -> tzinfo:
+    """Return the timezone elCinema uses for this updater's request region."""
+    zone_id = os.environ.get("ELCINEMA_SOURCE_TIMEZONE")
+    if not zone_id:
+        local_zone = datetime.now().astimezone().tzinfo
+        if local_zone is None:
+            raise SourceParseError("local timezone is unavailable")
+        return local_zone
+    if not 1 <= len(zone_id) <= 64:
+        raise SourceParseError("ELCINEMA_SOURCE_TIMEZONE is invalid")
+    try:
+        return ZoneInfo(zone_id)
+    except (ZoneInfoNotFoundError, ValueError) as error:
+        raise SourceParseError("ELCINEMA_SOURCE_TIMEZONE is unknown") from error
 
 
 def source_wall_clock_shift(
-    source_timezone: ZoneInfo, *, now: datetime | None = None
+    source_timezone: tzinfo, *, now: datetime | None = None
 ) -> timedelta:
     """Return the DST-aware shift from elCinema's requester clock to Dubai."""
     instant = (now or datetime.now(DUBAI)).astimezone(timezone.utc)
@@ -258,7 +220,7 @@ def collect_guide(
     """Fetch and parse the index plus every Arabic channel page."""
     limiter = RateLimiter(delay)
     index_html = fetch_text(INDEX_URL, limiter)
-    wall_clock_shift = source_wall_clock_shift(fetch_source_timezone())
+    wall_clock_shift = source_wall_clock_shift(configured_source_timezone())
     discovered = apply_subscription_aliases(
         apply_aliases(discover_channels(index_html, BASE_URL)),
         load_subscription_aliases(),

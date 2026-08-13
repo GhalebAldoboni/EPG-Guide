@@ -9,39 +9,6 @@ import update_epg
 from epg_generator import Channel, Programme, SourceParseError, build_xmltv
 
 
-def make_json_response(body: bytes, *, content_length=None):
-    class Headers:
-        @staticmethod
-        def get_content_type():
-            return "application/json"
-
-        @staticmethod
-        def get(name):
-            if name == "Content-Length" and content_length is not None:
-                return str(content_length)
-            return None
-
-    class Response:
-        status = 200
-        headers = Headers()
-
-        @staticmethod
-        def geturl():
-            return update_epg.TIMEZONE_URL
-
-        @staticmethod
-        def read(limit):
-            return body[:limit]
-
-        def __enter__(self):
-            return self
-
-        def __exit__(self, *args):
-            return None
-
-    return Response()
-
-
 def sample_guide():
     now = datetime.now(update_epg.DUBAI)
     channel = Channel("Test TV", "قناة الاختبار", "https://elcinema.com/tvguide/1/")
@@ -170,7 +137,7 @@ def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixt
 
     monkeypatch.setattr(update_epg, "fetch_text", fake_fetch)
     monkeypatch.setattr(
-        update_epg, "fetch_source_timezone", lambda: ZoneInfo("Asia/Dubai")
+        update_epg, "configured_source_timezone", lambda: ZoneInfo("Asia/Dubai")
     )
 
     channels, programmes = update_epg.collect_guide(delay=0, workers=1)
@@ -202,7 +169,7 @@ def test_collect_guide_applies_detected_wall_clock_shift(monkeypatch, fixture_ht
 
     monkeypatch.setattr(update_epg, "fetch_text", fake_fetch)
     monkeypatch.setattr(
-        update_epg, "fetch_source_timezone", lambda: ZoneInfo("Asia/Dubai")
+        update_epg, "configured_source_timezone", lambda: ZoneInfo("Asia/Dubai")
     )
     monkeypatch.setattr(
         update_epg,
@@ -235,30 +202,17 @@ def test_source_wall_clock_shift_supports_fractional_timezone_offsets():
     ) == -timedelta(hours=1, minutes=45)
 
 
-def test_fetch_source_timezone_accepts_valid_bounded_response(monkeypatch):
-    body = b'{"success":true,"timezone":{"id":"Asia/Dubai"}}'
-    response = make_json_response(body)
-    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
+def test_configured_source_timezone_uses_valid_environment(monkeypatch):
+    monkeypatch.setenv("ELCINEMA_SOURCE_TIMEZONE", "America/New_York")
 
-    assert update_epg.fetch_source_timezone() == ZoneInfo("Asia/Dubai")
+    assert update_epg.configured_source_timezone() == ZoneInfo("America/New_York")
 
 
-def test_fetch_source_timezone_rejects_invalid_payload(monkeypatch):
-    response = make_json_response(b'{"success":true,"timezone":{}}')
-    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
+def test_configured_source_timezone_rejects_unknown_environment(monkeypatch):
+    monkeypatch.setenv("ELCINEMA_SOURCE_TIMEZONE", "Not/A_Timezone")
 
-    with pytest.raises(SourceParseError, match="invalid timezone"):
-        update_epg.fetch_source_timezone()
-
-
-def test_fetch_source_timezone_rejects_oversized_response(monkeypatch):
-    response = make_json_response(
-        b"{}", content_length=update_epg.MAX_TIMEZONE_RESPONSE_BYTES + 1
-    )
-    monkeypatch.setattr(update_epg, "timezone_urlopen", lambda *args, **kwargs: response)
-
-    with pytest.raises(SourceParseError, match="size limit"):
-        update_epg.fetch_source_timezone()
+    with pytest.raises(SourceParseError, match="unknown"):
+        update_epg.configured_source_timezone()
 
 
 def test_validate_guide_accepts_complete_xml_and_reports_summary():
