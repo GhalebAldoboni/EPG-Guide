@@ -24,7 +24,15 @@ from urllib.request import HTTPRedirectHandler, Request, build_opener
 from xml.etree import ElementTree as ET
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
-from epg_generator import Channel, Programme, SourceParseError, build_xmltv, discover_channels, parse_channel_page
+from epg_generator import (
+    Channel,
+    Programme,
+    SourceParseError,
+    build_xmltv,
+    discover_channels,
+    parse_channel_page,
+)
+from iptv_org_sources import collect_iptv_org_guide
 
 
 BASE_URL = "https://elcinema.com"
@@ -266,6 +274,18 @@ def collect_guide(
         for channel in discovered
         for programme in parsed[channel.id][1]
     )
+    extra_channels, extra_programmes = collect_iptv_org_guide(
+        limiter, reference_date=scrape_date
+    )
+    duplicate_ids = {channel.id for channel in channels} & {
+        channel.id for channel in extra_channels
+    }
+    if duplicate_ids:
+        raise SourceParseError(
+            f"supplemental guide duplicates canonical IDs: {sorted(duplicate_ids)!r}"
+        )
+    channels = channels + extra_channels
+    programmes = programmes + extra_programmes
     if len(programmes) > MAX_PROGRAMMES:
         raise SourceParseError(f"source advertised too many programmes: {len(programmes)}")
     return channels, programmes

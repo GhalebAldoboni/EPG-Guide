@@ -139,6 +139,9 @@ def test_collect_guide_integrates_discovery_and_channel_parser(monkeypatch, fixt
     monkeypatch.setattr(
         update_epg, "configured_source_timezone", lambda: ZoneInfo("Asia/Dubai")
     )
+    monkeypatch.setattr(
+        update_epg, "collect_iptv_org_guide", lambda *args, **kwargs: ((), ())
+    )
 
     channels, programmes = update_epg.collect_guide(delay=0, workers=1)
 
@@ -176,10 +179,44 @@ def test_collect_guide_applies_source_and_schedule_clock_shifts(monkeypatch, fix
         "source_wall_clock_shift",
         lambda source_timezone: timedelta(hours=8),
     )
+    monkeypatch.setattr(
+        update_epg, "collect_iptv_org_guide", lambda *args, **kwargs: ((), ())
+    )
 
     _, programmes = update_epg.collect_guide(delay=0, workers=1)
 
     assert programmes[0].start.hour == 3
+
+
+def test_collect_guide_merges_supplemental_iptv_org_channels(monkeypatch, fixture_html):
+    index_html = fixture_html("tvguide_index_en.html")
+
+    def fake_fetch(url, limiter, retries=3):
+        if url == update_epg.INDEX_URL:
+            return index_html
+        return fixture_html("channel_1128_ar.html")
+
+    supplemental = Channel(
+        "ARTAflam1.sa", "ART Aflam 1", "https://www.artonline.tv/"
+    )
+    start = datetime(2026, 8, 14, 0, 0, tzinfo=update_epg.DUBAI)
+    monkeypatch.setattr(update_epg, "fetch_text", fake_fetch)
+    monkeypatch.setattr(
+        update_epg, "configured_source_timezone", lambda: ZoneInfo("Asia/Dubai")
+    )
+    monkeypatch.setattr(
+        update_epg,
+        "collect_iptv_org_guide",
+        lambda *args, **kwargs: (
+            (supplemental,),
+            (Programme(supplemental.id, "فيلم عربي", start, start + timedelta(hours=2)),),
+        ),
+    )
+
+    channels, programmes = update_epg.collect_guide(delay=0, workers=1)
+
+    assert supplemental in channels
+    assert any(programme.channel_id == supplemental.id for programme in programmes)
 
 
 def test_source_wall_clock_shift_is_dst_aware():

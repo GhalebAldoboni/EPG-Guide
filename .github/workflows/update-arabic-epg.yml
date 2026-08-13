@@ -7,6 +7,7 @@ on:
       - ".github/workflows/update-arabic-epg.yml"
       - "channel_aliases.json"
       - "epg_generator.py"
+      - "iptv_org_sources.py"
       - "requirements-test.txt"
       - "tests/**"
       - "update_epg.py"

@@ -1,0 +1,18 @@
+[
+  {
+    "duration": "04:00:00",
+    "title": "الفيلم الأول",
+    "description": "وصف عربي",
+    "thumbnail": "/images/first.jpg",
+    "start_Time": "20:00",
+    "adddate": "08/14/2026 00:00:00"
+  },
+  {
+    "duration": "02:00",
+    "title": "الفيلم الثاني",
+    "description": "",
+    "thumbnail": null,
+    "start_Time": "22:00",
+    "adddate": "08/14/2026 00:00:00"
+  }
+]
